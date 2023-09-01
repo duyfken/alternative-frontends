@@ -23,7 +23,7 @@ ___
    - [Public Instances](https://docs.invidious.io/instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://docs.invidious.io/Installation.md)
-   - [x] Decentralised Options | [I2P](http://tube.i2p) | [Onion](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md#tor-onion-services) | [Loki](http://invidious.loki)
+   - [x] Decentralised Options | [I2P](https://docs.invidious.io/instances/#i2p-eepsites) | [Onion](https://docs.invidious.io/instances/#tor-onion-services)
 
 - **Piped**
    - Alternative privacy-friendly YouTube front-end. Lightweight, no ads (Sponsorblock integrated), no tracking, 4K support and more. 
@@ -98,7 +98,7 @@ ___
    - [Public Instances](https://github.com/zedeus/nitter/wiki/Instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/zedeus/nitter#installation)
-   - [x] Decentralised Options | [I2P](http://axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p/)  | [Onion](http://nitter7bryz3jv7e3uekphigvmoyoem4al3fynerxkj22dmoxoq553qd.onion/) | [Loki](http://nitter.priv.loki/)
+   - [x] Decentralised Options | [I2P](https://github.com/zedeus/nitter/wiki/Instances#i2p)  | [Onion](https://github.com/zedeus/nitter/wiki/Instances#tor) | [Loki](https://github.com/zedeus/nitter/wiki/Instances#lokinet)
 
 ### Imgur
 - **Rimgu**
@@ -112,12 +112,11 @@ ___
    
 - **Rimgo**
    - Rewrite of Rimgu in Go. Works without JS and has several public instances, including an Onion one.
-   - [Main Instance](https://i.bcow.xyz/) | [Repo](https://codeberg.org/video-prize-ranch/rimgo)
-   - [Public Instances](https://codeberg.org/video-prize-ranch/rimgo#instances)
-   - Pattern for Redirector: `*imgur.com/*` to `https://i.bcow.xyz/$2`
+   - Main Instance n/a | [Repo](https://codeberg.org/rimgo/rimgo)
+   - [Public Instances](https://codeberg.org/rimgo/rimgo#instances)
    - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://codeberg.org/video-prize-ranch/rimgo#install)
-   - [x] Decentralised Options | [Onion](https://codeberg.org/video-prize-ranch/rimgo#instances)
+   - [x] Self-Hostable | [Guide](https://rimgo.codeberg.page/docs/getting-started/install/)
+   - [x] Decentralised Options | [I2P](https://codeberg.org/rimgo/rimgo#i2p) | [Onion](https://codeberg.org/rimgo/rimgo#tor)
 
 - **Imgin**
    - Lightweight Imgur front-end without Javascript and ads. Uses its own request implementation.
@@ -133,7 +132,7 @@ ___
    - [Public Instances](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#clearnet)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/pablouser1/ProxiTok#installation)
-   - [x] Decentralised Options | [Onion](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#tor)
+   - [x] Decentralised Options | [I2P](http://github.com/pablouser1/ProxiTok/wiki/Public-instances#i2p) | [Onion](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#tor)
 
 ### Medium
 - **Scribe**
@@ -142,6 +141,7 @@ ___
    - [Public Instances](https://git.sr.ht/~edwardloveall/scribe/tree/main/docs/instances.md)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://git.sr.ht/~edwardloveall/scribe#deploying-your-own)
+   - [x] Decentralised Options | [I2P](http://sc.vern.i2p) | [Onion](http://w7uhv5lxhgck72hhimdglmusc54t4m6bionlmd5mvyddq3bs53mohqid.onion/)
 
 - **LibMedium**
    - Minimalist proxy for Medium written in Rust
@@ -149,28 +149,24 @@ ___
    - [Public Instances](https://github.com/realaravinth/libmedium#instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/realaravinth/libmedium#deploy)
-   - [x] Decentralised Options | [Onion](https://github.com/realaravinth/libmedium#instances) | [I2P](https://github.com/realaravinth/libmedium#instances)
-
-   ⓘ LibMedium is in early development
+   - [x] Decentralised Options | [I2P](http://vernaqj2qr2pijpgvf3od6ssc3ulz3nv52gwr3hba5l6humuzmgq.b32.i2p/) | [Onion](http://md.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
 
 ### Quora
 - **Quetre**
    - Alternative front-end to Quora. It enables you to see answers without ads, trackers, and popups. Has an unofficial API.
-   - [Main Instance](https://quetre.herokuapp.com/) | [Repo](https://github.com/zyachel/quetre#instances)
+   - [Main Instance](https://quetre.iket.me/) | [Repo](https://github.com/zyachel/quetre)
    - [Public Instances](https://github.com/zyachel/quetre#instances)
-   - Pattern for Redirector: `*quora.com/*` to `https://quetre.herokuapp.com/$2`
    - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/zyachel/quetre#instances) | [Heroku Deploy](https://heroku.com/deploy?template=https://github.com/zyachel/quetre)
+   - [x] Self-Hostable | [Guide](https://github.com/zyachel/quetre#installation)
+   - [x] Decentralised Options | [I2P](http://qr.vern.i2p/) | [Onion](http://qr.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
 
 ### GitHub
 - **GotHub**
    - Minimalist JS-free Github front-end in Go
-   - [Main Instance](https://gh.odyssey346.dev) | [Repo](https://codeberg.org/gothub/gothub)
+   - Main Instance n/a | [Repo](https://codeberg.org/gothub/gothub)
    - [Public Instances](https://codeberg.org/gothub/gothub/wiki/Instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/gothub/gothub#setup)
-
-   ⓘ Gothub is in early development
 
 ### StackOverflow
 - **AnonymousOverflow**
@@ -198,16 +194,6 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/rramiachraf/dumb#installation--usage)
    - [x] Decentralised Options | [I2P](https://github.com/rramiachraf/dumb#i2p) | [Onion](https://github.com/rramiachraf/dumb#tor)
-
-### XVideos
-- **PornInvidious [NSFW!]**
-   - A privacy respecting front-end for XVideos from the team behind SimplyTranslate
-   - [Main Instance](https://porninvidious.esmailelbob.xyz) | [Repo](https://codeberg.org/SimpleWeb/PornInvidious)
-   - [Public Instances](https://simple-web.org/instances/porninvidious)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://codeberg.org/SimpleWeb/PornInvidious#how-to-use)
-   
-     ⓘ PornInvidious is in early developement, please audit the code if you intend to selfhost it.
 
 ### Fandom
 - **BreezeWiki**
@@ -282,16 +268,6 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/librarian/librarian#install)
    - [x] Decentralised Options | [Onion](https://codeberg.org/librarian/librarian#tor)
-
-### Wikipedia
-- **Wikiless**
-   - A Javascript-free Wikipedia front-end. Should work in countries where Wikipedia is censored.
-   - [Main Instance](https://wikiless.org) | [Repo](https://codeberg.org/orenom/wikiless)
-   - [Public Instances](https://codeberg.org/orenom/wikiless#instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://codeberg.org/orenom/wikiless#installation)
-
-   ⓘ Might or might not be abandoned. There were issues with Wikimedia it appears.
 
 ___
 
