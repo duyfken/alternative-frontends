@@ -1,13 +1,13 @@
-## Alternative Frontends
+## Alternative Front-ends
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/digitalblossom/alternative-frontends/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/duyfken/alternative-front-ends/graphs/commit-activity)
 
-**This is a list of privacy-respecting frontends to popular services like social media. All of them are cross-plattform webapps and should work on your device no matter the OS and hardware.**
+**This is a list of privacy-respecting front-ends to popular online services, including social media, streaming and information services. All of them are cross-platform webapps and should work on your device no matter the OS and hardware.**
 ___
-ⓘ You can suggest new frontends and modifications to the list **[here](https://github.com/digitalblossom/alternative-frontends/issues/new/choose)**.
+ⓘ You can suggest new front-ends and modifications to the list **[here](https://github.com/duyfken/alternative-front-ends/issues/new/choose)**.
 
-Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346** and **gi-yt** for their contributions!
+Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346** and **gi-yt** for their contributions to https://github.com/mendel5/alternative-front-ends before it was forked here!
 
 ___
 [Youtube](#youtube) • [YT Music](#youtube-music) • [Reddit](#reddit) • [Twitter](#twitter) • [Imgur](#imgur) • [Tiktok](#tiktok) • [Medium](#medium) • [Quora](#quora) • [GitHub](#github) • [StackOverflow](#stackoverflow) • [IMDb](#imdb) • [Genius](#genius) • [XVideos](#xvideos) • [Fandom](#fandom) • [Translate](#translate) • [Search Engines](#search-engines) • [Instagram](#instagram) • [Odysee](#odysee) • [Wikipedia](#wikipedia) • [Tools](#tools)
@@ -18,7 +18,7 @@ ___
 ___
 ### YouTube
 - **Invidious**
-   - Lightweight YouTube frontend - no tracking, no ads and Javascript is optional.
+   - Lightweight YouTube front-end - no tracking, no ads and Javascript is optional.
    - [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious)
    - [Public Instances](https://docs.invidious.io/instances)
    - [x] Open-Source
@@ -26,22 +26,22 @@ ___
    - [x] Decentralized Options | [I2P](http://tube.i2p) | [Onion](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md#tor-onion-services) | [Loki](http://invidious.loki)
 
 - **Piped**
-   - Alternative privacy-friendly YouTube frontend. Lightweight, no ads (Sponsorblock integrated), no tracking, 4K support and more. 
+   - Alternative privacy-friendly YouTube front-end. Lightweight, no ads (Sponsorblock integrated), no tracking, 4K support and more. 
    - [Main Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped)
    - [Public Instances](https://piped.kavin.rocks/preferences) (scroll down)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://piped-docs.kavin.rocks/docs/self-hosting)
-   - [x] Decentralized Options | [IPNS](https://github.com/digitalblossom/alternative-frontends/issues/25#issuecomment-1002261657) | [Onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
+   - [x] Decentralized Options | [IPNS](ipns://piped-ipfs.kavin.rocks/) | [Onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
 
 - **Cloudtube**
-   - Alternative Invidious frontend without Javascript. 
+   - Alternative Invidious front-end without Javascript. 
    - [Main Instance](https://tube.cadence.moe) | [Repo](https://sr.ht/~cadence/tube)
    - Public Instances n/a
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md)
 
 - **Viewtube**
-   - Privacy-respecting frontend with subscription, watch-progress and recommendation features. 
+   - Privacy-respecting front-end with subscription, watch-progress and recommendation features. 
    - [Main Instance](https://viewtube.io/) | [Repo](https://github.com/ViewTube/viewtube-vue)
    - Public Instances n/a
    - [x] Open-Source
@@ -50,14 +50,14 @@ ___
 
 ### YouTube Music
 - **BeatBump**
-   - Privacy-friendly YouTube Music frontend built with Svelte. Supports device sync.
+   - Privacy-friendly YouTube Music front-end built with Svelte. Supports device sync.
    - [Main Instance](https://beatbump.ml) | [Repo](https://github.com/snuffyDev/Beatbump)
    - Public Instances n/a
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://snuffydev.github.io/Beatbump/index.html#/docs/introduction/deploying)
 
 - **Hyperpipe**
-   - A privacy-respecting frontend for YouTube Music, inspired by and built with the help of Piped
+   - A privacy-respecting front-end for YouTube Music, inspired by and built with the help of Piped
    - [Main Instance](https://hyperpipe.surge.sh) | [Repo](https://codeberg.org/Hyperpipe/Hyperpipe)
    - [Public Instances](https://hyperpipe.codeberg.page)
    - [x] Open-Source
@@ -66,7 +66,7 @@ ___
 
 ### Reddit
 - **Teddit**
-   - Privacy-focused lightweight Reddit frontend. No ads, no javascript. Provides an unofficial API. 
+   - Privacy-focused lightweight Reddit front-end. No ads, no javascript. Provides an unofficial API. 
    - [Main Instance](https://teddit.net) | [Repo](https://codeberg.org/teddit/teddit)
    - [Public Instances](https://github.com/teddit-net/teddit#instances)
    - [x] Open-Source
@@ -74,14 +74,14 @@ ___
    - [x] Decentralized Options | [I2P](http://teddit.i2p) 
 
 - **Libreddit**
-   - Privacy-focused fast Reddit frontend without ads, javascript and tracking. All requests are proxied through the server.
+   - Privacy-focused fast Reddit front-end without ads, javascript and tracking. All requests are proxied through the server.
    - [Main Instance](https://libreddit.spike.codes) | [Repo](https://github.com/spikecodes/libreddit)
    - [Public Instances](https://github.com/spikecodes/libreddit#instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/spikecodes/libreddit#installation)
 
 - **Troddit**   
-   - A significantly smaller Open Source frontend for Reddit, written in NextJS.
+   - A significantly smaller Open Source front-end for Reddit, written in NextJS.
    - [Main Instance](https://troddit.com/) | [Repo](https://github.com/burhan-syed/troddit)
    - Public Instances n/a
    - [x] Open-Source
@@ -91,7 +91,7 @@ ___
 
 ### Twitter
 - **Nitter**
-   - Lightweight Twitter frontend. No ads, no Javascript, no tracking. RSS support.
+   - Lightweight Twitter front-end. No ads, no Javascript, no tracking. RSS support.
    - [Main Instance](https://nitter.net/) | [Repo](https://github.com/zedeus/nitter)
    - [Public Instances](https://github.com/zedeus/nitter/wiki/Instances)
    - [x] Open-Source
@@ -99,7 +99,7 @@ ___
 
 ### Imgur
 - **Rimgu**
-   - Lightweight Imgur frontend without Javascript and ads. Uses its own request implementation. Can use either API or scraping.
+   - Lightweight Imgur front-end without Javascript and ads. Uses its own request implementation. Can use either API or scraping.
    - Main Instance n/a | [Repo](https://codeberg.org/3np/rimgu)
    - Public Instances n/a
    - [x] Open-Source
@@ -117,7 +117,7 @@ ___
    - [x] Decentralized Options | [Onion](https://codeberg.org/video-prize-ranch/rimgo#instances)
 
 - **Imgin**
-   - Lightweight Imgur frontend without Javascript and ads. Uses its own request implementation.
+   - Lightweight Imgur front-end without Javascript and ads. Uses its own request implementation.
    - [Main Instance](https://imgin.voidnet.tech/) | [Repo](https://git.voidnet.tech/kev/imgin)
    - Public Instances n/a
    - [x] Open-Source
@@ -125,7 +125,7 @@ ___
 
 ### Tiktok
 - **ProxiTok**
-   - Open-Source frontend for Tiktok that proxies users requests.
+   - Open-Source front-end for Tiktok that proxies users requests.
    - [Main Instance](https://proxitok.pabloferreiro.es) | [Repo](https://github.com/pablouser1/ProxiTok)
    - [Public Instances](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#clearnet)
    - [x] Open-Source
@@ -134,7 +134,7 @@ ___
 
 ### Medium
 - **Scribe**
-   - Tracking- and ad-free FOSS frontend for Medium
+   - Tracking- and ad-free FOSS front-end for Medium
    - [Main Instance](https://scribe.rip) | [Repo](https://git.sr.ht/~edwardloveall/scribe)
    - [Public Instances](https://git.sr.ht/~edwardloveall/scribe/tree/main/docs/instances.md)
    - [x] Open-Source
@@ -161,7 +161,7 @@ ___
 
 ### GitHub
 - **GotHub**
-   - Minimalist JS-free Github frontend in Go
+   - Minimalist JS-free Github front-end in Go
    - [Main Instance](https://gh.odyssey346.dev) | [Repo](https://codeberg.org/gothub/gothub)
    - [Public Instances](https://codeberg.org/gothub/gothub/wiki/Instances)
    - [x] Open-Source
@@ -198,7 +198,7 @@ ___
 
 ### XVideos
 - **PornInvidious [NSFW!]**
-   - A privacy respecting frontend for XVideos from the team behind SimplyTranslate
+   - A privacy respecting front-end for XVideos from the team behind SimplyTranslate
    - [Main Instance](https://porninvidious.esmailelbob.xyz) | [Repo](https://codeberg.org/SimpleWeb/PornInvidious)
    - [Public Instances](https://simple-web.org/instances/porninvidious)
    - [x] Open-Source
@@ -208,7 +208,7 @@ ___
 
 ### Fandom
 - **BreezeWiki**
-   - A privacy-friendly, decluttered frontend for Fandom wikis
+   - A privacy-friendly, decluttered front-end for Fandom wikis
    - [Main Instance](https://breezewiki.com/) | [Repo](https://gitdab.com/cadence/breezewiki)
    - [Public Instances](https://docs.breezewiki.com/Links.html#%28part._.Instances%29)
    - [x] Open-Source
@@ -216,14 +216,14 @@ ___
    
 ### Translate
 - **Lingva**
-   - Tracking-free Google Translate frontend
+   - Tracking-free Google Translate front-end
    - [Main Instance](https://lingva.ml/) | [Repo](https://github.com/TheDavidDelta/lingva-translate)
    - [Public Instances](https://github.com/TheDavidDelta/lingva-translate#instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/TheDavidDelta/lingva-translate#deployment)
 
 - **SimplyTranslate**
-   - FOSS Javascript-free frontend for multiple translators, including Google Translate and DeepL
+   - FOSS Javascript-free front-end for multiple translators, including Google Translate and DeepL
    - [Homepage](https://simple-web.org/projects/simplytranslate.html) | [Main Instance](https://simplytranslate.org) | [Repo](https://codeberg.org/SimpleWeb/SimplyTranslate-Web) 
    - [Public Instances](https://simple-web.org/instances/simplytranslate)
    - [x] Open-Source
@@ -231,14 +231,14 @@ ___
 
 ### Search Engines
 - **Whoogle**
-   - Google search result frontend without Javascript, ads, cookies and tracking. Tor and HTTP/SOCKS proxy support
+   - Google search result front-end without Javascript, ads, cookies and tracking. Tor and HTTP/SOCKS proxy support
    - Main Instance n/a | [Repo](https://github.com/benbusby/whoogle-search)
    - [Public Instances](https://github.com/benbusby/whoogle-search#public-instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/benbusby/whoogle-search#install)
 
 - **LibreX**
-   - A privacy respecting meta search engine for Google and popular torrent sites which can redirect to privacy-respecting frontends
+   - A privacy respecting meta search engine for Google and popular torrent sites which can redirect to privacy-respecting front-ends
    - [Main Instance](https://search.femboy.hu) | [Repo](https://github.com/hnhx/librex)
    - [Public Instances](https://github.com/hnhx/librex#instances)
    - [x] Open-Source
@@ -246,7 +246,7 @@ ___
    - [x] Decentralized Options | [I2P](https://github.com/hnhx/librex#instances) | [Onion](https://github.com/hnhx/librex#instances)
 
 - **SearX**
-   - Privacy-respecting, self-hostable metasearch engine. Acts as frontend for more than 70 search services.
+   - Privacy-respecting, self-hostable metasearch engine. Acts as front-end for more than 70 search services.
    - [Homepage](https://searx.github.io/searx) | [Repo](https://github.com/searx/searx)
    - [Public Instances](https://searx.space)
    - [x] Open-Source
@@ -263,13 +263,13 @@ ___
 
 ### Instagram
 - **Bibliogram [Deprecated]**
-   - Alternative Instagram frontend without Javascript, tracking, ads and signup prompts. Currently unstable due to Instagram's server blocking.
+   - Alternative Instagram front-end without Javascript, tracking, ads and signup prompts. Currently unstable due to Instagram's server blocking.
    - [Main Instance](https://bibliogram.art/) | [Repo](https://sr.ht/~cadence/bibliogram/)
    - [Public Instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md) 
    - [x] Open-Source 
    - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Installing%20%28extended%29.md)
 
-   ⓘ Bibliogram's development has stopped as Instagram is continuing to block servers (if you want to pick up the development of Bibliogram, check [this blog post](https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram) by the original maintainer). There currently is no working open source frontend for Instagram. For some reason, closed source proxy sites like [this one](https://www.pixwox.com) continue working despite doing the exact same thing Bibliogram did.
+   ⓘ Bibliogram's development has stopped as Instagram is continuing to block servers (if you want to pick up the development of Bibliogram, check [this blog post](https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram) by the original maintainer). There currently is no working open source front-end for Instagram. For some reason, closed source proxy sites like [this one](https://www.pixwox.com) continue working despite doing the exact same thing Bibliogram did.
 
 ### Odysee
 - **Librarian**
@@ -282,7 +282,7 @@ ___
 
 ### Wikipedia
 - **Wikiless**
-   - A Javascript-free Wikipedia frontend. Should work in countries where Wikipedia is censored.
+   - A Javascript-free Wikipedia front-end. Should work in countries where Wikipedia is censored.
    - [Main Instance](https://wikiless.org) | [Repo](https://codeberg.org/orenom/wikiless)
    - [Public Instances](https://codeberg.org/orenom/wikiless#instances)
    - [x] Open-Source
@@ -295,13 +295,13 @@ ___
 ### Tools
 
 - **Farside**
-   - Automatically redirects to working instances of alternative frontends. Helps prevent performance bottlenecks by distributing across instances.
+   - Automatically redirects to working instances of alternative front-ends. Helps prevent performance bottlenecks by distributing across instances.
    - [Homepage](https://farside.link) | [Repo](https://github.com/benbusby/farside)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/benbusby/farside#development)
 
 - **Privacy Redirect**
-   - Browser extension that automatically redirects to the alternative frontends of several services. Available for Chromium browsers and Firefox.
+   - Browser extension that automatically redirects to the alternative front-ends of several services. Available for Chromium browsers and Firefox.
    - [Download & Repo](https://github.com/SimonBrazell/privacy-redirect)
    - [x] Open-Source
 
@@ -316,6 +316,8 @@ ___
    - If a service you want to redirect to is not supported by LibRedirect, this extension lets you manually define redirects.
    - [Homepage & Download](https://einaregilsson.com/redirector) | [Repo](https://github.com/einaregilsson/Redirector)
    - [x] Open-Source
+ 
+   ⓘ Example Redirector rules based on services provided in this list can be found at https://github.com/duyfken/RedirectorPrivacyAlternatives
 
 - **SSL Labs**
    - Free tool by Qualys that does a deep analysis to check the SSL implementation of a server. Helpful to check public instances. You'll find this on the [Piped](#youtube) page for instance.
@@ -325,12 +327,12 @@ ___
    ⓘ Not Open Source, but made by a trustworthy company and operates with a [good privacy policy](https://www.ssllabs.com/downloads/Qualys_SSL_Labs_Terms_of_Use.pdf).
 
 - **Translate You Libre**
-   - FOSS Android frontend for LibreTranslate and Lingva. Uses Material You
+   - FOSS Android front-end for LibreTranslate and Lingva. Uses Material You
    - [Download](https://github.com/bnyro/translateyou/releases) | [Repo](https://github.com/Bnyro/TranslateYou)
    - [x] Open-Source
 
 - **UntrackMe**
-   - FOSS Android app that redirects to the alternative frontends of several services. Can also clean tracking parameters.
+   - FOSS Android app that redirects to the alternative front-ends of several services. Can also clean tracking parameters.
    - [Download & Homepage](https://fedilab.app/wiki/untrackme) | [Repo](https://framagit.org/tom79/nitterizeme) 
    - [x] Open-Source
 
