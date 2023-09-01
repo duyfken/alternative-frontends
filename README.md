@@ -55,7 +55,7 @@ ___
    - [Public Instances](https://github.com/snuffyDev/Beatbump/blob/master/README.md#Instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://snuffydev.github.io/Beatbump/index.html#/docs/introduction/deploying)
-   - [x] Decentralised Options [I2P](http://vern6inmbjzqpecx4kpkq5sln3cqqrfuxfzh4au3tpxbsfbwbnta.b32.i2p/) | [Onion](http://bb.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
+   - [x] Decentralised Options | [I2P](http://vern6inmbjzqpecx4kpkq5sln3cqqrfuxfzh4au3tpxbsfbwbnta.b32.i2p/) | [Onion](http://bb.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
 
 - **Hyperpipe**
    - A privacy-respecting front-end for YouTube Music, inspired by and built with the help of Piped
@@ -69,24 +69,25 @@ ___
 - **Teddit**
    - Privacy-focused lightweight Reddit front-end. No ads, no javascript. Provides an unofficial API. 
    - [Main Instance](https://teddit.net) | [Repo](https://codeberg.org/teddit/teddit)
-   - [Public Instances](https://github.com/teddit-net/teddit#instances)
+   - [Public Instances](https://codeberg.org/teddit/teddit#instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/teddit/teddit#installation)
-   - [x] Decentralised Options | [I2P](http://teddit.i2p) 
+   - [x] Decentralised Options | [I2P](http://teddit.i2p)  | [Onion](http://tedditfyn6idalzso5wam5qd3kdtxoljjhbrbbx34q2xkcisvshuytad.onion/)
 
 - **Libreddit**
    - Privacy-focused fast Reddit front-end without ads, javascript and tracking. All requests are proxied through the server.
    - [Main Instance](https://libreddit.spike.codes) | [Repo](https://github.com/spikecodes/libreddit)
-   - [Public Instances](https://github.com/spikecodes/libreddit#instances)
+   - [Public Instances](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/spikecodes/libreddit#installation)
+   - [x] Decentralised Options | [I2P](http://wilr7fk4bx3lnubdhxgwxg37oubmkyiqkamgfoivrz5ldtjwyitq.b32.i2p/)  | [Onion](http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion/)
 
 - **Troddit**   
    - A significantly smaller Open Source front-end for Reddit, written in NextJS.
    - [Main Instance](https://troddit.com/) | [Repo](https://github.com/burhan-syed/troddit)
    - Public Instances n/a
    - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/burhan-syed/troddit#getting-started)
+   - [x] Self-Hostable | [Guide](https://github.com/burhan-syed/troddit#developing)
 
    ⓘ Uses Javascript and Vercel's [audience analytics](https://nextjs.org/analytics). Connects directly to Reddit without a proxy.
 
@@ -97,6 +98,7 @@ ___
    - [Public Instances](https://github.com/zedeus/nitter/wiki/Instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/zedeus/nitter#installation)
+   - [x] Decentralised Options | [I2P](http://axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p/)  | [Onion](http://nitter7bryz3jv7e3uekphigvmoyoem4al3fynerxkj22dmoxoq553qd.onion/) | [Loki](http://nitter.priv.loki/)
 
 ### Imgur
 - **Rimgu**
