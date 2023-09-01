@@ -23,15 +23,15 @@ ___
    - [Public Instances](https://docs.invidious.io/instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://docs.invidious.io/Installation.md)
-   - [x] Decentralized Options | [I2P](http://tube.i2p) | [Onion](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md#tor-onion-services) | [Loki](http://invidious.loki)
+   - [x] Decentralised Options | [I2P](http://tube.i2p) | [Onion](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md#tor-onion-services) | [Loki](http://invidious.loki)
 
 - **Piped**
    - Alternative privacy-friendly YouTube front-end. Lightweight, no ads (Sponsorblock integrated), no tracking, 4K support and more. 
    - [Main Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped)
-   - [Public Instances]((https://piped.video/preferences) (scroll down)
+   - [Public Instances](https://piped.video/preferences) (scroll down)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://docs.piped.video/docs/self-hosting/)
-   - [x] Decentralized Options | [IPNS](ipns://piped-ipfs.kavin.rocks/) | [Onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
+   - [x] Decentralised Options | [IPNS](https://github.com/digitalblossom/alternative-frontends/issues/25#issuecomment-1002261657) | [Onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
 
 - **Cloudtube**
    - Alternative Invidious front-end without Javascript. 
@@ -52,9 +52,10 @@ ___
 - **BeatBump**
    - Privacy-friendly YouTube Music front-end built with Svelte. Supports device sync.
    - [Main Instance](https://beatbump.ml) | [Repo](https://github.com/snuffyDev/Beatbump)
-   - Public Instances n/a
+   - [Public Instances](https://github.com/snuffyDev/Beatbump/blob/master/README.md#Instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://snuffydev.github.io/Beatbump/index.html#/docs/introduction/deploying)
+   - [x] Decentralised Options [I2P](http://vern6inmbjzqpecx4kpkq5sln3cqqrfuxfzh4au3tpxbsfbwbnta.b32.i2p/) | [Onion](http://bb.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
 
 - **Hyperpipe**
    - A privacy-respecting front-end for YouTube Music, inspired by and built with the help of Piped
@@ -62,7 +63,7 @@ ___
    - [Public Instances](https://hyperpipe.codeberg.page)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/Hyperpipe/Hyperpipe#usage)
-   - [x] Decentralized Options | [Onion](https://hyperpipe.codeberg.page)
+   - [x] Decentralised Options | [Onion](https://hyperpipe.codeberg.page)
 
 ### Reddit
 - **Teddit**
@@ -71,7 +72,7 @@ ___
    - [Public Instances](https://github.com/teddit-net/teddit#instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/teddit/teddit#installation)
-   - [x] Decentralized Options | [I2P](http://teddit.i2p) 
+   - [x] Decentralised Options | [I2P](http://teddit.i2p) 
 
 - **Libreddit**
    - Privacy-focused fast Reddit front-end without ads, javascript and tracking. All requests are proxied through the server.
@@ -114,7 +115,7 @@ ___
    - Pattern for Redirector: `*imgur.com/*` to `https://i.bcow.xyz/$2`
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/video-prize-ranch/rimgo#install)
-   - [x] Decentralized Options | [Onion](https://codeberg.org/video-prize-ranch/rimgo#instances)
+   - [x] Decentralised Options | [Onion](https://codeberg.org/video-prize-ranch/rimgo#instances)
 
 - **Imgin**
    - Lightweight Imgur front-end without Javascript and ads. Uses its own request implementation.
@@ -130,7 +131,7 @@ ___
    - [Public Instances](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#clearnet)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/pablouser1/ProxiTok#installation)
-   - [x] Decentralized Options | [Onion](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#tor)
+   - [x] Decentralised Options | [Onion](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#tor)
 
 ### Medium
 - **Scribe**
@@ -146,7 +147,7 @@ ___
    - [Public Instances](https://github.com/realaravinth/libmedium#instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/realaravinth/libmedium#deploy)
-   - [x] Decentralized Options | [Onion](https://github.com/realaravinth/libmedium#instances) | [I2P](https://github.com/realaravinth/libmedium#instances)
+   - [x] Decentralised Options | [Onion](https://github.com/realaravinth/libmedium#instances) | [I2P](https://github.com/realaravinth/libmedium#instances)
 
    ⓘ LibMedium is in early development
 
@@ -176,7 +177,7 @@ ___
    - [Public Instances](https://github.com/httpjamesm/AnonymousOverflow#clearnet-instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/httpjamesm/AnonymousOverflow/wiki/Deployment)
-   - [x] Decentralized Options | [I2P](https://github.com/httpjamesm/AnonymousOverflow#other-instances) | [Onion](https://github.com/httpjamesm/AnonymousOverflow#other-instances)
+   - [x] Decentralised Options | [I2P](https://github.com/httpjamesm/AnonymousOverflow#other-instances) | [Onion](https://github.com/httpjamesm/AnonymousOverflow#other-instances)
 
 ### IMDb
 - **Libremdb**
@@ -194,7 +195,7 @@ ___
    - [Public Instances](https://github.com/rramiachraf/dumb#public-instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/rramiachraf/dumb#installation--usage)
-   - [x] Decentralized Options | [I2P](https://github.com/rramiachraf/dumb#i2p) | [Onion](https://github.com/rramiachraf/dumb#tor)
+   - [x] Decentralised Options | [I2P](https://github.com/rramiachraf/dumb#i2p) | [Onion](https://github.com/rramiachraf/dumb#tor)
 
 ### XVideos
 - **PornInvidious [NSFW!]**
@@ -243,7 +244,7 @@ ___
    - [Public Instances](https://github.com/hnhx/librex#instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/hnhx/librex/wiki/How-to-host-LibreX)
-   - [x] Decentralized Options | [I2P](https://github.com/hnhx/librex#instances) | [Onion](https://github.com/hnhx/librex#instances)
+   - [x] Decentralised Options | [I2P](https://github.com/hnhx/librex#instances) | [Onion](https://github.com/hnhx/librex#instances)
 
 - **SearX**
    - Privacy-respecting, self-hostable metasearch engine. Acts as front-end for more than 70 search services.
@@ -251,7 +252,7 @@ ___
    - [Public Instances](https://searx.space)
    - [x] Open-Source
    - [x] Self-Hostable
-   - [x] Decentralized Options | [Onion](https://searx.space)
+   - [x] Decentralised Options | [Onion](https://searx.space)
 
 - **SearxNG**
    - Fork of SearX with UI improvements (including to the settings page) and updates to the selfhosting procedure.
@@ -259,7 +260,7 @@ ___
    - [Public Instances](https://searx.space)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://docs.searxng.org/admin/index.html)
-   - [x] Decentralized Options | [Onion](https://searx.space)
+   - [x] Decentralised Options | [Onion](https://searx.space)
 
 ### Instagram
 - **Bibliogram [Deprecated]**
@@ -278,7 +279,7 @@ ___
    - [Public Instances](https://codeberg.org/librarian/librarian#clearnet)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/librarian/librarian#install)
-   - [x] Decentralized Options | [Onion](https://codeberg.org/librarian/librarian#tor)
+   - [x] Decentralised Options | [Onion](https://codeberg.org/librarian/librarian#tor)
 
 ### Wikipedia
 - **Wikiless**
