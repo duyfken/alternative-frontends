@@ -79,9 +79,9 @@ ___
    - A lightweight, ad-free and js-free alternative front-end to IMDb
    - [Main Instance](https://libremdb.iket.me) | [Repo](https://github.com/zyachel/libremdb)
    - [Public Instances](https://github.com/zyachel/libremdb#instances)
-   - Pattern for Redirector: `https://www.imdb.com/*` to `https://libremd.herokuapp.com/$1`
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/zyachel/libremdb#installation)
+   - [x] Decentralised Options | [I2P](http://vernz3ubrntql4wrgyrssd6u3qzi36zrhz2agbo6vibzbs5olk2q.b32.i2p/) | [Onion](http://ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
 
 ### Imgur
 
@@ -114,6 +114,13 @@ ___
 
 
 ### Instagram
+
+- **Imgsed**
+
+   - Imgsed is an online Instagram backup tool that helps users save Instagram photos through the Instagram public API.
+   - [Main Instance](https://imgsed.com/) | Repo n/a
+   - [ ] Open-Source 
+   - [ ] Self-Hostable
 
 - **Bibliogram [Deprecated]**
 
