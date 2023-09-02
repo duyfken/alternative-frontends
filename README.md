@@ -10,7 +10,9 @@ ___
 Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346** and **gi-yt** for their contributions to https://github.com/mendel5/alternative-front-ends before it was forked here!
 
 ___
-[Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+A to Z + Tools
+
+[Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can jump between sections via the little menu icon above to the left. 
 
@@ -45,6 +47,18 @@ ___
    - [Public Instances](https://github.com/Insprill/intellectual#instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/Insprill/intellectual#deployment)
+
+
+### Goodreads
+
+- **BiblioReads**
+
+   - BiblioReads is a free and open source alternative Goodreads front-end focused on privacy. Scrapes content from Goodreads and presents the results without any of the bloat.
+   - [Main Instance](https://biblioreads.eu.org/) | [Repo](https://github.com/nesaku/BiblioReads)
+   - [Public Instances](https://github.com/nesaku/BiblioReads#instances)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/nesaku/BiblioReads#installation)
+   - [x] Decentralised Options | [I2P](http://vernapl3lpo3huqdx3pjzxqgdgavxjlmdskbvejh2gfqgmjuyvxq.b32.i2p/) | [Onion](http://bl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
 
 
 ### GitHub
@@ -216,7 +230,7 @@ ___
    - [x] Self-Hostable
    - [x] Decentralised Options | [Onion](https://searx.space)
 
-- **SearxNG**
+- **SearXNG**
 
    - Fork of SearX with UI improvements (including to the settings page) and updates to the selfhosting procedure.
    - [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng)
@@ -367,7 +381,7 @@ ___
    - [Download & Repo](https://github.com/SimonBrazell/privacy-redirect)
    - [x] Open-Source
 
-   ⓘ Developement of Privacy Redirect has ended/paused, consider using LibRedirect instead
+   ⓘ Development of Privacy Redirect has ended/paused, consider using LibRedirect instead
 
 - **LibRedirect**
 
