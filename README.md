@@ -195,6 +195,14 @@ ___
    - [x] Self-Hostable | [Guide](https://github.com/rramiachraf/dumb#installation--usage)
    - [x] Decentralised Options | [I2P](https://github.com/rramiachraf/dumb#i2p) | [Onion](https://github.com/rramiachraf/dumb#tor)
 
+
+- **Intellectual**
+   - Intellectual is an alternative frontend for Genius focused on privacy and simplicity. Written in Rust, Intellectual is incredibly lightweight, not requiring JavaScript and proxying all requests through the server, including images.
+   - [Main Instance](https://intellectual.insprill.net/) | [Repo](https://github.com/Insprill/intellectual)
+   - [Public Instances](https://github.com/Insprill/intellectual#instances)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/Insprill/intellectual#deployment)
+
 ### Fandom
 - **BreezeWiki**
    - A privacy-friendly, decluttered front-end for Fandom wikis
