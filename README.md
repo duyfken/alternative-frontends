@@ -159,11 +159,13 @@ ___
 - **Librarian**
 
    - Open-Source, lightweight and privacy-respecting frontened for Odysee.
-   - [Main Instance](https://lbry.bcow.xyz) | [Repo](https://codeberg.org/librarian/librarian)
+   - Main Instance n/a | [Repo](https://codeberg.org/librarian/librarian)
    - [Public Instances](https://codeberg.org/librarian/librarian#clearnet)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/librarian/librarian#install)
-   - [x] Decentralised Options | [Onion](https://codeberg.org/librarian/librarian#tor)
+   - [x] Decentralised Options | [I2P](https://codeberg.org/librarian/librarian#i2p) | [Onion](https://codeberg.org/librarian/librarian#tor)
+
+   ⓘ Librarian's repo has been archived as at May 2023 and no further updates are expected, as per https://bcow.xyz/posts/archiving-librarian/.
 
 
 ### Quora
@@ -175,7 +177,7 @@ ___
    - [Public Instances](https://github.com/zyachel/quetre#instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/zyachel/quetre#installation)
-   - [x] Decentralised Options | [I2P](http://qr.vern.i2p/) | [Onion](http://qr.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
+   - [x] Decentralised Options | [I2P](http://qr.vern.i2p/) | [Onion](https://github.com/zyachel/quetre#instances)
 
 
 ### Reddit
