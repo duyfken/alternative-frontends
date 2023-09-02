@@ -182,14 +182,7 @@ ___
 
 ### Reddit
 
-- **Teddit**
-
-   - Privacy-focused lightweight Reddit front-end. No ads, no javascript. Provides an unofficial API. 
-   - [Official Instance](https://teddit.net) | [Repo](https://codeberg.org/teddit/teddit)
-   - [Public Instances](https://codeberg.org/teddit/teddit#instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://codeberg.org/teddit/teddit#installation)
-   - [x] Decentralised Options | [I2P](http://teddit.i2p)  | [Onion](http://tedditfyn6idalzso5wam5qd3kdtxoljjhbrbbx34q2xkcisvshuytad.onion/)
+   ⓘ Most Reddit alternative front-ends will no longer work due to the [2023 Reddit API controversy](https://en.wikipedia.org/wiki/2023_Reddit_API_controversy). Mutiple public instances of Libreddit, in addition to self-hosted instances of Troddit and Troddit+ are mostly functional however it seems.
 
 - **Libreddit**
 
@@ -208,7 +201,16 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/burhan-syed/troddit#developing)
 
-   ⓘ Uses Javascript and Vercel's [audience analytics](https://nextjs.org/analytics). Connects directly to Reddit without a proxy.
+   ⓘ Troddit uses Javascript and their official instance uses Vercel's [audience analytics](https://nextjs.org/analytics). Connects directly to Reddit without a proxy using Reddit's API.
+
+- **Teddit**
+
+   - Privacy-focused lightweight Reddit front-end. No ads, no javascript. Provides an unofficial API. 
+   - [Official Instance](https://teddit.net) | [Repo](https://codeberg.org/teddit/teddit)
+   - [Public Instances](https://codeberg.org/teddit/teddit#instances)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://codeberg.org/teddit/teddit#installation)
+   - [x] Decentralised Options | [I2P](http://teddit.i2p)  | [Onion](http://tedditfyn6idalzso5wam5qd3kdtxoljjhbrbbx34q2xkcisvshuytad.onion/)
 
 
 ### Search Engines
@@ -321,7 +323,7 @@ ___
 
 - **Rural Dictionary**
 
-   - Rural Dictionary scrapes urban dictionary for data and then displays it in html.
+   - Rural Dictionary scrapes Urban Dictionary for data and then displays it in HTML.
    - Official Instance (n/a) | [Repo](https://codeberg.org/zortazert/rural-dictionary)
    - [Public Instances](https://codeberg.org/zortazert/rural-dictionary#headline-2)
    - [x] Open-Source
