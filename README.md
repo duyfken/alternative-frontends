@@ -7,7 +7,7 @@
 ___
 ⓘ You can suggest new front-ends and modifications to the list **[here](https://github.com/duyfken/alternative-front-ends/issues/new/choose)**.
 
-Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346** and **gi-yt** for their contributions to https://github.com/mendel5/alternative-front-ends before it was forked here!
+Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346** and **gi-yt** for their contributions to https://github.com/digitalblossom/alternative-frontends before it was forked here!
 
 ___
 A to Z + Tools
@@ -220,11 +220,12 @@ ___
    - [Public Instances](https://github.com/benbusby/whoogle-search#public-instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/benbusby/whoogle-search#install)
+   - [x] Decentralised Options | [I2P](https://github.com/benbusby/whoogle-search#i2p-instances) | [Onion](https://github.com/benbusby/whoogle-search#onion-instances)
 
 - **LibreX**
 
    - A privacy respecting meta search engine for Google and popular torrent sites which can redirect to privacy-respecting front-ends
-   - [Main Instance](https://search.femboy.hu) | [Repo](https://github.com/hnhx/librex)
+   - Main Instance n/a | [Repo](https://github.com/hnhx/librex)
    - [Public Instances](https://github.com/hnhx/librex#instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/hnhx/librex/wiki/How-to-host-LibreX)
@@ -236,7 +237,7 @@ ___
    - [Homepage](https://searx.github.io/searx) | [Repo](https://github.com/searx/searx)
    - [Public Instances](https://searx.space)
    - [x] Open-Source
-   - [x] Self-Hostable
+   - [x] Self-Hostable | [Guide](https://searx.github.io/searx/admin/installation.html)
    - [x] Decentralised Options | [Onion](https://searx.space)
 
 - **SearXNG**
@@ -253,7 +254,7 @@ ___
 
 - **AnonymousOverflow**
 
-   - View StackOverflow in privacy and without the clutter
+   - View StackOverflow threads without the cluttered interface and exposing your IP address, browsing habits and other browser fingerprint data to StackOverflow.
    - [Main Instance](https://code.whatever.social) | [Repo](https://github.com/httpjamesm/AnonymousOverflow)
    - [Public Instances](https://github.com/httpjamesm/AnonymousOverflow#clearnet-instances)
    - [x] Open-Source
@@ -286,10 +287,11 @@ ___
 - **SimplyTranslate**
 
    - FOSS Javascript-free front-end for multiple translators, including Google Translate and DeepL
-   - [Homepage](https://simple-web.org/projects/simplytranslate.html) | [Main Instance](https://simplytranslate.org) | [Repo](https://codeberg.org/SimpleWeb/SimplyTranslate-Web) 
+   - [Main Instance](https://simplytranslate.org) | [Repo](https://codeberg.org/SimpleWeb/SimplyTranslate-Web) 
    - [Public Instances](https://simple-web.org/instances/simplytranslate)
    - [x] Open-Source
    - [x] Self-Hostable
+   - [x] Decentralised Options | [I2P](http://verna7avzgd4qqal7k2onjzwxcceqby2gwvya2a2frdswb7z2k4q.b32.i2p/)  | [Onion](http://tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
 
 
 ### Twitter
