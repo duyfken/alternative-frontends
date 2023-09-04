@@ -4,11 +4,13 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/duyfken/alternative-front-ends/graphs/commit-activity)
 
 **This is a list of privacy-respecting front-ends to popular online services, including social media, streaming and information services. All of them are cross-platform webapps and should work on your device no matter the OS and hardware.**
+ 
+ⓘ [Redirector](https://github.com/einaregilsson/Redirector) rules based on services provided in this list can be found **[here](https://github.com/duyfken/RedirectorPrivacyAlternatives)**
 ___
-ⓘ You can suggest new front-ends and modifications to the list **[here](https://github.com/duyfken/alternative-front-ends/issues/new/choose)**.
 
 Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346** and **gi-yt** for their contributions to https://github.com/digitalblossom/alternative-frontends before it was forked here!
 
+ⓘ You can suggest new front-ends and modifications to the list **[here](https://github.com/duyfken/alternative-front-ends/issues/new/choose)**.
 ___
 A to Z + Tools
 
@@ -419,7 +421,7 @@ ___
    - [Homepage & Download](https://einaregilsson.com/redirector) | [Repo](https://github.com/einaregilsson/Redirector)
    - [x] Open-Source
  
-   ⓘ Redirector rules based on services provided in this list can be found at https://github.com/duyfken/RedirectorPrivacyAlternatives
+   ⓘ Redirector rules based on services provided in this list can be found **[here](https://github.com/duyfken/RedirectorPrivacyAlternatives)**
 
 - **SSL Labs**
 
