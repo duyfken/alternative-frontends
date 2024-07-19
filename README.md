@@ -8,13 +8,13 @@
 ⓘ [Redirector](https://github.com/einaregilsson/Redirector) rules based on services provided in this list can be found **[here](https://github.com/duyfken/RedirectorPrivacyAlternatives)**
 ___
 
-Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346** and **gi-yt** for their contributions to https://github.com/digitalblossom/alternative-frontends before it was forked here!
+Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346**, **gi-yt** and **Solomon1732** for their contributions to https://github.com/digitalblossom/alternative-frontends before it was forked here!
 
 ⓘ You can suggest new front-ends and modifications to the list **[here](https://github.com/duyfken/alternative-front-ends/issues/new/choose)**.
 ___
 A to Z + Tools
 
-[Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can jump between sections via the little menu icon above to the left. 
 
@@ -24,23 +24,24 @@ ___
 
 - **BreezeWiki**
 
-   - A privacy-friendly, decluttered front-end for Fandom wikis
+   - A privacy-friendly, decluttered front-end for Fandom wikis.
    - [Official Instance](https://breezewiki.com/) | [Repo](https://gitdab.com/cadence/breezewiki)
    - [Public Instances](https://docs.breezewiki.com/Links.html#%28part._.Instances%29)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://docs.breezewiki.com/Running.html)
+   - [x] Decentralised Options | [Onion](https://docs.breezewiki.com/Links.html#(part._.Onion_.Mirrors))
 
 
 ### Genius
 
 - **Dumb**
 
-   - Dumb tries to make reading lyrics from Genius a pleasant experience and as lightweight as possible
-   - Official Instance (n/a) | [Repo](https://github.com/rramiachraf/dumb)
+   - Dumb tries to make reading lyrics from Genius a pleasant experience and as lightweight as possible.
+   - Official Instance (N/A) | [Repo](https://github.com/rramiachraf/dumb)
    - [Public Instances](https://github.com/rramiachraf/dumb#public-instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/rramiachraf/dumb#installation--usage)
-   - [x] Decentralised Options | [I2P](https://github.com/rramiachraf/dumb#i2p) | [Onion](https://github.com/rramiachraf/dumb#tor)
+   - [x] Decentralised Options | [I2P](https://github.com/rramiachraf/dumb#public-instances) | [Onion](https://github.com/rramiachraf/dumb#public-instances)
 
 - **Intellectual**
 
@@ -49,17 +50,19 @@ ___
    - [Public Instances](https://github.com/Insprill/intellectual#instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/Insprill/intellectual#deployment)
+   - [x] Decentralised Options | [I2P](https://github.com/Insprill/intellectual?tab=readme-ov-file#clearnet) | [Onion](https://github.com/Insprill/intellectual?tab=readme-ov-file#clearnet)
 
 
 ### GitHub
 
 - **GotHub**
 
-   - Minimalist JS-free Github front-end in Go
-   - Official Instance (n/a) | [Repo](https://codeberg.org/gothub/gothub)
-   - [Public Instances](https://codeberg.org/gothub/gothub/wiki/Instances)
+   - Minimalist JS-free Github front-end in Go.
+   - Official Instance (N/A) | [Repo](https://codeberg.org/gothub/gothub)
+   - [Public Instances](https://codeberg.org/gothub/gothub#instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/gothub/gothub#setup)
+   - [x] Decentralised Options | [Onion](https://codeberg.org/gothub/gothub#instances)
 
 
 ### Goodreads
@@ -78,7 +81,7 @@ ___
 
 - **Libremdb**
 
-   - A lightweight, ad-free and js-free alternative front-end to IMDb
+   - A lightweight, ad-free and js-free alternative front-end to IMDb.
    - [Official Instance](https://libremdb.iket.me) | [Repo](https://github.com/zyachel/libremdb)
    - [Public Instances](https://github.com/zyachel/libremdb#instances)
    - [x] Open-Source
@@ -90,8 +93,8 @@ ___
 - **Rimgu**
 
    - Lightweight Imgur front-end without Javascript and ads. Uses its own request implementation. Can use either API or scraping.
-   - Official Instance (n/a) | [Repo](https://codeberg.org/3np/rimgu)
-   - Public Instances n/a
+   - Official Instance (N/A) | [Repo](https://codeberg.org/3np/rimgu)
+   - Public Instances (N/A)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/3np/rimgu#docker-1)
 
@@ -100,17 +103,17 @@ ___
 - **Rimgo**
   
    - Rewrite of Rimgu in Go. Works without JS and has several public instances, including an Onion one.
-   - Official Instance (n/a) | [Repo](https://codeberg.org/rimgo/rimgo)
-   - [Public Instances](https://codeberg.org/rimgo/rimgo#instances)
+   - Official Instance (N/A) | [Repo](https://codeberg.org/rimgo/rimgo)
+   - [Public Instances](https://codeberg.org/rimgo/instances#clearnet)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://rimgo.codeberg.page/docs/getting-started/install/)
-   - [x] Decentralised Options | [I2P](https://codeberg.org/rimgo/rimgo#i2p) | [Onion](https://codeberg.org/rimgo/rimgo#tor)
+   - [x] Decentralised Options | [I2P](https://codeberg.org/rimgo/instances#i2p) | [Onion](https://codeberg.org/rimgo/instances#tor)
 
 - **Imgin**
   
    - Lightweight Imgur front-end without Javascript and ads. Uses its own request implementation.
    - [Official Instance](https://imgin.voidnet.tech/) | [Repo](https://git.voidnet.tech/kev/imgin)
-   - Public Instances n/a
+   - Public Instances (N/A)
    - [x] Open-Source
    - [x] Self-Hostable
 
@@ -120,7 +123,7 @@ ___
 - **Imgsed**
 
    - Imgsed is an online Instagram backup tool that helps users save Instagram photos through the Instagram public API.
-   - [Official Instance](https://imgsed.com/) | Repo n/a
+   - [Official Instance](https://imgsed.com/) | Repo (N/A)
    - [ ] Open-Source 
    - [ ] Self-Hostable
 
@@ -139,7 +142,7 @@ ___
 
 - **Scribe**
 
-   - Tracking- and ad-free FOSS front-end for Medium
+   - Tracking- and ad-free FOSS front-end for Medium.
    - [Official Instance](https://scribe.rip) | [Repo](https://git.sr.ht/~edwardloveall/scribe)
    - [Public Instances](https://git.sr.ht/~edwardloveall/scribe/tree/main/docs/instances.md)
    - [x] Open-Source
@@ -148,7 +151,7 @@ ___
 
 - **LibMedium**
 
-   - Minimalist proxy for Medium written in Rust
+   - Minimalist proxy for Medium written in Rust.
    - [Official Instance](https://libmedium.batsense.net) | [Repo](https://github.com/realaravinth/libmedium)
    - [Public Instances](https://github.com/realaravinth/libmedium#instances)
    - [x] Open-Source
@@ -161,7 +164,7 @@ ___
 - **Librarian**
 
    - Open-Source, lightweight and privacy-respecting frontened for Odysee.
-   - Official Instance (n/a) | [Repo](https://codeberg.org/librarian/librarian)
+   - Official Instance (N/A) | [Repo](https://codeberg.org/librarian/librarian)
    - [Public Instances](https://codeberg.org/librarian/librarian#clearnet)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/librarian/librarian#install)
@@ -179,27 +182,37 @@ ___
    - [Public Instances](https://github.com/zyachel/quetre#instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/zyachel/quetre#installation)
-   - [x] Decentralised Options | [I2P](http://qr.vern.i2p/) | [Onion](https://github.com/zyachel/quetre#instances)
+   - [x] Decentralised Options | [I2P](https://github.com/zyachel/quetre#instances) | [Onion](https://github.com/zyachel/quetre#instances)
 
 
 ### Reddit
 
    ⓘ Most Reddit alternative front-ends will no longer work due to the [2023 Reddit API controversy](https://en.wikipedia.org/wiki/2023_Reddit_API_controversy). Mutiple public instances of Libreddit, in addition to self-hosted instances of Troddit and Troddit+ are mostly functional however it seems.
 
+- **Redlib**
+
+   - An alternative private front-end to Reddit, with its origins in [Libreddit](https://github.com/libreddit/libreddit).
+   - Official Instance (N/A) | [Repo](https://github.com/redlib-org/redlib)
+   - [Public Instances](https://github.com/redlib-org/redlib-instances/blob/main/instances.md)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/redlib-org/redlib#deployment)
+
 - **Libreddit**
 
    - Privacy-focused fast Reddit front-end without ads, javascript and tracking. All requests are proxied through the server.
-   - [Official Instance](https://libreddit.spike.codes) | [Repo](https://github.com/spikecodes/libreddit)
+   - Official Instance (N/A) | [Repo](https://github.com/spikecodes/libreddit)
    - [Public Instances](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/spikecodes/libreddit#installation)
    - [x] Decentralised Options | [I2P](http://wilr7fk4bx3lnubdhxgwxg37oubmkyiqkamgfoivrz5ldtjwyitq.b32.i2p/)  | [Onion](http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion/)
 
+   ⓘ The maintainer has [shutdown the official instance and ceased development](https://github.com/libreddit/libreddit/issues/840) due to Reddit's API changes. Development has continued at the previously mentioned Libreddit fork, Redlib.
+
 - **Troddit**
 
    - A significantly smaller Open Source front-end for Reddit, written in NextJS.
    - [Official Instance](https://troddit.com/) | [Repo](https://github.com/burhan-syed/troddit)
-   - Public Instances n/a
+   - Public Instances (N/A)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/burhan-syed/troddit#developing)
 
@@ -208,19 +221,19 @@ ___
 - **Teddit**
 
    - Privacy-focused lightweight Reddit front-end. No ads, no javascript. Provides an unofficial API. 
-   - [Official Instance](https://teddit.net) | [Repo](https://codeberg.org/teddit/teddit)
+   - Official Instance (N/A) | [Repo](https://codeberg.org/teddit/teddit)
    - [Public Instances](https://codeberg.org/teddit/teddit#instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/teddit/teddit#installation)
-   - [x] Decentralised Options | [I2P](http://teddit.i2p)  | [Onion](http://tedditfyn6idalzso5wam5qd3kdtxoljjhbrbbx34q2xkcisvshuytad.onion/)
+   - [x] Decentralised Options | [I2P](https://codeberg.org/teddit/teddit#instances)  | [Onion](https://codeberg.org/teddit/teddit#instances)
 
 
 ### Search Engines
 
 - **Whoogle**
 
-   - Google search result front-end without Javascript, ads, cookies and tracking. Tor and HTTP/SOCKS proxy support
-   - Official Instance (n/a) | [Repo](https://github.com/benbusby/whoogle-search)
+   - Google search result front-end without Javascript, ads, cookies and tracking. Tor and HTTP/SOCKS proxy support.
+   - Official Instance (N/A) | [Repo](https://github.com/benbusby/whoogle-search)
    - [Public Instances](https://github.com/benbusby/whoogle-search#public-instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/benbusby/whoogle-search#install)
@@ -228,8 +241,8 @@ ___
 
 - **LibreX**
 
-   - A privacy respecting meta search engine for Google and popular torrent sites which can redirect to privacy-respecting front-ends
-   - Official Instance (n/a) | [Repo](https://github.com/hnhx/librex)
+   - A privacy respecting meta search engine for Google and popular torrent sites which can redirect to privacy-respecting front-ends.
+   - Official Instance (N/A) | [Repo](https://github.com/hnhx/librex)
    - [Public Instances](https://github.com/hnhx/librex#instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/hnhx/librex/wiki/How-to-host-LibreX)
@@ -260,10 +273,10 @@ ___
 
    - View StackOverflow threads without the cluttered interface and exposing your IP address, browsing habits and other browser fingerprint data to StackOverflow.
    - [Official Instance](https://code.whatever.social) | [Repo](https://github.com/httpjamesm/AnonymousOverflow)
-   - [Public Instances](https://github.com/httpjamesm/AnonymousOverflow#clearnet-instances)
+   - [Public Instances](https://aohub.httpjames.space/)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/httpjamesm/AnonymousOverflow/wiki/Deployment)
-   - [x] Decentralised Options | [I2P](https://github.com/httpjamesm/AnonymousOverflow#other-instances) | [Onion](https://github.com/httpjamesm/AnonymousOverflow#other-instances)
+   - [x] Decentralised Options | [I2P](https://aohub.httpjames.space/) | [Onion](https://aohub.httpjames.space/)
 
 
 ### Tiktok
@@ -280,22 +293,42 @@ ___
 
 ### Translate
 
+- **Mozhi**
+
+   - Mozhi (spelt moḻi) is an alternative-frontend for many translation engines. It is a fork of [SimplyTranslate](https://codeberg.org/SimpleWeb/SimplyTranslate-Web).
+   - [Official Instance](https://mozhi.aryak.me/) | [Repo](https://codeberg.org/aryak/mozhi)
+   - [Public Instances](https://codeberg.org/aryak/mozhi#instances)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/TheDavidDelta/lingva-translate#deployment)
+   - [x] Decentralised Options | [I2P](https://codeberg.org/aryak/mozhi#instances)  | [Onion](https://codeberg.org/aryak/mozhi#instances)
+
 - **Lingva**
 
-   - Tracking-free Google Translate front-end
-   - [Official Instance](https://lingva.ml/) | [Repo](https://github.com/TheDavidDelta/lingva-translate)
+   - Tracking-free Google Translate front-end.
+   - [Official Instance](https://lingva.thedaviddelta.com/) | [Repo](https://github.com/TheDavidDelta/lingva-translate)
    - [Public Instances](https://github.com/TheDavidDelta/lingva-translate#instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/TheDavidDelta/lingva-translate#deployment)
 
-- **SimplyTranslate**
+- **LibreTranslate**
 
-   - FOSS Javascript-free front-end for multiple translators, including Google Translate and DeepL
-   - [Official Instance](https://simplytranslate.org) | [Repo](https://codeberg.org/SimpleWeb/SimplyTranslate-Web) 
-   - [Public Instances](https://simple-web.org/instances/simplytranslate)
+   - Free and Open Source Machine Translation API, entirely self-hosted. Unlike other APIs, it doesn't rely on proprietary providers such as Google or Azure to perform translations. Instead, its translation engine is powered by the open source Argos Translate library.
+   - [Official Instance](https://libretranslate.com/) | [Repo](https://github.com/LibreTranslate/LibreTranslate)
+   - [Public Instances](https://github.com/LibreTranslate/LibreTranslate#mirrors)
    - [x] Open-Source
-   - [x] Self-Hostable
-   - [x] Decentralised Options | [I2P](http://verna7avzgd4qqal7k2onjzwxcceqby2gwvya2a2frdswb7z2k4q.b32.i2p/)  | [Onion](http://tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
+   - [x] Self-Hostable | [Guide](https://github.com/LibreTranslate/LibreTranslate#install-and-run)
+   - [x] Decentralised Options | [I2P](https://github.com/LibreTranslate/LibreTranslate#tori2p-mirrors)  | [Onion](https://github.com/LibreTranslate/LibreTranslate#tori2p-mirrors)
+
+
+### Tumblr
+
+- **PriviBlur**
+
+   - A privacy-focused alternative frontend to Tumblr with a touch of modern design.
+   - Official Instance (N/A) | [Repo](https://github.com/syeopite/priviblur)
+   - [Public Instances](https://github.com/syeopite/priviblur/blob/master/instances.md)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/syeopite/priviblur#installation)
 
 
 ### Twitch
@@ -304,7 +337,7 @@ ___
 
    - SafeTwitch is a privacy respecting frontend for Twitch. The main advantages of SafeTwitch are every request is proxied through the server, no logs are kept, and compared to Twitch, SafeTwitch is optimized for speed and usability.
    - [Official Instance](https://safetwitch.drgns.space/) | [Repo](https://codeberg.org/dragongoose/safetwitch)
-   - [Public Instances](https://codeberg.org/dragongoose/safetwitch/wiki/Instances)
+   - [Public Instances](https://codeberg.org/SafeTwitch/safetwitch#instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/dragongoose/safetwitch/wiki/Hosting-from-source)
    - [x] Decentralised Options | [I2P](https://codeberg.org/dragongoose/safetwitch/wiki/Instances#i2p)  | [Onion](https://codeberg.org/dragongoose/safetwitch/wiki/Instances#onion)
@@ -314,11 +347,13 @@ ___
 - **Nitter**
 
    - Lightweight Twitter front-end. No ads, no Javascript, no tracking. RSS support.
-   - [Official Instance](https://nitter.net/) | [Repo](https://github.com/zedeus/nitter)
+   - Official Instance (N/A) | [Repo](https://github.com/zedeus/nitter)
    - [Public Instances](https://github.com/zedeus/nitter/wiki/Instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/zedeus/nitter#installation)
    - [x] Decentralised Options | [I2P](https://github.com/zedeus/nitter/wiki/Instances#i2p)  | [Onion](https://github.com/zedeus/nitter/wiki/Instances#tor) | [Loki](https://github.com/zedeus/nitter/wiki/Instances#lokinet)
+
+   ⓘ The maintainer has [declared Nitter abandoned](https://github.com/zedeus/nitter/issues/1155) because of X's/Twitter's actions. The official instance has been discontinued and very few instances still work.
 
 
 ### Urban Dictionary
@@ -326,7 +361,7 @@ ___
 - **Rural Dictionary**
 
    - Rural Dictionary scrapes Urban Dictionary for data and then displays it in HTML.
-   - Official Instance (n/a) | [Repo](https://codeberg.org/zortazert/rural-dictionary)
+   - Official Instance (N/A) | [Repo](https://codeberg.org/zortazert/rural-dictionary)
    - [Public Instances](https://codeberg.org/zortazert/rural-dictionary#headline-2)
    - [x] Open-Source
    - [x] Self-Hostable
@@ -357,17 +392,17 @@ ___
 
    - Alternative Invidious front-end without Javascript. 
    - [Official Instance](https://tube.cadence.moe) | [Repo](https://sr.ht/~cadence/tube)
-   - Public Instances n/a
+   - Public Instances (N/A)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md)
 
 - **Viewtube**
 
    - Privacy-respecting front-end with subscription, watch-progress and recommendation features. 
-   - [Official Instance](https://viewtube.io/) | [Repo](https://github.com/ViewTube/viewtube-vue)
-   - Public Instances n/a
+   - [Official Instance](https://viewtube.io/) | [Repo](https://github.com/ViewTube/viewtube)
+   - Public Instances (N/A)
    - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/ViewTube/viewtube-vue#host-it-yourself)
+   - [x] Self-Hostable | [Guide](https://viewtube.wiki/installation)
 
 
 ### YouTube Music
@@ -375,15 +410,15 @@ ___
 - **BeatBump**
 
    - Privacy-friendly YouTube Music front-end built with Svelte. Supports device sync.
-   - [Official Instance](https://beatbump.ml) | [Repo](https://github.com/snuffyDev/Beatbump)
-   - [Public Instances](https://github.com/snuffyDev/Beatbump/blob/master/README.md#Instances)
+   - [Official Instance](https://beatbump.io) | [Repo](https://github.com/snuffyDev/Beatbump)
+   - [Public Instances](https://github.com/snuffyDev/Beatbump#instances)
    - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://snuffydev.github.io/Beatbump/index.html#/docs/introduction/deploying)
+   - [x] Self-Hostable | [Guide](https://github.com/snuffyDev/Beatbump?tab=readme-ov-file#docker)
    - [x] Decentralised Options | [I2P](http://vern6inmbjzqpecx4kpkq5sln3cqqrfuxfzh4au3tpxbsfbwbnta.b32.i2p/) | [Onion](http://bb.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
 
 - **Hyperpipe**
 
-   - A privacy-respecting front-end for YouTube Music, inspired by and built with the help of Piped
+   - A privacy-respecting front-end for YouTube Music, inspired by and built with the help of Piped.
    - [Official Instance](https://hyperpipe.surge.sh) | [Repo](https://codeberg.org/Hyperpipe/Hyperpipe)
    - [Public Instances](https://hyperpipe.codeberg.page)
    - [x] Open-Source
@@ -433,7 +468,7 @@ ___
 
 - **Translate You Libre**
 
-   - FOSS Android front-end for LibreTranslate and Lingva. Uses Material You
+   - FOSS Android front-end for LibreTranslate and Lingva. Uses Material You design.
    - [Download](https://github.com/bnyro/translateyou/releases) | [Repo](https://github.com/Bnyro/TranslateYou)
    - [x] Open-Source
 
