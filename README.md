@@ -8,7 +8,7 @@
 ⓘ [Redirector](https://github.com/einaregilsson/Redirector) rules based on services provided in this list can be found **[here](https://github.com/duyfken/RedirectorPrivacyAlternatives)**
 ___
 
-Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346**, **gi-yt** and **Solomon1732** for their contributions to https://github.com/digitalblossom/alternative-frontends before it was forked here!
+Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346**, **gi-yt** and **Solomon1732** for their contributions to https://github.com/digitalblossom/alternative-frontends on which this fork is based!
 
 ⓘ You can suggest new front-ends and modifications to the list **[here](https://github.com/duyfken/alternative-front-ends/issues/new/choose)**.
 ___
@@ -256,6 +256,8 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://searx.github.io/searx/admin/installation.html)
    - [x] Decentralised Options | [Onion](https://searx.space)
+
+   ⓘ SearX's repo has been archived as at September 2023 and will no longer be maintained, [as per this last commit before the repo was archived](https://github.com/searx/searx/commit/276ffd3f01cdd823f75676c51231fad4040059d3).
 
 - **SearXNG**
 
