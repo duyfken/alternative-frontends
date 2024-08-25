@@ -40,7 +40,7 @@ body:
     attributes:
       label: Front-end Repository
       description: What is the URL for the front-ends code repository?
-      placeholder: ex. https://codberg.org/iv-org/invidious
+      placeholder: ex. https://github.com/iv-org/invidious
     validations:
       required: true
   - type: input
