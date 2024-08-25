@@ -1,10 +1,16 @@
-## Alternative Front-ends
+## Alternative Web Front-ends
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+[![Web Front-ends](https://img.shields.io/badge/Web%20Front--ends-0052CC.svg)](https://github.com/duyfken/alternative-front-ends/tree/web) [![Mobile Front-ends](https://img.shields.io/badge/Mobile%20Front--ends-0E8A16.svg)](https://github.com/duyfken/alternative-front-ends/tree/mobile) [![Web Front-ends](https://img.shields.io/badge/Desktop%20Front--ends-B60205.svg)](https://github.com/duyfken/alternative-front-ends/tree/desktop)
+
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/duyfken/alternative-front-ends/graphs/commit-activity)
 
-**This is a list of privacy-respecting front-ends to popular online services, including social media, streaming and information services. All of them are cross-platform webapps and should work on your device no matter the OS and hardware.**
- 
+**This is a list of privacy-respecting front-ends to popular online services, including social media, streaming and information services. All of the options here are cross-platform webapps and should work on your device no matter the OS and hardware.**
+
+> [!NOTE]
+> You are viewing the [Web Front-ends](https://github.com/duyfken/alternative-front-ends/tree/web) branch of this list!
+> 
+> If you would like [Mobile Front-ends](https://github.com/duyfken/alternative-front-ends/tree/mobile)  or [Desktop Front-ends](https://github.com/duyfken/alternative-front-ends/tree/desktop), please visit those branches of this repository.
+___
 ⓘ [Redirector](https://github.com/einaregilsson/Redirector) rules based on services provided in this list can be found **[here](https://github.com/duyfken/RedirectorPrivacyAlternatives)**
 ___
 
