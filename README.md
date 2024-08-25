@@ -8,18 +8,31 @@
 ⓘ [Redirector](https://github.com/einaregilsson/Redirector) rules based on services provided in this list can be found **[here](https://github.com/duyfken/RedirectorPrivacyAlternatives)**
 ___
 
+Thanks to  **shaedrich** for contributing to the expansion of this list!
+
 Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346**, **gi-yt** and **Solomon1732** for their contributions to https://github.com/digitalblossom/alternative-frontends on which this fork is based!
 
 ⓘ You can suggest new front-ends and modifications to the list **[here](https://github.com/duyfken/alternative-front-ends/issues/new/choose)**.
 ___
 A to Z + Tools
 
-[Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can jump between sections via the little menu icon above to the left. 
 
 ⓘ Check out the [tools section](#tools) at the bottom to find out how to easily adopt and even self-host.
 ___
+### Chefkoch
+
+- **gocook** :de:
+
+   - An alternative frontend to Chefkoch, a German-language food recipe portal, with a focus on privacy.
+   - [Official Instance](https://cook.adminforge.de/) | [Repo](https://github.com/NoUmlautsAllowed/gocook)
+   - [Public Instances](https://github.com/NoUmlautsAllowed/gocook#hosted-instances)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/NoUmlautsAllowed/gocook#build-and-deployment)
+
+
 ### Fandom
 
 - **BreezeWiki**
@@ -430,6 +443,12 @@ ___
 ___
 
 ### Tools
+
+- **Fastside**
+
+   - A smart redirecting gateway for various frontend services. Faster and compatible alternative to farside. Also adds Tor and I2P support.
+   - [Homepage](https://fastsi.de/) | [Repo](https://github.com/cofob/fastside)
+   - [x] Open-Source
 
 - **Farside**
 
