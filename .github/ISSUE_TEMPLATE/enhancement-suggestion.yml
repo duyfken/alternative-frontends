@@ -1,0 +1,29 @@
+name: Enhancement Suggestion
+description: This can be used to suggest an enhancement to an existing list
+title: "Suggestion: [Name]"
+labels: ["enhancement"]
+assignees:
+  - duyfken
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to help contribute an enhancement to an existing list!
+  - type: dropdown
+    id: branch
+    attributes:
+      label: What branch/platform list are you suggesting an enhancement for?
+      multiple: false
+      options:
+        - Web
+        - Android
+        - Desktop
+    validations:
+      required: true
+  - type: textarea
+    id: enhancement
+    attributes:
+      label: What is the enhancement you would like to suggest?
+      placeholder: Tell us your enhancment!
+    validations:
+      required: true
