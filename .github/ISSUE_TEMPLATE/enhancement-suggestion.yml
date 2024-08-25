@@ -24,6 +24,6 @@ body:
     id: enhancement
     attributes:
       label: What is the enhancement you would like to suggest?
-      placeholder: Tell us your enhancment!
+      placeholder: Tell us your enhancement!
     validations:
       required: true
