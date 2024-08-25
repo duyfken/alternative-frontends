@@ -1,9 +1,5 @@
 ## Alternative Web Front-ends
 
-[![Web Front-ends](https://img.shields.io/badge/Web%20Front--ends-0052CC.svg)](https://github.com/duyfken/alternative-front-ends/tree/web) [![Mobile Front-ends](https://img.shields.io/badge/Mobile%20Front--ends-0E8A16.svg)](https://github.com/duyfken/alternative-front-ends/tree/mobile) [![Web Front-ends](https://img.shields.io/badge/Desktop%20Front--ends-B60205.svg)](https://github.com/duyfken/alternative-front-ends/tree/desktop)
-
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/duyfken/alternative-front-ends/graphs/commit-activity)
-
 **This is a list of privacy-respecting front-ends to popular online services, including social media, streaming and information services. All of the options here are cross-platform webapps and should work on your device no matter the OS and hardware.**
 
 > [!NOTE]
