@@ -15,7 +15,7 @@ body:
       multiple: false
       options:
         - Web
-        - Android
+        - Mobile (Android/iOS)
         - Desktop
     validations:
       required: true
