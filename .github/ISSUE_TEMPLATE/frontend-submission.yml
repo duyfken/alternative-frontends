@@ -1,6 +1,6 @@
 ---
 name: Front-end Submission Form
-about: 'This can be used to submit a front-end'
+description: 'This can be used to submit a front-end'
 title: "New front-end: [Name] for [Service]"
 assignees: duyfken
 body:
