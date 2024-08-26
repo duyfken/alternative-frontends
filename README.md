@@ -5,7 +5,7 @@
 > [!NOTE]
 > You are viewing the [Web Front-ends](https://github.com/duyfken/alternative-front-ends/tree/web) branch of this list!
 > 
-> If you would like [Mobile Front-ends](https://github.com/duyfken/alternative-front-ends/tree/mobile)  or [Desktop Front-ends](https://github.com/duyfken/alternative-front-ends/tree/desktop), please visit those branches of this repository.
+> If you would like [Mobile Front-ends](https://github.com/duyfken/alternative-front-ends/tree/mobile), [TV Front-ends](https://github.com/duyfken/alternative-front-ends/tree/tv)  or [Desktop Front-ends](https://github.com/duyfken/alternative-front-ends/tree/desktop), please visit those branches of this repository.
 ___
 ⓘ [Redirector](https://github.com/einaregilsson/Redirector) rules based on services provided in this list can be found **[here](https://github.com/duyfken/RedirectorPrivacyAlternatives)**
 ___
