@@ -1,11 +1,11 @@
-## Alternative Web Front-ends
+## Alternative TV Front-ends
 
-**This is a list of privacy-respecting front-ends to popular online services, including social media, streaming and information services. All of the options here are cross-platform webapps and should work on your device no matter the OS and hardware.**
+**This is a list of privacy-respecting front-ends to popular online services, including social media, streaming and information services. All of the options here are apps for TVs running Apple tvOS, Roku OS, LG WebOS, Samsung Tizen OS or Android TV (including Fire TV).**
 
 > [!NOTE]
-> You are viewing the [Web Front-ends](https://github.com/duyfken/alternative-front-ends/tree/web) branch of this list!
+> You are viewing the [TV Front-ends](https://github.com/duyfken/alternative-front-ends/tree/tv) branch of this list!
 > 
-> If you would like [Mobile Front-ends](https://github.com/duyfken/alternative-front-ends/tree/mobile), [TV Front-ends](https://github.com/duyfken/alternative-front-ends/tree/tv)  or [Desktop Front-ends](https://github.com/duyfken/alternative-front-ends/tree/desktop), please visit those branches of this repository.
+> If you would like [Web Front-ends](https://github.com/duyfken/alternative-front-ends/tree/web), [Mobile Front-ends](https://github.com/duyfken/alternative-front-ends/tree/mobile)  or [Desktop Front-ends](https://github.com/duyfken/alternative-front-ends/tree/desktop), please visit those branches of this repository.
 ___
 ⓘ [Redirector](https://github.com/einaregilsson/Redirector) rules based on services provided in this list can be found **[here](https://github.com/duyfken/RedirectorPrivacyAlternatives)**
 ___
@@ -18,15 +18,15 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Apple Music](#applemusic) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
-☰ You can jump between sections via the little menu icon above to the left. 
+☰ You can view this contents list and jump between sections via the little menu icon above to the right.
 
 ⓘ Check out the [tools section](#tools) at the bottom to find out how to easily adopt and even self-host.
 ___
-### Chefkoch
+### Apple Music
 
-- **gocook** :de:
+- **Cider** :moneybag:
 
    - An alternative frontend to Chefkoch, a German-language food recipe portal, with a focus on privacy.
    - [Official Instance](https://cook.adminforge.de/) | [Repo](https://github.com/NoUmlautsAllowed/gocook)
