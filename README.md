@@ -1,11 +1,11 @@
-## Alternative Web Front-ends
+## Alternative Mobile Front-ends
 
-**This is a list of privacy-respecting front-ends to popular online services, including social media, streaming and information services. All of the options here are cross-platform webapps and should work on your device no matter the OS and hardware.**
+**This is a list of privacy-respecting front-ends to popular online services, including social media, streaming and information services. All of the options here are mobile apps for Android or iOS.**
 
 > [!NOTE]
-> You are viewing the [Web Front-ends](https://github.com/duyfken/alternative-front-ends/tree/web) branch of this list!
+> You are viewing the [Mobile Front-ends](https://github.com/duyfken/alternative-front-ends/tree/web) branch of this list!
 > 
-> If you would like [Mobile Front-ends](https://github.com/duyfken/alternative-front-ends/tree/mobile), [TV Front-ends](https://github.com/duyfken/alternative-front-ends/tree/tv)  or [Desktop Front-ends](https://github.com/duyfken/alternative-front-ends/tree/desktop), please visit those branches of this repository.
+> If you would like [Web Front-ends](https://github.com/duyfken/alternative-front-ends/tree/web), [TV Front-ends](https://github.com/duyfken/alternative-front-ends/tree/tv)  or [Desktop Front-ends](https://github.com/duyfken/alternative-front-ends/tree/desktop), please visit those branches of this repository.
 ___
 ⓘ [Redirector](https://github.com/einaregilsson/Redirector) rules based on services provided in this list can be found **[here](https://github.com/duyfken/RedirectorPrivacyAlternatives)**
 ___
@@ -18,33 +18,32 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Discord](#discord) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can jump between sections via the little menu icon above to the left. 
 
 ⓘ Check out the [tools section](#tools) at the bottom to find out how to easily adopt and even self-host.
 ___
-### Chefkoch
+### Discord
 
-- **gocook** :de:
+> [!WARNING]
+> While alternative front-ends for Discord will work, they are against Discord's Terms of Service and you could be banned in the future if they choose to start enforcing [the relevant section of their ToS](https://discord.com/terms#6). Use at your own risk!
 
-   - An alternative frontend to Chefkoch, a German-language food recipe portal, with a focus on privacy.
-   - [Official Instance](https://cook.adminforge.de/) | [Repo](https://github.com/NoUmlautsAllowed/gocook)
-   - [Public Instances](https://github.com/NoUmlautsAllowed/gocook#hosted-instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/NoUmlautsAllowed/gocook#build-and-deployment)
+- **Aliucord**
 
+   - Aliucord is a customizable Discord client that offers a wide range of features and functionality beyond what's available in the standard Discord client. With Aliucord, users can customize their Discord experience to suit their needs and preferences, from changing the look and feel of the app to adding new features and integrations.
+   - [Official Instance](https://aliucord.com/) | [Repo](https://github.com/Aliucord/Aliucord)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/uowuo/abaddon?tab=readme-ov-file#building-manually-recommended-if-not-on-windows)
+   - [x] Android
 
-### Fandom
+- **Bunny**
 
-- **BreezeWiki**
-
-   - A privacy-friendly, decluttered front-end for Fandom wikis.
-   - [Official Instance](https://breezewiki.com/) | [Repo](https://gitdab.com/cadence/breezewiki)
-   - [Public Instances](https://docs.breezewiki.com/Links.html#%28part._.Instances%29)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://docs.breezewiki.com/Running.html)
-   - [x] Decentralised Options | [Onion](https://docs.breezewiki.com/Links.html#(part._.Onion_.Mirrors))
+   - A client mod for Discord mobile, fork of Vendetta.
+   - Official Instance (N/A) | [Repo](https://github.com/pyoncord/Bunny)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/pyoncord/Bunny#installing)
+   - [x] Android and iOS
 
 
 ### Genius
