@@ -20,7 +20,7 @@ A to Z + Tools
 
 [Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
-☰ You can jump between sections via the little menu icon above to the left. 
+☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
 ⓘ Check out the [tools section](#tools) at the bottom to find out how to easily adopt and even self-host.
 ___
