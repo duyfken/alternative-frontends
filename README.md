@@ -1,11 +1,11 @@
-## Alternative Web Front-ends
+## Alternative Desktop Front-ends
 
-**This is a list of privacy-respecting front-ends to popular online services, including social media, streaming and information services. All of the options here are cross-platform webapps and should work on your device no matter the OS and hardware.**
+**This is a list of privacy-respecting front-ends to popular online services, including social media, streaming and information services. All of the options here are desktop apps for Linux, Mac or Windows.**
 
 > [!NOTE]
-> You are viewing the [Web Front-ends](https://github.com/duyfken/alternative-front-ends/tree/web) branch of this list!
+> You are viewing the [Desktop Front-ends](https://github.com/duyfken/alternative-front-ends/tree/desktop) branch of this list!
 > 
-> If you would like [Mobile Front-ends](https://github.com/duyfken/alternative-front-ends/tree/mobile), [TV Front-ends](https://github.com/duyfken/alternative-front-ends/tree/tv)  or [Desktop Front-ends](https://github.com/duyfken/alternative-front-ends/tree/desktop), please visit those branches of this repository.
+> If you would like [Web Front-ends](https://github.com/duyfken/alternative-front-ends/tree/web), [Mobile Front-ends](https://github.com/duyfken/alternative-front-ends/tree/mobile) or [TV Front-ends](https://github.com/duyfken/alternative-front-ends/tree/tv), please visit those branches of this repository.
 ___
 ⓘ [Redirector](https://github.com/einaregilsson/Redirector) rules based on services provided in this list can be found **[here](https://github.com/duyfken/RedirectorPrivacyAlternatives)**
 ___
@@ -18,21 +18,136 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Apple Music](#applemusic) • [Discord](#discord) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can jump between sections via the little menu icon above to the left. 
 
 ⓘ Check out the [tools section](#tools) at the bottom to find out how to easily adopt and even self-host.
 ___
-### Chefkoch
+### Apple Music
 
-- **gocook** :de:
+- **Cider** :moneybag:
 
-   - An alternative frontend to Chefkoch, a German-language food recipe portal, with a focus on privacy.
-   - [Official Instance](https://cook.adminforge.de/) | [Repo](https://github.com/NoUmlautsAllowed/gocook)
-   - [Public Instances](https://github.com/NoUmlautsAllowed/gocook#hosted-instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/NoUmlautsAllowed/gocook#build-and-deployment)
+   - Cider-2 is a modern Apple Music app built using Vue.js, TypeScript, and an Electron/.NET backend. It provides a sleek and intuitive user interface to enjoy your favorite music from the Apple Music library.
+   - [Official Website](https://cider.sh/) | [Repo](https://github.com/ciderapp/Cider-2)
+   - [ ] Closed Source, Paid App
+   - [ ] [Download for USD$3.49 or more](https://cidercollective.itch.io/cider) (due to use of the Apple MusicKit proprietary API)
+   - [x] Linux, Mac and Windows
+
+
+### Discord
+
+> [!WARNING]
+> While alternative front-ends for Discord will work, they are against Discord's Terms of Service and you could be banned in the future if they choose to start enforcing [the relevant section of their ToS](https://discord.com/terms#6). Use at your own risk!
+
+- **Abaddon**
+
+   - An alternative Discord client with voice support made with C++ and GTK 3.
+   - Official Website (N/A) | [Repo](https://github.com/uowuo/abaddon)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/uowuo/abaddon?tab=readme-ov-file#building-manually-recommended-if-not-on-windows)
+   - [x] Linux, Mac and Windows
+
+   ⓘ Pre-built binary is currently only available for Windows. Linux and Mac binaries must be built from the source code.
+
+- **ArmCord**
+
+   - ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
+   - [Official Website](https://armcord.app/) | [Repo](https://github.com/ArmCord/ArmCord)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/ArmCord/ArmCord#packaging-status)
+   - [x] Linux, Mac and Windows
+
+- **Datcord**
+
+   - Datcord is an open-source Discord client that respects your privacy. Datcord is a specialized version of Firefox (the official client is Chromium-based).
+   - Official Website (N/A) | [Repo](https://github.com/gamingdoom/datcord)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/gamingdoom/datcord#install)
+   - [x] Linux and Windows
+
+- **Discord Messenger for Windows**
+
+   - Discord Messenger is a messenger application designed to be compatible with Discord, while being backwards compatible with down to Windows 2000 (although support for even older versions has been attempted).
+   - Official Website (N/A) | [Repo](https://github.com/DiscordMessenger/dm)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/DiscordMessenger/dm/releases)
+   - [x] Windows
+
+- **Discordo**
+
+   - Discordo is a lightweight, secure, and feature-rich Discord terminal client. Heavily work-in-progress, expect breaking changes.
+   - Official Website (N/A) | [Repo](https://github.com/ayn2op/discordo)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/ayn2op/discordo#installation)
+   - [x] Linux, Mac and Windows
+
+- **Dissent**
+
+   - Dissent (previously gtkcord4) is a third-party Discord client designed for a smooth, native experience on Linux and Windows desktops. Built with GTK4 and libadwaita for a modern look and feel, it delivers your favorite Discord app in a lightweight and visually appealing package.
+   - Official Website (N/A) | [Repo](https://github.com/diamondburned/dissent)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/diamondburned/dissent#installation)
+   - [x] Linux and Windows
+
+- **Dorion**
+
+   - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!
+   - [Official Website](https://spikehd.github.io/projects/dorion/) | [Repo](https://github.com/SpikeHD/Dorion)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/SpikeHD/Dorion#download)
+   - [x] Linux, Mac and Windows
+
+- **GoofCord**
+
+   - Take control of your Discord experience with GoofCord – the highly configurable and privacy-focused Discord client.
+Based on ArmCord.
+   - Official Website (N/A) | [Repo](https://github.com/Milkshiift/GoofCord)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/Milkshiift/GoofCord#ready-to-dive-in)
+   - [x] Linux, Mac and Windows
+
+- **Qtcord**
+
+   - Qtcord is a Discord client built with QT aiming to bring a lightweight, native experience.
+   - Official Website (N/A) | [Repo](https://github.com/mak448a/Qtcord)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/mak448a/Qtcord/releases)
+   - [x] Linux and Windows
+
+- **Ripcord** :moneybag:
+
+   - Ripcord is a desktop chat client for group-centric services like Slack and Discord. It provides a traditional compact desktop interface designed for power users. It's not built on top of web browser technology: it has a small resource footprint, responds quickly to input, and gets out of your way.
+   - [Official Website](https://cancel.fm/ripcord/) | Repo (N/A)
+   - [ ] Closed Source, Shareware App
+   - [ ] [Download for free](https://cancel.fm/ripcord/#download)
+   - [x] Linux, Mac and Windows
+
+   ⓘ Ripcord is shareware. You can try it without paying, but if you use the Slack features, you'll eventually need to pay up (USD$20).
+
+- **Swiftcord**
+
+   - Swiftcord is beautiful, follows design principals of the official client while keeping the macOS look and feel that you love, and most importantly, its (really) fast!
+   - [Official Website](https://swiftcordapp.github.io/Swiftcord/) | [Repo](https://github.com/SwiftcordApp/Swiftcord)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/SwiftcordApp/Swiftcord#releases)
+   - [x] Mac
+
+- **Vesktop**
+
+   - Vesktop is a custom Discord App aiming to give you better performance.
+   - [Official Website](https://vencord.dev/) | [Repo](https://github.com/Vencord/Vesktop)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/Vencord/Vesktop#installing)
+   - [x] Linux, Mac and Windows (Browser plugin, Vencord Web, is also avilable)
+
+- **WebCord**
+
+   - A Discord and Spacebar client implemented directly without Discord API. Made in 🇵🇱 with the Electron framework.
+   - Official Website (N/A) | [Repo](https://github.com/SpacingBat3/WebCord)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/SpacingBat3/WebCord/releases)
+   - [x] Linux, Mac and Windows
 
 
 ### Fandom
