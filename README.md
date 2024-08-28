@@ -32,7 +32,7 @@ ___
 - **Aliucord**
 
    - Aliucord is a customizable Discord client that offers a wide range of features and functionality beyond what's available in the standard Discord client. With Aliucord, users can customize their Discord experience to suit their needs and preferences, from changing the look and feel of the app to adding new features and integrations.
-   - [Official Instance](https://aliucord.com/) | [Repo](https://github.com/Aliucord/Aliucord)
+   - [Official Website](https://aliucord.com/) | [Repo](https://github.com/Aliucord/Aliucord)
    - [x] Open Source
    - [x] [Download for free](https://github.com/uowuo/abaddon?tab=readme-ov-file#building-manually-recommended-if-not-on-windows)
    - [x] Android
@@ -40,7 +40,7 @@ ___
 - **Bunny**
 
    - A client mod for Discord mobile, fork of Vendetta.
-   - Official Instance (N/A) | [Repo](https://github.com/pyoncord/Bunny)
+   - Official Website (N/A) | [Repo](https://github.com/pyoncord/Bunny)
    - [x] Open Source
    - [x] [Download for free](https://github.com/pyoncord/Bunny#installing)
    - [x] Android and iOS
