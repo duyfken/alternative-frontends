@@ -18,12 +18,45 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Apple Music](#applemusic) • [Discord](#discord) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Messenger](#messenger) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
 ⓘ Check out the [tools section](#tools) at the bottom to find out how to easily adopt and even self-host.
 ___
+### Multi-service
+
+- **Beeper**
+
+   - Beeper is a universal chat app. With Beeper, you can send and receive messages to friends, family and colleagues on up to 14 different chat networks, all from a single app. Uses open source Matrix network bridges.
+   - [Official Website](https://www.beeper.com/) | [Repo](N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://www.beeper.com/download)
+   - [x] Linux, Mac and Windows + Android and iOS
+
+   ⓘ Beeper currently supports Discord, Google Chat, Google Messages (RCS/SMS), Instagram, LinkedIn, Matrix, Messenger, Signal, Slack, Telegram, WhatsApp and X (Twitter)
+
+- **Ferdium**
+
+   - All your services in one place, built by the community. 
+   - [Official Website](https://ferdium.org/) | [Repo](https://github.com/ferdium/ferdium-app)
+   - [x] Open Source
+   - [x] [Download for free](https://ferdium.org/download)
+   - [x] Linux, Mac and Windows
+
+   ⓘ Ferdium currently supports ***over 350 services***, including all the usual suspects, and even allows anyone to create a custom service!
+
+- **Ripcord** :moneybag:
+
+   - Ripcord is a desktop chat client for Slack and Discord. It provides a traditional compact desktop interface designed for power users. It's not built on top of web browser technology: it has a small resource footprint, responds quickly to input, and gets out of your way.
+   - [Official Website](https://cancel.fm/ripcord/) | Repo (N/A)
+   - [ ] Closed Source, Shareware App
+   - [ ] [Download for free](https://cancel.fm/ripcord/#download)
+   - [x] Linux, Mac and Windows
+
+   ⓘ Ripcord is shareware. You can try it without paying, but if you use the Slack features, you'll eventually need to pay up (USD$20).
+
+
 ### Apple Music
 
 - **Cider** :moneybag:
@@ -114,16 +147,6 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://github.com/mak448a/Qtcord/releases)
    - [x] Linux and Windows
-
-- **Ripcord** :moneybag:
-
-   - Ripcord is a desktop chat client for group-centric services like Slack and Discord. It provides a traditional compact desktop interface designed for power users. It's not built on top of web browser technology: it has a small resource footprint, responds quickly to input, and gets out of your way.
-   - [Official Website](https://cancel.fm/ripcord/) | Repo (N/A)
-   - [ ] Closed Source, Shareware App
-   - [ ] [Download for free](https://cancel.fm/ripcord/#download)
-   - [x] Linux, Mac and Windows
-
-   ⓘ Ripcord is shareware. You can try it without paying, but if you use the Slack features, you'll eventually need to pay up (USD$20).
 
 - **Swiftcord**
 
@@ -268,25 +291,15 @@ Based on ArmCord.
    ⓘ Bibliogram's development has stopped as Instagram is continuing to block servers (if you want to pick up the development of Bibliogram, check [this blog post](https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram) by the original maintainer). There currently is no working open source front-end for Instagram. For some reason, closed source proxy sites like [this one](https://www.pixwox.com) continue working despite doing the exact same thing Bibliogram did.
 
 
-### Medium
+### Messenger
 
-- **Scribe**
+- **Caprine**
 
-   - Tracking- and ad-free FOSS front-end for Medium.
-   - [Official Instance](https://scribe.rip) | [Repo](https://git.sr.ht/~edwardloveall/scribe)
-   - [Public Instances](https://git.sr.ht/~edwardloveall/scribe/tree/main/docs/instances.md)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://git.sr.ht/~edwardloveall/scribe#deploying-your-own)
-   - [x] Decentralised Options | [I2P](http://sc.vern.i2p) | [Onion](http://w7uhv5lxhgck72hhimdglmusc54t4m6bionlmd5mvyddq3bs53mohqid.onion/)
-
-- **LibMedium**
-
-   - Minimalist proxy for Medium written in Rust.
-   - [Official Instance](https://libmedium.batsense.net) | [Repo](https://github.com/realaravinth/libmedium)
-   - [Public Instances](https://github.com/realaravinth/libmedium#instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/realaravinth/libmedium#deploy)
-   - [x] Decentralised Options | [I2P](http://vernaqj2qr2pijpgvf3od6ssc3ulz3nv52gwr3hba5l6humuzmgq.b32.i2p/) | [Onion](http://md.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
+   - Caprine is an unofficial and privacy-focused Facebook Messenger app with many useful features.
+   - Official Website (N/A) | [Repo](https://github.com/sindresorhus/caprine)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/sindresorhus/caprine#install)
+   - [x] Linux, Mac and Windows
 
 
 ### Odysee
@@ -294,7 +307,7 @@ Based on ArmCord.
 - **Librarian**
 
    - Open-Source, lightweight and privacy-respecting frontened for Odysee.
-   - Official Instance (N/A) | [Repo](https://codeberg.org/librarian/librarian)
+   - Official Website (N/A) | [Repo](https://codeberg.org/librarian/librarian)
    - [Public Instances](https://codeberg.org/librarian/librarian#clearnet)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/librarian/librarian#install)
