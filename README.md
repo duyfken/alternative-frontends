@@ -18,12 +18,25 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Discord](#discord) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
 ⓘ Check out the [tools section](#tools) at the bottom to find out how to easily adopt and even self-host.
 ___
+### Multi-service apps
+
+- **Beeper**
+
+   - Beeper is a universal chat app. With Beeper, you can send and receive messages to friends, family and colleagues on up to 14 different chat networks, all from a single app. Uses open source Matrix network bridges.
+   - [Official Website](https://www.beeper.com/) | [Repo](N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://www.beeper.com/download)
+   - [x] Android and iOS + Linux, Mac and Windows
+
+   ⓘ Beeper currently supports Discord, Google Chat, Google Messages (RCS/SMS), Instagram, LinkedIn, Matrix, Messenger, Signal, Slack, Telegram, WhatsApp and X (Twitter)
+
+
 ### Discord
 
 > [!WARNING]
@@ -44,6 +57,17 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://github.com/pyoncord/Bunny#installing)
    - [x] Android and iOS
+
+
+### Facebook
+
+- **SlimSocial for Facebook**
+
+   - Light version of Facebook. Light both in the weight and in the use. 
+   - Official Website (N/A) | [Repo](https://github.com/rignaneseleo/SlimSocial-for-Facebook)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/rignaneseleo/SlimSocial-for-Facebook#getting-started)
+   - [x] Android
 
 
 ### Genius
