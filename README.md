@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Messenger](#messenger) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Medium](#medium) • [Messenger](#messenger) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -289,6 +289,57 @@ Based on ArmCord.
    - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Installing%20%28extended%29.md)
 
    ⓘ Bibliogram's development has stopped as Instagram is continuing to block servers (if you want to pick up the development of Bibliogram, check [this blog post](https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram) by the original maintainer). There currently is no working open source front-end for Instagram. For some reason, closed source proxy sites like [this one](https://www.pixwox.com) continue working despite doing the exact same thing Bibliogram did.
+
+
+### Mastodon
+
+- **Ebou**
+
+   - A cross platform Mastodon Client with a Messenger feel, written in Rust.
+   - [Official Website](https://terhech.de/ebou/) | [Repo](https://github.com/terhechte/Ebou)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/terhechte/Ebou#signing--releasing)
+   - [x] Linux and Mac
+
+- **Sengi**
+
+   - Sengi is a Mastodon and Pleroma desktop focused client. The Sengi desktop app is an Electron Wrapper for the webapp.
+   - [Official Website](https://nicolasconstant.github.io/sengi/) | [Repo](https://github.com/NicolasConstant/sengi-electron)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/NicolasConstant/sengi-electron/releases)
+   - [x] Linux, Mac and Windows
+
+- **Tuba**
+
+   - Explore the federated social web with Tuba for GNOME.
+   - [Official Website](https://tuba.geopjr.dev/) | [Repo](https://github.com/GeopJr/Tuba)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/GeopJr/Tuba#install)
+   - [x] Linux
+
+- **Toot**
+
+   - Toot is a CLI and TUI tool for interacting with Mastodon instances from the command line.
+   - Official Website (N/A) | [Repo](https://github.com/ihabunek/toot)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/ihabunek/toot/releases)
+   - [x] Linux
+
+- **Tut**
+
+   - A TUI for Mastodon with vim inspired keys. The program has most of the features you can find in the web client.
+   - [Official Website](https://tut.anv.nu/) | [Repo](https://github.com/RasmusLindroth/tut)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/RasmusLindroth/tut#install-instructions)
+   - [x] Linux
+
+- **Whalebird**
+
+   - Whalebird is a Fediverse client app for desktop.
+   - [Official Website](https://whalebird.social/) | [Repo](https://github.com/h3poteto/whalebird-desktop)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/h3poteto/whalebird-desktop#install)
+   - [x] Linux, Mac and Windows
 
 
 ### Messenger
