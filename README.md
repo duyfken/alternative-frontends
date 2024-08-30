@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [GitHub](#github) • [Goodreads](#goodreads) • [Google Play Store](#google-play-store) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -70,25 +70,39 @@ ___
    - [x] Android
 
 
-### Genius
+### F-Droid
 
-- **Dumb**
+- **APKUpdater**
 
-   - Dumb tries to make reading lyrics from Genius a pleasant experience and as lightweight as possible.
-   - Official Instance (N/A) | [Repo](https://github.com/rramiachraf/dumb)
-   - [Public Instances](https://github.com/rramiachraf/dumb#public-instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/rramiachraf/dumb#installation--usage)
-   - [x] Decentralised Options | [I2P](https://github.com/rramiachraf/dumb#public-instances) | [Onion](https://github.com/rramiachraf/dumb#public-instances)
+   - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps. It provides similar functionality to an app store, but instead of depending on a single source, it aggregates the results from APKMirror, Aptoide, F-Droid, IzzyOnDroid, APKPure, GitLab, GitHub and Google Play.
+   - Official Website (N/A) | [Repo](https://github.com/rumboalla/apkupdater/)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/rumboalla/apkupdater/#download)
+   - [x] Android and Android TV
 
-- **Intellectual**
+- **Droid-ify**
 
-   - Intellectual is an alternative frontend for Genius focused on privacy and simplicity. Written in Rust, Intellectual is incredibly lightweight, not requiring JavaScript and proxying all requests through the server, including images.
-   - [Official Instance](https://intellectual.insprill.net/) | [Repo](https://github.com/Insprill/intellectual)
-   - [Public Instances](https://github.com/Insprill/intellectual#instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/Insprill/intellectual#deployment)
-   - [x] Decentralised Options | [I2P](https://github.com/Insprill/intellectual?tab=readme-ov-file#clearnet) | [Onion](https://github.com/Insprill/intellectual?tab=readme-ov-file#clearnet)
+   - F-Droid client with Material UI.
+   - Official Website (N/A) | [Repo](https://github.com/Droid-ify/client)
+   - [x] Open Source
+   - [x] [Download for free](https://f-droid.org/en/packages/com.looker.droidify/)
+   - [x] Android
+
+- **Neo-Store**
+
+   - An F-Droid client with modern UI and an arsenal of extra features. 
+   - Official Website (N/A) | [Repo](https://github.com/NeoApplications/Neo-Store)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/NeoApplications/Neo-Store/releases)
+   - [x] Android
+
+- **Obtainium**
+
+   - Get Android app updates straight from the source. Obtainium allows you to install and update apps directly from their releases pages, and receive notifications when new releases are made available.
+   - [Official Website](https://obtainium.imranr.dev/) | [Repo](https://github.com/ImranR98/Obtainium)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/ImranR98/Obtainium#installation)
+   - [x] Android
 
 
 ### GitHub
@@ -113,6 +127,43 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/nesaku/BiblioReads#installation)
    - [x] Decentralised Options | [I2P](http://vernapl3lpo3huqdx3pjzxqgdgavxjlmdskbvejh2gfqgmjuyvxq.b32.i2p/) | [Onion](http://bl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
+
+
+### Google Play Store
+
+- **APKUpdater**
+
+   - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps. It provides similar functionality to an app store, but instead of depending on a single source, it aggregates the results from APKMirror, Aptoide, F-Droid, IzzyOnDroid, APKPure, GitLab, GitHub and Google Play.
+   - Official Website (N/A) | [Repo](https://github.com/rumboalla/apkupdater/)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/rumboalla/apkupdater/#download)
+   - [x] Android and Android TV
+
+- **Aurora Store**
+
+   - Aurora Store enables you to search and download apps from the official Google Play store. You can check app descriptions, screenshots, updates, reviews, and download the APK directly from Google Play to your device.
+   - Official Website (N/A) | [Repo](https://gitlab.com/AuroraOSS/AuroraStore)
+   - [x] Open Source
+   - [x] [Download for free](https://gitlab.com/AuroraOSS/AuroraStore#downloads)
+   - [x] Android and Android TV
+
+- **F-Droid**
+
+   - F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. This client makes it easy to browse, install, and keep track of updates on your device.
+   - [Official Website](https://f-droid.org/) | [Repo](https://gitlab.com/fdroid/fdroidclient)
+   - [x] Open Source
+   - [x] [Download for free](https://gitlab.com/fdroid/fdroidclient#direct-download)
+   - [x] Android
+
+   ⓘ Make sure to check the [F-Droid section](#f-droid) for alternative front-ends to the many F-Droid compatible app respositories available for Android.
+
+- **Obtainium**
+
+   - Get Android app updates straight from the source. Obtainium allows you to install and update apps directly from their releases pages, and receive notifications when new releases are made available.
+   - [Official Website](https://obtainium.imranr.dev/) | [Repo](https://github.com/ImranR98/Obtainium)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/ImranR98/Obtainium#installation)
+   - [x] Android
 
 
 ### IMDb
