@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -151,6 +151,49 @@ ___
    - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Installing%20%28extended%29.md)
 
    ⓘ Bibliogram's development has stopped as Instagram is continuing to block servers (if you want to pick up the development of Bibliogram, check [this blog post](https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram) by the original maintainer). There currently is no working open source front-end for Instagram. For some reason, closed source proxy sites like [this one](https://www.pixwox.com) continue working despite doing the exact same thing Bibliogram did.
+
+
+### Mastodon
+
+- **Elk**
+
+   - A nimble Mastodon web client.
+   - [Official Instance](https://elk.zone/) | [Repo](https://github.com/elk-zone/elk)
+   - [Public Instances](https://github.com/elk-zone/elk#ecosystem)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/elk-zone/elk#deployment)
+
+- **feedi**
+
+   - A personal news aggregator and Mastodon client.
+   - Official Instance (N/A) | [Repo](https://github.com/facundoolano/feedi)
+   - Public Instances (N/A)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/facundoolano/feedi#installation)
+
+- **Mastodon Bird UI**
+
+   - Mastodon web UI, but strongly inspired by Twitter.
+   - [Official Instance](https://mementomori.social/) | [Repo](https://github.com/ronilaukkarinen/mastodon-bird-ui)
+   - [Public Instances](https://github.com/ronilaukkarinen/mastodon-bird-ui#list-of-instances-that-use-mastodon-bird-ui)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/ronilaukkarinen/mastodon-bird-ui#installation-for-mastodon-instance-admins)
+
+- **Phanpy**
+
+   - A minimalistic opinionated Mastodon web client.
+   - [Official Instance](https://phanpy.social/) | [Repo](https://github.com/cheeaun/phanpy)
+   - [Public Instances](https://github.com/cheeaun/phanpy#community-deployments)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/cheeaun/phanpy#self-hosting)
+
+- **Sengi**
+
+   - Sengi is a Mastodon and Pleroma desktop focused client. It takes inspiration from the old Tweetdeck client, the new Tweetdeck webapp and Mastodon UI.
+   - [Official Instance](https://nicolasconstant.github.io/sengi/#) | [Repo](https://github.com/NicolasConstant/sengi)
+   - Public Instances (N/A)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/NicolasConstant/sengi#docker)
 
 
 ### Medium
