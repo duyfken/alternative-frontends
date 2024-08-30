@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Apple Music](#applemusic) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Apple Music](#applemusic) • [F-Droid](#f-droid) • [GitHub](#github) • [Goodreads](#goodreads) • [Google Play Store](#google-play-store) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right.
 
@@ -35,37 +35,15 @@ ___
    - [x] Self-Hostable | [Guide](https://github.com/NoUmlautsAllowed/gocook#build-and-deployment)
 
 
-### Fandom
+### F-Droid
 
-- **BreezeWiki**
+- **APKUpdater**
 
-   - A privacy-friendly, decluttered front-end for Fandom wikis.
-   - [Official Instance](https://breezewiki.com/) | [Repo](https://gitdab.com/cadence/breezewiki)
-   - [Public Instances](https://docs.breezewiki.com/Links.html#%28part._.Instances%29)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://docs.breezewiki.com/Running.html)
-   - [x] Decentralised Options | [Onion](https://docs.breezewiki.com/Links.html#(part._.Onion_.Mirrors))
-
-
-### Genius
-
-- **Dumb**
-
-   - Dumb tries to make reading lyrics from Genius a pleasant experience and as lightweight as possible.
-   - Official Instance (N/A) | [Repo](https://github.com/rramiachraf/dumb)
-   - [Public Instances](https://github.com/rramiachraf/dumb#public-instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/rramiachraf/dumb#installation--usage)
-   - [x] Decentralised Options | [I2P](https://github.com/rramiachraf/dumb#public-instances) | [Onion](https://github.com/rramiachraf/dumb#public-instances)
-
-- **Intellectual**
-
-   - Intellectual is an alternative frontend for Genius focused on privacy and simplicity. Written in Rust, Intellectual is incredibly lightweight, not requiring JavaScript and proxying all requests through the server, including images.
-   - [Official Instance](https://intellectual.insprill.net/) | [Repo](https://github.com/Insprill/intellectual)
-   - [Public Instances](https://github.com/Insprill/intellectual#instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/Insprill/intellectual#deployment)
-   - [x] Decentralised Options | [I2P](https://github.com/Insprill/intellectual?tab=readme-ov-file#clearnet) | [Onion](https://github.com/Insprill/intellectual?tab=readme-ov-file#clearnet)
+   - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps. It provides similar functionality to an app store, but instead of depending on a single source, it aggregates the results from APKMirror, Aptoide, F-Droid, IzzyOnDroid, APKPure, GitLab, GitHub and Google Play.
+   - Official Website (N/A) | [Repo](https://github.com/rumboalla/apkupdater/)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/rumboalla/apkupdater/#download)
+   - [x] Android and Android TV
 
 
 ### GitHub
@@ -90,6 +68,25 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/nesaku/BiblioReads#installation)
    - [x] Decentralised Options | [I2P](http://vernapl3lpo3huqdx3pjzxqgdgavxjlmdskbvejh2gfqgmjuyvxq.b32.i2p/) | [Onion](http://bl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
+
+
+### Google Play Store
+
+- **APKUpdater**
+
+   - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps. It provides similar functionality to an app store, but instead of depending on a single source, it aggregates the results from APKMirror, Aptoide, F-Droid, IzzyOnDroid, APKPure, GitLab, GitHub and Google Play.
+   - Official Website (N/A) | [Repo](https://github.com/rumboalla/apkupdater/)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/rumboalla/apkupdater/#download)
+   - [x] Android and Android TV
+
+- **Aurora Store**
+
+   - Aurora Store enables you to search and download apps from the official Google Play store. You can check app descriptions, screenshots, updates, reviews, and download the APK directly from Google Play to your device.
+   - Official Website (N/A) | [Repo](https://gitlab.com/AuroraOSS/AuroraStore)
+   - [x] Open Source
+   - [x] [Download for free](https://gitlab.com/AuroraOSS/AuroraStore#downloads)
+   - [x] Android and Android TV
 
 
 ### IMDb
