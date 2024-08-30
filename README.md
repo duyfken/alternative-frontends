@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [GitHub](#github) • [Goodreads](#goodreads) • [Google Play Store](#google-play-store) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [GitHub](#github) • [Goodreads](#goodreads) • [Google Play Store](#google-play-store) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -225,6 +225,89 @@ ___
    - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Installing%20%28extended%29.md)
 
    ⓘ Bibliogram's development has stopped as Instagram is continuing to block servers (if you want to pick up the development of Bibliogram, check [this blog post](https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram) by the original maintainer). There currently is no working open source front-end for Instagram. For some reason, closed source proxy sites like [this one](https://www.pixwox.com) continue working despite doing the exact same thing Bibliogram did.
+
+
+### Mastodon
+
+- **Dhaaga**
+
+   - Dhaaga is a fediverse social app for smartphones, which adds a lot of cool and unique client-side functionalities. It focuses on making it easy to chat and make friends, adds superior offline support and makes the friendiverse intuitive and fun to use for all users, new and old.
+   - [Official Website](https://dhaaga.app/) | [Repo](https://github.com/suvam0451/dhaaga)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/suvam0451/dhaaga?tab=readme-ov-file)
+   - [x] Android
+
+- **FediLab**
+
+   - Fedilab is a multi-accounts client for Mastodon, Pleroma, Friendica and Pixelfed.
+   - Official Website (N/A) | [Repo](https://codeberg.org/tom79/Fedilab)
+   - [x] Open Source
+   - [x] [Download for free](https://codeberg.org/tom79/Fedilab#download)
+   - [x] Android
+
+- **FocusMastodon**
+
+   - FocusMastodon is a bright and colourful Mastodon client.
+   - [Official Website](https://www.focus.hk.cn/) | [Repo](https://github.com/allentown521/FocusMastodon)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/allentown521/FocusMastodon#focusmastodon)
+   - [x] Android
+
+- **IceCubesApp**
+
+   - IceCubesApp is an open-source application for accessing the decentralized social network Mastodon! It's built entirely in SwiftUI, making it fast, lightweight, and easy to use.
+   - Official Website (N/A) | [Repo](https://github.com/Dimillian/IceCubesApp)
+   - [x] Open Source
+   - [x] [Download for free](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)
+   - [x] iOS
+
+- **Mastify**
+
+   - A Mastodon client built with Jetpack Compose.
+   - Official Website (N/A) | [Repo](https://github.com/whitescent/Mastify)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/whitescent/Mastify#mastify-wip)
+   - [x] Android
+
+- **Megalodon**
+
+   - A fork of the official Mastodon Android app adding important features that are missing in the official app, focusing on Glitch compatibility, a pretty UI and adding new features that the developer feels make using the Fediverse a more pleasant experience.
+   - [Official Website](https://sk22.github.io/megalodon) | [Repo](https://github.com/sk22/megalodon)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/sk22/megalodon#megalodon)
+   - [x] Android
+
+- **Moshidon**
+
+   - A fast, highly customizable, up-to-date fork of [megalodon](https://github.com/sk22/megalodon) adding important features such as a fully federated timeline, unlisted posting, drafts, scheduled posts, bookmarks, and alt text warnings.
+   - [Official Website](https://lucasggamerm.github.io/moshidon/) | [Repo](https://github.com/LucasGGamerM/moshidon)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/LucasGGamerM/moshidon#download-now)
+   - [x] Android
+
+- **Pachli**
+
+   - Pachli is a full-featured Android client for Mastodon, with a cooperative development model.
+   - [Official Website](https://pachli.app/) | [Repo](https://github.com/pachli/pachli-android)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/pachli/pachli-android#pachli)
+   - [x] Android
+
+- **Shitter**
+
+   - Lightweight Android app for Mastodon.
+   - Official Website (N/A) | [Repo](https://github.com/nuclearfog/Shitter)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/nuclearfog/Shitter#download)
+   - [x] Android
+
+- **Tusky**
+
+   - Tusky is a beautiful Android client for Mastodon.
+   - [Official Website](https://tusky.app/) | [Repo](https://github.com/tuskyapp/Tusky)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/tuskyapp/Tusky#tusky)
+   - [x] Android
 
 
 ### Medium
