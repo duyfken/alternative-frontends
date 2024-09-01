@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Messenger](#messenger) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [Shazam](#shazam) • [StackOverflow](#stackoverflow) • [TIDAL](#tidal) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Messenger](#messenger) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [Shazam](#shazam) • [Spotify](#spotify) • [StackOverflow](#stackoverflow) • [TIDAL](#tidal) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -615,6 +615,14 @@ Based on ArmCord.
 
 ### Spotify
 
+- **Kotify**
+
+   - Kotify is a multiplatform desktop client for Spotify focused on library organization for power users. A Spotify Premium account is required.
+   - Official Website (N/A) | [Repo](https://github.com/dzirbel/kotify)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/dzirbel/kotify#installation)
+   - [x] Linux and Windows
+
 - **Moosync**
 
    - Music player capable of playing local audio or from Youtube, Spotify and many more. A Spotify Premium account is required.
@@ -646,6 +654,14 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://flathub.org/apps/details/dev.alextren.Spot)
    - [x] Linux
+
+- **Spotiqueue**
+
+   - A terribly simple macOS app for keyboard-based, queue-oriented Spotify use.
+   - Official Website (N/A) | [Repo](https://github.com/toothbrush/Spotiqueue)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/toothbrush/Spotiqueue#download-and-install)
+   - [x] Mac
 
 - **Spotube**
 
