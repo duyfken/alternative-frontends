@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Messenger](#messenger) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Messenger](#messenger) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [Spotify](#spotify) • [StackOverflow](#stackoverflow) • [TIDAL](#tidal) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -594,6 +594,73 @@ Based on ArmCord.
    - [x] Decentralised Options | [Onion](https://searx.space)
 
 
+### Spotify
+
+- **Moosync**
+
+   - Music player capable of playing local audio or from Youtube, Spotify and many more. A Spotify Premium account is required.
+   - [Official Website](https://moosync.app/) | [Repo](https://github.com/Moosync/Moosync)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/Moosync/Moosync#releases)
+   - [x] Linux and Windows
+
+- **ncspot**
+
+   - An ncurses Spotify client written in Rust using librespot. A Spotify Premium account is required.
+   - Official Website (N/A) | [Repo](https://github.com/hrkfdn/ncspot)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/hrkfdn/ncspot/blob/main/doc/users.md)
+   - [x] Linux, Mac and Windows
+
+- **psst**
+
+   - A fast Spotify client with a native GUI written in Rust, without Electron. A Spotify Premium account is required.
+   - Official Website (N/A) | [Repo](https://github.com/jpochyla/psst)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/jpochyla/psst#download)
+   - [x] Linux, Mac and Windows
+
+- **Spot**
+
+   - GTK/Rust native Spotify client for the GNOME desktop. A Spotify Premium account is required.
+   - Official Website (N/A) | [Repo](https://github.com/xou816/spot)
+   - [x] Open Source
+   - [x] [Download for free](https://flathub.org/apps/details/dev.alextren.Spot)
+   - [x] Linux
+
+- **Spotube**
+
+   - Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! 
+   - [Official Website](https://spotube.krtirtho.dev/) | [Repo](https://github.com/KRTirtho/spotube)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/KRTirtho/spotube#-%EF%B8%8F-installation-guide)
+   - [x] Linux, Mac and Windows + Android
+
+- **spotify-qt**
+
+   - An unofficial Spotify client using Qt as a simpler, lighter alternative to the official client. A Spotify Premium account is required.
+   - Official Website (N/A) | [Repo](https://github.com/Rigellute/spotify-tui)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/kraxarn/spotify-qt#installing)
+   - [x] Linux and Windows
+
+- **Spotify TUI**
+
+   - A Spotify client for the terminal written in Rust. A Spotify Premium account is required.
+   - Official Website (N/A) | [Repo](https://github.com/Rigellute/spotify-tui)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/Rigellute/spotify-tui#installation)
+   - [x] Linux, Mac and Windows
+
+- **Strawberry**
+
+   - Strawberry is a music player and music collection organizer. It is a fork of Clementine released in 2018 aimed at music collectors and audiophiles. It's written in C++ using the Qt toolkit. A Spotify Premium account is required.
+   - [Official Website](https://www.strawberrymusicplayer.org/) | [Repo](https://github.com/strawberrymusicplayer/strawberry)
+   - [x] Open Source
+   - [x] [Download for free](https://www.strawberrymusicplayer.org/#download)
+   - [x] Linux, Mac and Windows
+
+
 ### StackOverflow
 
 - **AnonymousOverflow**
@@ -604,6 +671,25 @@ Based on ArmCord.
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/httpjamesm/AnonymousOverflow/wiki/Deployment)
    - [x] Decentralised Options | [I2P](https://aohub.httpjames.space/) | [Onion](https://aohub.httpjames.space/)
+ 
+
+### TIDAL
+
+- **Strawberry**
+
+   - Strawberry is a music player and music collection organizer. It is a fork of Clementine released in 2018 aimed at music collectors and audiophiles. It's written in C++ using the Qt toolkit.
+   - [Official Website](https://www.strawberrymusicplayer.org/) | [Repo](https://github.com/strawberrymusicplayer/strawberry)
+   - [x] Open Source
+   - [x] [Download for free](https://www.strawberrymusicplayer.org/#download)
+   - [x] Linux, Mac and Windows
+
+- **TIDAL Hi-Fi**
+
+   - The web version of listen.tidal.com running in electron with Hi-Fi (High & Max) support thanks to widevine.
+   - Official Website (N/A) | [Repo](https://github.com/Mastermindzh/tidal-hifi)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/Mastermindzh/tidal-hifi#installation)
+   - [x] Linux, Mac and Windows
 
 
 ### Tiktok
