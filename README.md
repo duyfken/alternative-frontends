@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [GitHub](#github) • [Goodreads](#goodreads) • [Google Play Store](#google-play-store) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [GitHub](#github) • [Goodreads](#goodreads) • [Google Play Store](#google-play-store) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [Spotify](#spotify) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -482,6 +482,17 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://docs.searxng.org/admin/index.html)
    - [x] Decentralised Options | [Onion](https://searx.space)
+
+
+### Spotify
+
+- **Spotube**
+
+   - Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! 
+   - [Official Website](https://spotube.krtirtho.dev/) | [Repo](https://github.com/KRTirtho/spotube)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/KRTirtho/spotube#-%EF%B8%8F-installation-guide)
+   - [x] Android + Linux, Mac and Windows
 
 
 ### StackOverflow
