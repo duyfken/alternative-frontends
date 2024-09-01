@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [GitHub](#github) • [Goodreads](#goodreads) • [Google Play Store](#google-play-store) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [GitHub](#github) • [Goodreads](#goodreads) • [Google Play Store](#google-play-store) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -308,6 +308,49 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://github.com/tuskyapp/Tusky#tusky)
    - [x] Android
+
+
+### Matrix
+
+- **Commet**
+
+   - Commet is a client for Matrix focused on providing a feature rich experience while maintaining a simple interface. The goal is to build a secure, privacy respecting app without compromising on the features you have come to expect from a modern chat client.
+   - [Official Website](https://commet.chat/) | [Repo](https://github.com/commetchat/commet)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/commetchat/commet/releases)
+   - [x] Android + Web + Linux and Windows
+
+- **Element X**
+
+   - Element X Android is a next-gen Matrix Android Client provided by element.io, using the Matrix Rust SDK and Jetpack Compose for Android or SwiftUI for iOS. This app is currently in a pre-alpha release stage with only basic functionalities.
+   - [Official Website](https://element.io/labs/element-x) | [Android Repo](https://github.com/element-hq/element-x-android) [iOS Repo](https://github.com/element-hq/element-x-ios)
+   - [x] Open Source
+   - [x] [Download for free](https://element.io/labs/element-x)
+   - [x] Android and iOS
+
+- **Quadrix**
+
+   - Minimal, simple, multi-platform chat client for the Matrix protocol.
+   - Official Website (N/A) | [Repo](https://github.com/alariej/quadrix)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/alariej/quadrix#one-code-base-several-platforms)
+   - [x] Android and iOS + Linux, Mac and Windows
+
+- **SchildiChat**
+
+   - SchildiChat for Android is a Matrix Client based on Element Android, featuring a different design and various extra tweaks, customization options, and additional community features.
+   - [Official Website](https://schildi.chat/) | [Repo](https://github.com/SchildiChat/SchildiChat-android)
+   - [x] Open Source
+   - [x] [Download for free](https://schildi.chat/android/)
+   - [x] Android + Web + Linux, Mac and Windows
+
+- **Syphon**
+
+   - Syphon aims to be built on the foundations of privacy, branding, and user experience in an effort to pull others away from proprietary chat platforms to the matrix protocol.
+   - [Official Website](https://syphon.org/) | [Repo](https://github.com/syphon-org/syphon)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/syphon-org/syphon/releases)
+   - [x] Android and iOS + Linux, Mac and Windows
 
 
 ### Medium
