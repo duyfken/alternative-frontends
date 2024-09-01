@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -194,6 +194,65 @@ ___
    - Public Instances (N/A)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/NicolasConstant/sengi#docker)
+
+
+### Matrix
+
+- **Cinny**
+
+   - A Matrix client focusing primarily on simple, elegant and secure interface. The main goal is to have an instant messaging application that is easy on people and has a modern touch.
+   - [Official Instance](https://app.cinny.in/) | [Repo](https://github.com/cinnyapp/cinny)
+   - Public Instances (N/A)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/cinnyapp/cinny#getting-started)
+
+- **Commet**
+
+   - Commet is a client for Matrix focused on providing a feature rich experience while maintaining a simple interface. The goal is to build a secure, privacy respecting app without compromising on the features you have come to expect from a modern chat client.
+   - [Official Instance](https://app.commet.chat/) | [Repo](https://github.com/commetchat/commet)
+   - Public Instances (N/A)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/commetchat/commet#building)
+
+- **Element**
+
+   - Element (formerly known as Vector and Riot) is a Matrix web client built using the Matrix React SDK.
+   - [Official Instance](https://app.element.io/) | [Repo](https://github.com/element-hq/element-web)
+   - Public Instances (N/A)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/element-hq/element-web/blob/develop/docs/install.md)
+
+- **FluffyChat**
+
+   - FluffyChat is an open source, nonprofit and cute Matrix client written in Flutter. The goal of the app is to create an easy to use instant messenger which is open source and accessible for everyone.
+   - [Official Instance](https://fluffychat.im/web) | [Repo](https://github.com/krille-chan/fluffychat)
+   - Public Instances (N/A)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/krille-chan/fluffychat/wiki/How-To-Build)
+
+- **Hydrogen**
+
+   - A minimal Matrix chat client, focused on performance, offline functionality, and broad browser support.
+   - [Official Instance](https://hydrogen.element.io/) | [Repo](https://github.com/element-hq/hydrogen-web)
+   - Public Instances (N/A)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/element-hq/hydrogen-web#how-to-use)
+
+- **SchildiChat**
+
+   - SchildiChat for Web is a Matrix Client based on Element Web/Desktop, featuring a different design and various extra tweaks, customization options, and additional community features.
+   - [Official Instance](https://app.schildi.chat/) | [Repo](https://github.com/SchildiChat/schildichat-desktop)
+   - Public Instances (N/A)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/SchildiChat/schildichat-desktop#building-schildichat-webdesktop)
+
+- **Syphon**
+
+   - Syphon aims to be built on the foundations of privacy, branding, and user experience in an effort to pull others away from proprietary chat platforms to the Matrix protocol.
+   - [Official Instance](https://app.schildi.chat/) | [Repo](https://github.com/SchildiChat/schildichat-desktop)
+   - Public Instances (N/A)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/SchildiChat/schildichat-desktop#building-schildichat-webdesktop)
 
 
 ### Medium
