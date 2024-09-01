@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Medium](#medium) • [Messenger](#messenger) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Messenger](#messenger) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -340,6 +340,137 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://github.com/h3poteto/whalebird-desktop#install)
    - [x] Linux, Mac and Windows
+
+
+### Matrix
+
+- **Chatty**
+
+   - A simple to use messaging app for 1:1 communication and small groups supporting SMS, MMS, Matrix and XMPP.
+   - Official Website (N/A) | [Repo](https://gitlab.gnome.org/World/Chatty)
+   - [x] Open Source
+   - [x] [Download for free](https://gitlab.gnome.org/World/Chatty#build-and-install)
+   - [x] Linux
+
+- **Cinny**
+
+   - Cinny is a matrix client focusing primarily on simple, elegant and secure interface. The desktop app is made with Tauri.
+   - [Official Website](https://cinny.in/) | [Repo](https://github.com/cinnyapp/cinny-desktop)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/cinnyapp/cinny-desktop#download)
+   - [x] Linux, Mac and Windows + Web
+
+- **Commet**
+
+   - Commet is a client for Matrix focused on providing a feature rich experience while maintaining a simple interface. The goal is to build a secure, privacy respecting app without compromising on the features you have come to expect from a modern chat client.
+   - [Official Website](https://commet.chat/) | [Repo](https://github.com/commetchat/commet)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/commetchat/commet/releases)
+   - [x] Linux and Windows + Web + Android
+
+- **Element Desktop**
+
+   - Element Desktop is a Matrix client for desktop platforms with Element Web at its core (it is an Electron-based app).
+   - Official Website (N/A) | [Repo](https://github.com/element-hq/element-desktop)
+   - [x] Open Source
+   - [x] [Download for free](https://element.io/download)
+   - [x] Linux, Mac and Windows + Web + Android and iOS
+
+- **Ement.el**
+
+   - Ement.el is a Matrix client for GNU Emacs. It aims to be simple, fast, featureful, and reliable, while integrating naturally with Emacs.
+   - Official Website (N/A) | [Repo](https://github.com/alphapapa/ement.el)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/alphapapa/ement.el?tab=readme-ov-file#installation)
+   - [x] Linux
+
+- **Fractal**
+
+   - Fractal is a Matrix messaging app for GNOME written in Rust. Its interface is optimized for collaboration in large groups, such as free software projects, and will fit all screens, big or small.
+   - Official Website (N/A) | [Repo](https://gitlab.gnome.org/World/fractal)
+   - [x] Open Source
+   - [x] [Download for free](https://gitlab.gnome.org/World/fractal#installation-instructions)
+   - [x] Linux
+
+- **gomuks**
+
+   - A terminal Matrix client written in Go using mautrix and mauview.
+   - [Official Website](https://maunium.net/go/gomuks) | [Repo](https://github.com/tulir/gomuks)
+   - [x] Open Source
+   - [x] [Download for free](https://docs.mau.fi/gomuks/installation.html)
+   - [x] Linux, Mac and Windows
+
+- **imab**
+
+   - A Matrix client for the terminal that uses Vim keybindings.
+   - [Official Website](https://iamb.chat/) | [Repo](https://github.com/ulyssa/iamb)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/ulyssa/iamb#installation-via-package-managers)
+   - [x] Linux, Mac and Windows
+
+- **kazv**
+
+   - kazv is a convergent matrix client and instant messaging app.
+   - [Official Website](https://kazv.chat/en/) | [Repo](https://lily-is.land/kazv/kazv)
+   - [x] Open Source
+   - [x] [Download for free](https://lily-is.land/kazv/kazv/-/releases)
+   - [x] Linux and Windows
+
+- **matrix-commander**
+
+   - Simple but convenient CLI-based Matrix client app for sending, receiving, creating rooms, inviting, verifying, and so much more.
+   - Official Website (N/A) | [Repo](https://github.com/8go/matrix-commander)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/8go/matrix-commander#dependencies-and-installation)
+   - [x] Linux, Mac and Windows
+
+- **NeoChat**
+
+   - NeoChat is based on KDE frameworks and as libQuotient, a Qt-based SDK for the Matrix Protocol.
+   - Official Website (N/A) | [Repo](https://invent.kde.org/network/neochat)
+   - [x] Open Source
+   - [x] [Download for free](https://invent.kde.org/network/neochat#get-it)
+   - [x] Linux and Windows
+
+- **Nheko**
+
+   - Desktop client for Matrix using Qt and C++20, which aims to provide a native desktop app for Matrix that feels more like a mainstream chat app (Element, Telegram, etc.) and less like an IRC client.
+   - [Official Website](https://nheko-reborn.github.io/) | [Repo](https://github.com/Nheko-Reborn/nheko)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/Nheko-Reborn/nheko#installation-quicklinks)
+   - [x] Linux, Mac and Windows
+
+- **Quadrix**
+
+   - Minimal, simple, multi-platform chat client for the Matrix protocol.
+   - Official Website (N/A) | [Repo](https://github.com/alariej/quadrix)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/alariej/quadrix#one-code-base-several-platforms)
+   - [x] Linux, Mac and Windows + Android and iOS
+
+- **Quaternion**
+
+   - Quaternion is a QT-based cross-platform desktop IM client for the Matrix protocol.
+   - Official Website (N/A) | [Repo](https://github.com/quotient-im/Quaternion)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/quotient-im/Quaternion#downloading-and-installing)
+   - [x] Linux, Mac and Windows
+
+- **SchildiChat**
+
+   - SchildiChat for Desktop is a Matrix Client based on Element Web/Desktop, featuring a different design and various extra tweaks, customization options, and additional community features.
+   - [Official Website](https://schildi.chat/) | [Repo](https://github.com/SchildiChat/schildichat-desktop)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/SchildiChat/schildichat-desktop/releases)
+   - [x] Linux, Mac and Windows + Web + Android
+
+- **Syphon**
+
+   - Syphon aims to be built on the foundations of privacy, branding, and user experience in an effort to pull others away from proprietary chat platforms to the matrix protocol.
+   - [Official Website](https://syphon.org/) | [Repo](https://github.com/syphon-org/syphon)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/syphon-org/syphon/releases)
+   - [x] Linux, Mac and Windows + Android and iOS
 
 
 ### Messenger
