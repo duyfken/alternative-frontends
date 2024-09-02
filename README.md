@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [GitHub](#github) • [Goodreads](#goodreads) • [Google Play Store](#google-play-store) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [Shazam](#shazam) • [Spotify](#spotify) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [GitHub](#github) • [Goodreads](#goodreads) • [Google Play Store](#google-play-store) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [Shazam](#shazam) • [Spotify](#spotify) • [StackOverflow](#stackoverflow) • [Telegram](#telegram) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -516,6 +516,65 @@ ___
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/httpjamesm/AnonymousOverflow/wiki/Deployment)
    - [x] Decentralised Options | [I2P](https://aohub.httpjames.space/) | [Onion](https://aohub.httpjames.space/)
+
+
+### Telegram
+
+- **AyuGram**
+
+   - Just an exteraGram based client with ToS breaking features in mind.
+   - Official Website (N/A) | [Repo](https://github.com/AyuGram/AyuGram4A)
+   - [x] Open Source
+   - [x] [Download for free](https://t.me/ayugram1338)
+   - [x] Android + Linux and Windows
+
+- **exteraGram**
+
+   - Experimental third-party Telegram client based on official sources.
+   - [Official Website](https://exteragram.app/) | [Repo](https://github.com/exteraSquad/exteraGram)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/exteraSquad/exteraGram/releases)
+   - [x] Android
+
+- **Forkgram**
+
+   - Forkgram is a fork of the official Telegram for Android application. This fork does not fundamentally change the official client and adds only some useful small features.
+   - Official Website (N/A) | [Repo](https://github.com/forkgram/TelegramAndroid)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/forkgram/TelegramAndroid/releases)
+   - [x] Android + Linux, Mac and Windows
+
+- **Mercurygram**
+
+   - Unofficial, FOSS-friendly fork of the original Telegram client for Android. Mercurygram is a fork of Telegram-FOSS with some added features.
+   - Official Website (N/A) | [Repo](https://github.com/Mercurygram/Mercurygram)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/Mercurygram/Mercurygram/releases)
+   - [x] Android
+
+- **Nagram**
+
+   - Nagram is a third-party Telegram client based on NekoX with some modifications.
+   - Official Website (N/A) | [Repo](https://github.com/NextAlone/Nagram)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/NextAlone/Nagram/releases)
+   - [x] Android
+
+- **Nekogram**
+
+   - Nekogram is a third-party Telegram client with not many but useful modifications.
+   - Official Website (N/A) | [Repo](https://github.com/Nekogram/Nekogram)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/Nekogram/Nekogram/releases)
+   - [x] Android
+
+- **Telegram-FOSS**
+
+   - Unofficial, FOSS-friendly fork of the original Telegram client for Android. Several proprietary parts were removed from the original Telegram client, including Google Play Services for the location services, HockeySDK for self-updates and push notifications through Google Cloud Messaging. Location sharing functionality is restored using OpenStreetMap.
+   - Official Website (N/A) | [Repo](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)
+   - [x] Open Source
+   - [x] [Download for free](https://f-droid.org/packages/org.telegram.messenger/)
+   - [x] Android
 
 
 ### Tiktok
