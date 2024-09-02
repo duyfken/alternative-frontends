@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Messenger](#messenger) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [Shazam](#shazam) • [Spotify](#spotify) • [StackOverflow](#stackoverflow) • [Telegram](#telegram) • [TIDAL](#tidal) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Messenger](#messenger) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [StackOverflow](#stackoverflow) • [Telegram](#telegram) • [TIDAL](#tidal) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -610,6 +610,25 @@ Based on ArmCord.
    - Official Website (N/A) | [Repo](https://github.com/marin-m/SongRec)
    - [x] Open Source
    - [x] [Download for free](https://github.com/marin-m/SongRec#installation)
+   - [x] Linux
+
+
+### Signal
+
+- **Axolotl**
+
+   - Axolotl is a complete cross-platform Signal client, compatible with the Ubuntu Phone and more. Unlike the desktop Signal client, Axolotl is completely autonomous and doesn't require you to have created an account with the official Signal application.
+   - Official Website (N/A) | [Repo](https://github.com/axolotl-chat/axolotl)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/axolotl-chat/axolotl#installation)
+   - [x] Linux
+
+- **Flare**
+
+   - Flare is an unofficial app that lets you chat with your friends on Signal from Linux.
+   - Official Website (N/A) | [Repo](https://gitlab.com/schmiddi-on-mobile/flare)
+   - [x] Open Source
+   - [x] [Download for free](https://gitlab.com/schmiddi-on-mobile/flare#installation)
    - [x] Linux
 
 
