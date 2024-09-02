@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Messenger](#messenger) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [Shazam](#shazam) • [Spotify](#spotify) • [StackOverflow](#stackoverflow) • [TIDAL](#tidal) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Messenger](#messenger) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [Shazam](#shazam) • [Spotify](#spotify) • [StackOverflow](#stackoverflow) • [Telegram](#telegram) • [TIDAL](#tidal) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -621,7 +621,7 @@ Based on ArmCord.
    - Official Website (N/A) | [Repo](https://github.com/dzirbel/kotify)
    - [x] Open Source
    - [x] [Download for free](https://github.com/dzirbel/kotify#installation)
-   - [x] Linux and Windows
+   - [x] Linux, Mac and Windows
 
 - **Moosync**
 
@@ -706,6 +706,73 @@ Based on ArmCord.
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/httpjamesm/AnonymousOverflow/wiki/Deployment)
    - [x] Decentralised Options | [I2P](https://aohub.httpjames.space/) | [Onion](https://aohub.httpjames.space/)
+
+
+### Telegram
+
+- **64Gram**
+
+   - Unofficial Telegram client based on Telegram Desktop, with additional features. Provides 64bit builds for Windows, Linux, MacOS.
+   - Official Website (N/A) | [Repo](https://github.com/TDesktop-x64/tdesktop)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/TDesktop-x64/tdesktop#supported-systems)
+   - [x] Linux, Mac and Windows
+
+- **AyuGram**
+
+   - Desktop Telegram client with good customization and Ghost mode. 
+   - Official Website (N/A) | [Repo](https://github.com/AyuGram/AyuGramDesktop)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/AyuGram/AyuGramDesktop#downloads)
+   - [x] Linux and Windows + Android
+
+- **Forkgram**
+
+   - Forkgram is the fork of the official Telegram Desktop application. This fork does not fundamentally change the official client and adds only some useful small features.
+   - Official Website (N/A) | [Repo](https://github.com/forkgram/tdesktop)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/forkgram/tdesktop/releases)
+   - [x] Linux, Mac and Windows + Android
+
+- **materialgram**
+
+   - Telegram Desktop fork with Material Design and other improvements, which is based on the Telegram API and the MTProto secure protocol.
+   - [Official Website](https://kukuruzka165.github.io/materialgram/) | [Repo](https://github.com/kukuruzka165/materialgram)
+   - [x] Open Source
+   - [x] [Download for free](https://kukuruzka165.github.io/materialgram/)
+   - [x] Linux, Mac and Windows
+
+- **Kotatogram**
+
+   - Unofficial Telegram client based on Telegram Desktop, with additional features. Provides 64bit builds for Windows, Linux, MacOS.
+   - [Official Website](https://kotatogram.github.io/) | [Repo](https://github.com/kotatogram/kotatogram-desktop)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/kotatogram/kotatogram-desktop#builds)
+   - [x] Linux, Mac and Windows
+
+- **nchat**
+
+   - nchat is a terminal-based chat client for Linux and macOS with support for Telegram and WhatsApp.
+   - Official Website (N/A) | [Repo](https://github.com/d99kris/nchat)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/d99kris/nchat#install-using-package-manager)
+   - [x] Linux and Mac
+
+- **tg**
+
+   - Telegram terminal client.
+   - Official Website (N/A) | [Repo](https://github.com/paul-nameless/tg)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/paul-nameless/tg#installation)
+   - [x] Linux
+
+- **Unigram**
+
+   - Telegram for Windows.
+   - [Official Website](https://unigramdev.github.io/) | [Repo](https://github.com/UnigramDev/Unigram)
+   - [x] Open Source
+   - [x] [Download for free](https://unigramdev.github.io/)
+   - [x] Windows
  
 
 ### TIDAL
