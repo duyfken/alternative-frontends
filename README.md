@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [GitHub](#github) • [Goodreads](#goodreads) • [Google Play Store](#google-play-store) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [Shazam](#shazam) • [Spotify](#spotify) • [StackOverflow](#stackoverflow) • [Telegram](#telegram) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [GitHub](#github) • [Goodreads](#goodreads) • [Google Play Store](#google-play-store) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [StackOverflow](#stackoverflow) • [Telegram](#telegram) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -492,6 +492,33 @@ ___
    - Official Website (N/A) | [Repo](https://github.com/alexmercerind/audire)
    - [x] Open Source
    - [x] [Download for free](https://github.com/alexmercerind/audire#download)
+   - [x] Android
+
+
+### Signal
+
+- **Molly**
+
+   - Molly is a hardened version of Signal for Android, the fast simple yet secure messaging app by Signal Foundation.
+   - [Official Website](https://molly.im/) | [Repo](https://github.com/mollyim/mollyim-android)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/mollyim/mollyim-android#download)
+   - [x] Android
+
+- **Signal-FOSS**
+
+   - A fork of Signal for Android with proprietary Google binary blobs removed. Uses OpenStreetMap for maps and a websocket server connection, instead of Google Maps and Firebase Cloud Messaging.
+   - [Official Website](https://www.twinhelix.com/apps/signal-foss/) | [Repo](https://github.com/tw-hx/Signal-Android)
+   - [x] Open Source
+   - [x] [Download for free](https://www.twinhelix.com/apps/signal-foss/)
+   - [x] Android
+
+- **Signal-JW**
+
+   - Signal-JW is a custom build of Signal for Android. 
+   - [Official Website](https://johanw.home.xs4all.nl/Signal/signal-jw.html) | [Repo](https://github.com/johanw666/Signal-Android)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/johanw666/Signal-Android/releases)
    - [x] Android
 
 
