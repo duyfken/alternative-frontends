@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Messenger](#messenger) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [StackOverflow](#stackoverflow) • [Telegram](#telegram) • [TIDAL](#tidal) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Messenger](#messenger) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [StackOverflow](#stackoverflow) • [Telegram](#telegram) • [TIDAL](#tidal) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -289,6 +289,17 @@ Based on ArmCord.
    - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Installing%20%28extended%29.md)
 
    ⓘ Bibliogram's development has stopped as Instagram is continuing to block servers (if you want to pick up the development of Bibliogram, check [this blog post](https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram) by the original maintainer). There currently is no working open source front-end for Instagram. For some reason, closed source proxy sites like [this one](https://www.pixwox.com) continue working despite doing the exact same thing Bibliogram did.
+
+
+### Lemmy
+
+- **Interstellar**
+
+   - An app for Mbin and Lemmy; connecting you to the fediverse.
+   - [Official Website](https://kbin.earth/m/interstellar) | [Repo](https://github.com/jwr1/interstellar)
+   - [x] Open-Source
+   - [x] [Download for free](https://github.com/jwr1/interstellar#downloads)
+   - [x] Linux + Android
 
 
 ### Mastodon
