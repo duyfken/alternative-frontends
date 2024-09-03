@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [GitHub](#github) • [Goodreads](#goodreads) • [Google Play Store](#google-play-store) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [StackOverflow](#stackoverflow) • [Telegram](#telegram) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [GitHub](#github) • [Goodreads](#goodreads) • [Google Play Store](#google-play-store) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [StackOverflow](#stackoverflow) • [Telegram](#telegram) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -47,7 +47,7 @@ ___
    - Aliucord is a customizable Discord client that offers a wide range of features and functionality beyond what's available in the standard Discord client. With Aliucord, users can customize their Discord experience to suit their needs and preferences, from changing the look and feel of the app to adding new features and integrations.
    - [Official Website](https://aliucord.com/) | [Repo](https://github.com/Aliucord/Aliucord)
    - [x] Open Source
-   - [x] [Download for free](https://github.com/uowuo/abaddon?tab=readme-ov-file#building-manually-recommended-if-not-on-windows)
+   - [x] [Download for free](https://github.com/uowuo/abaddon#building-manually-recommended-if-not-on-windows)
    - [x] Android
 
 - **Bunny**
@@ -227,6 +227,73 @@ ___
    ⓘ Bibliogram's development has stopped as Instagram is continuing to block servers (if you want to pick up the development of Bibliogram, check [this blog post](https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram) by the original maintainer). There currently is no working open source front-end for Instagram. For some reason, closed source proxy sites like [this one](https://www.pixwox.com) continue working despite doing the exact same thing Bibliogram did.
 
 
+### Lemmy
+
+- **Eternity**
+
+   - A Lemmy client for Android written in Java. It's a fork of the Infinity for Reddit project.
+   - Official Website (N/A) | [Repo](https://codeberg.org/Bazsalanszky/Eternity)
+   - [x] Open-Source
+   - [x] [Download for free](https://codeberg.org/Bazsalanszky/Eternity)
+   - [x] Android and iOS
+
+- **Interstellar**
+
+   - An app for Mbin and Lemmy; connecting you to the fediverse.
+   - [Official Website](https://kbin.earth/m/interstellar) | [Repo](https://github.com/jwr1/interstellar)
+   - [x] Open-Source
+   - [x] [Download for free](https://github.com/jwr1/interstellar#downloads)
+   - [x] Android + Linux
+
+- **Jerboa**
+
+   - Jerboa is a native-android client for Lemmy, built using the native Android Toolkit, Jetpack Compose.
+   - Official Website (N/A) | [Repo](https://github.com/LemmyNet/jerboa)
+   - [x] Open-Source
+   - [x] [Download for free](https://github.com/LemmyNet/jerboa#installation--releases)
+   - [x] Android
+
+- **Lunar**
+
+   - Lunar is an iOS app that serves as a client for Lemmy and Kbin, the open-source federated alternatives to Reddit
+   - Official Website (N/A) | [Repo](https://github.com/mani-sh-reddy/Lunar)
+   - [x] Open-Source
+   - [x] [Download for free](https://testflight.apple.com/join/GEFCCQTb)
+   - [x] iOS
+
+- **Memmy**
+
+   - An Apollo inspired open-source iOS and Android client for Lemmy built with React-Native.
+   - Official Website (N/A) | [Repo](https://github.com/Memmy-App/memmy)
+   - [x] Open-Source
+   - [x] [Download for free](https://apps.apple.com/us/app/memmy-for-lemmy/id6450204299?platform=iphone)
+   - [x] iOS
+
+- **mlem**
+
+   - Mlem is a client for Lemmy - a Reddit-esque, open-source link aggregator. With Mlem, you can effortlessly participate in the conversation across all Lemmy servers.
+   - Official Website (N/A) | [Repo](https://github.com/mlemgroup/mlem)
+   - [x] Open-Source
+   - [x] [Download for free](https://apps.apple.com/gb/app/mlem-for-lemmy/id6450543782?platform=iphone)
+   - [x] iOS
+
+- **Thunder**
+
+   - An open-source cross-platform Lemmy client for iOS and Android built with Flutter.
+   - Official Website (N/A) | [Repo](https://github.com/thunder-app/thunder)
+   - [x] Open-Source
+   - [x] [Download for free](https://github.com/thunder-app/thunder#releases)
+   - [x] Android and iOS
+
+- **Voyager**
+
+   - Voyager is an Apollo-like open source web client for Lemmy. It's a mobile-first app, but works great on desktop devices, too.
+   - [Official Website](https://vger.app/) | [Repo](https://github.com/aeharding/voyager)
+   - [x] Open-Source
+   - [x] [Download for free](https://github.com/aeharding/voyager#voyager)
+   - [x] Android and iOS + Web
+
+
 ### Mastodon
 
 - **Dhaaga**
@@ -234,7 +301,7 @@ ___
    - Dhaaga is a fediverse social app for smartphones, which adds a lot of cool and unique client-side functionalities. It focuses on making it easy to chat and make friends, adds superior offline support and makes the friendiverse intuitive and fun to use for all users, new and old.
    - [Official Website](https://dhaaga.app/) | [Repo](https://github.com/suvam0451/dhaaga)
    - [x] Open Source
-   - [x] [Download for free](https://github.com/suvam0451/dhaaga?tab=readme-ov-file)
+   - [x] [Download for free](https://github.com/suvam0451/dhaaga)
    - [x] Android
 
 - **FediLab**
@@ -822,4 +889,4 @@ ___
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.
 YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC. Google is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Medium is a trademark of A Medium Corporation. Tiktok is a trademark of Bytedance Ltd. IMDb is a trademark of IMDb.com, Inc. Odysee is a trademark of Odysee, Inc. Quora is a trademark of Quora Inc. XVIDEOS is a trademark of WEBGROUP CZECH REPUBLIC, A.S. FANDOM is a trademark of Fandom, Inc. GitHub is a trademark of GitHub, Inc. StackOverflow is a trademark Stack Exchange, Inc. Genius is a trademark of ML Genius Holdings, LLC.</sup>
 
-<sup> The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
+<sup> The creators of this repository assume no liability for the accuracy and timeliness of any information prided abe. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
