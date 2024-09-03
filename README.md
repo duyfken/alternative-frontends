@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -151,6 +151,41 @@ ___
    - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Installing%20%28extended%29.md)
 
    ⓘ Bibliogram's development has stopped as Instagram is continuing to block servers (if you want to pick up the development of Bibliogram, check [this blog post](https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram) by the original maintainer). There currently is no working open source front-end for Instagram. For some reason, closed source proxy sites like [this one](https://www.pixwox.com) continue working despite doing the exact same thing Bibliogram did.
+
+
+### Lemmy
+
+- **Alexandrite**
+
+   - Alexandrite is a beautiful desktop-first alternative web UI for Lemmy, a social link aggregator and discussion forum for the Fediverse.
+   - [Official Instance](https://alexandrite.app/) | [Repo](https://github.com/sheodox/alexandrite)
+   - Public Instances (N/A)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/sheodox/alexandrite#self-hosting)
+
+- **mlmym**
+
+   - A familiar desktop experience for lemmy.
+   - Official Instance (N/A) | [Repo](https://github.com/rystaf/mlmym)
+   - Public Instances (N/A)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/rystaf/mlmym#deployment)
+
+- **Photon**
+
+   - A replacement for lemmy-ui with more features, a better design, and more customizability.
+   - [Official Instance](https://phtn.app/) | [Repo](https://github.com/Xyphyn/Photon)
+   - [Public Instances](https://github.com/Xyphyn/Photon#public-instances)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/Xyphyn/Photon#self-hosting)
+
+- **Voyager**
+
+   - Voyager is an Apollo-like open source web client for Lemmy. It's a mobile-first app, but works great on desktop devices, too.
+   - [Official Instance](https://vger.app/) | [Repo](https://github.com/aeharding/voyager)
+   - [Public Instances](https://github.com/aeharding/voyager#deployment)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/aeharding/voyager#self-host)
 
 
 ### Mastodon
