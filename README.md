@@ -93,7 +93,7 @@ ___
 
 - **Datcord**
 
-   - Datcord is an open-source Discord client that respects your privacy. Datcord is a specialized version of Firefox (the official client is Chromium-based).
+   - Datcord is an open-source Discord client that respects your privacy. Datcord is a specialised version of Firefox (the official client is Chromium-based).
    - Official Website (N/A) | [Repo](https://github.com/gamingdoom/datcord)
    - [x] Open Source
    - [x] [Download for free](https://github.com/gamingdoom/datcord#install)
@@ -397,7 +397,7 @@ Based on ArmCord.
 
 - **Fractal**
 
-   - Fractal is a Matrix messaging app for GNOME written in Rust. Its interface is optimized for collaboration in large groups, such as free software projects, and will fit all screens, big or small.
+   - Fractal is a Matrix messaging app for GNOME written in Rust. Its interface is optimised for collaboration in large groups, such as free software projects, and will fit all screens, big or small.
    - Official Website (N/A) | [Repo](https://gitlab.gnome.org/World/fractal)
    - [x] Open Source
    - [x] [Download for free](https://gitlab.gnome.org/World/fractal#installation-instructions)
@@ -469,7 +469,7 @@ Based on ArmCord.
 
 - **SchildiChat**
 
-   - SchildiChat for Desktop is a Matrix Client based on Element Web/Desktop, featuring a different design and various extra tweaks, customization options, and additional community features.
+   - SchildiChat for Desktop is a Matrix Client based on Element Web/Desktop, featuring a different design and various extra tweaks, customisation options, and additional community features.
    - [Official Website](https://schildi.chat/) | [Repo](https://github.com/SchildiChat/schildichat-desktop)
    - [x] Open Source
    - [x] [Download for free](https://github.com/SchildiChat/schildichat-desktop/releases)
@@ -647,7 +647,7 @@ Based on ArmCord.
 
 - **Kotify**
 
-   - Kotify is a multiplatform desktop client for Spotify focused on library organization for power users. A Spotify Premium account is required.
+   - Kotify is a multiplatform desktop client for Spotify focused on library organisation for power users. A Spotify Premium account is required.
    - Official Website (N/A) | [Repo](https://github.com/dzirbel/kotify)
    - [x] Open Source
    - [x] [Download for free](https://github.com/dzirbel/kotify#installation)
@@ -719,7 +719,7 @@ Based on ArmCord.
 
 - **Strawberry**
 
-   - Strawberry is a music player and music collection organizer. It is a fork of Clementine released in 2018 aimed at music collectors and audiophiles. It's written in C++ using the Qt toolkit. A Spotify Premium account is required.
+   - Strawberry is a music player and music collection organiser. It is a fork of Clementine released in 2018 aimed at music collectors and audiophiles. It's written in C++ using the Qt toolkit. A Spotify Premium account is required.
    - [Official Website](https://www.strawberrymusicplayer.org/) | [Repo](https://github.com/strawberrymusicplayer/strawberry)
    - [x] Open Source
    - [x] [Download for free](https://www.strawberrymusicplayer.org/#download)
@@ -750,7 +750,7 @@ Based on ArmCord.
 
 - **AyuGram**
 
-   - Desktop Telegram client with good customization and Ghost mode. 
+   - Desktop Telegram client with good customisation and Ghost mode. 
    - Official Website (N/A) | [Repo](https://github.com/AyuGram/AyuGramDesktop)
    - [x] Open Source
    - [x] [Download for free](https://github.com/AyuGram/AyuGramDesktop#downloads)
@@ -809,7 +809,7 @@ Based on ArmCord.
 
 - **Strawberry**
 
-   - Strawberry is a music player and music collection organizer. It is a fork of Clementine released in 2018 aimed at music collectors and audiophiles. It's written in C++ using the Qt toolkit.
+   - Strawberry is a music player and music collection organiser. It is a fork of Clementine released in 2018 aimed at music collectors and audiophiles. It's written in C++ using the Qt toolkit.
    - [Official Website](https://www.strawberrymusicplayer.org/) | [Repo](https://github.com/strawberrymusicplayer/strawberry)
    - [x] Open Source
    - [x] [Download for free](https://www.strawberrymusicplayer.org/#download)
@@ -880,7 +880,7 @@ Based on ArmCord.
 
 - **SafeTwitch**
 
-   - SafeTwitch is a privacy respecting frontend for Twitch. The main advantages of SafeTwitch are every request is proxied through the server, no logs are kept, and compared to Twitch, SafeTwitch is optimized for speed and usability.
+   - SafeTwitch is a privacy respecting frontend for Twitch. The main advantages of SafeTwitch are every request is proxied through the server, no logs are kept, and compared to Twitch, SafeTwitch is optimised for speed and usability.
    - [Official Instance](https://safetwitch.drgns.space/) | [Repo](https://codeberg.org/dragongoose/safetwitch)
    - [Public Instances](https://codeberg.org/SafeTwitch/safetwitch#instances)
    - [x] Open-Source
