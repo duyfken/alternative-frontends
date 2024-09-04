@@ -173,7 +173,7 @@ ___
 
 - **Photon**
 
-   - A replacement for lemmy-ui with more features, a better design, and more customizability.
+   - A replacement for lemmy-ui with more features, a better design, and more customisability.
    - [Official Instance](https://phtn.app/) | [Repo](https://github.com/Xyphyn/Photon)
    - [Public Instances](https://github.com/Xyphyn/Photon#public-instances)
    - [x] Open-Source
@@ -275,7 +275,7 @@ ___
 
 - **SchildiChat**
 
-   - SchildiChat for Web is a Matrix Client based on Element Web/Desktop, featuring a different design and various extra tweaks, customization options, and additional community features.
+   - SchildiChat for Web is a Matrix Client based on Element Web/Desktop, featuring a different design and various extra tweaks, customisation options, and additional community features.
    - [Official Instance](https://app.schildi.chat/) | [Repo](https://github.com/SchildiChat/schildichat-desktop)
    - Public Instances (N/A)
    - [x] Open-Source
@@ -489,7 +489,7 @@ ___
 
 - **SafeTwitch**
 
-   - SafeTwitch is a privacy respecting frontend for Twitch. The main advantages of SafeTwitch are every request is proxied through the server, no logs are kept, and compared to Twitch, SafeTwitch is optimized for speed and usability.
+   - SafeTwitch is a privacy respecting frontend for Twitch. The main advantages of SafeTwitch are every request is proxied through the server, no logs are kept, and compared to Twitch, SafeTwitch is optimised for speed and usability.
    - [Official Instance](https://safetwitch.drgns.space/) | [Repo](https://codeberg.org/dragongoose/safetwitch)
    - [Public Instances](https://codeberg.org/SafeTwitch/safetwitch#instances)
    - [x] Open-Source
