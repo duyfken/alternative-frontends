@@ -44,7 +44,7 @@ ___
 
 - **Aliucord**
 
-   - Aliucord is a customizable Discord client that offers a wide range of features and functionality beyond what's available in the standard Discord client. With Aliucord, users can customize their Discord experience to suit their needs and preferences, from changing the look and feel of the app to adding new features and integrations.
+   - Aliucord is a customisable Discord client that offers a wide range of features and functionality beyond what's available in the standard Discord client. With Aliucord, users can customise their Discord experience to suit their needs and preferences, from changing the look and feel of the app to adding new features and integrations.
    - [Official Website](https://aliucord.com/) | [Repo](https://github.com/Aliucord/Aliucord)
    - [x] Open Source
    - [x] [Download for free](https://github.com/uowuo/abaddon#building-manually-recommended-if-not-on-windows)
@@ -322,7 +322,7 @@ ___
 
 - **IceCubesApp**
 
-   - IceCubesApp is an open-source application for accessing the decentralized social network Mastodon! It's built entirely in SwiftUI, making it fast, lightweight, and easy to use.
+   - IceCubesApp is an open-source application for accessing the decentralised social network Mastodon! It's built entirely in SwiftUI, making it fast, lightweight, and easy to use.
    - Official Website (N/A) | [Repo](https://github.com/Dimillian/IceCubesApp)
    - [x] Open Source
    - [x] [Download for free](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)
@@ -346,7 +346,7 @@ ___
 
 - **Moshidon**
 
-   - A fast, highly customizable, up-to-date fork of [megalodon](https://github.com/sk22/megalodon) adding important features such as a fully federated timeline, unlisted posting, drafts, scheduled posts, bookmarks, and alt text warnings.
+   - A fast, highly customisable, up-to-date fork of [megalodon](https://github.com/sk22/megalodon) adding important features such as a fully federated timeline, unlisted posting, drafts, scheduled posts, bookmarks, and alt text warnings.
    - [Official Website](https://lucasggamerm.github.io/moshidon/) | [Repo](https://github.com/LucasGGamerM/moshidon)
    - [x] Open Source
    - [x] [Download for free](https://github.com/LucasGGamerM/moshidon#download-now)
@@ -405,7 +405,7 @@ ___
 
 - **SchildiChat**
 
-   - SchildiChat for Android is a Matrix Client based on Element Android, featuring a different design and various extra tweaks, customization options, and additional community features.
+   - SchildiChat for Android is a Matrix Client based on Element Android, featuring a different design and various extra tweaks, customisation options, and additional community features.
    - [Official Website](https://schildi.chat/) | [Repo](https://github.com/SchildiChat/SchildiChat-android)
    - [x] Open Source
    - [x] [Download for free](https://schildi.chat/android/)
@@ -469,45 +469,71 @@ ___
 
 ### Reddit
 
-   ⓘ Most Reddit alternative front-ends will no longer work due to the [2023 Reddit API controversy](https://en.wikipedia.org/wiki/2023_Reddit_API_controversy). Mutiple public instances of Libreddit, in addition to self-hosted instances of Troddit and Troddit+ are mostly functional however it seems.
+   ⓘ (Almost) all Reddit alternative front-end apps require a subscription due to the [2023 Reddit API controversy](https://en.wikipedia.org/wiki/2023_Reddit_API_controversy).
 
-- **Redlib**
+- **Atom for Reddit**
 
-   - An alternative private front-end to Reddit, with its origins in [Libreddit](https://github.com/libreddit/libreddit).
-   - Official Instance (N/A) | [Repo](https://github.com/redlib-org/redlib)
-   - [Public Instances](https://github.com/redlib-org/redlib-instances/blob/main/instances.md)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/redlib-org/redlib#deployment)
+   - The latest client app with essential features for browsing Reddit. Seems to work without a subscription *somehow*, so use at your own risk, as given it's not open source and the developers have never said how they are doing it, the risk is entirely yours.
+   - [Official Website](https://atomreddit.com/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://play.google.com/store/apps/details?id=com.atom.reddit.reader)
+   - [x] Android
 
-- **Libreddit**
+- **Infinity for Reddit** 💰
 
-   - Privacy-focused fast Reddit front-end without ads, javascript and tracking. All requests are proxied through the server.
-   - Official Instance (N/A) | [Repo](https://github.com/spikecodes/libreddit)
-   - [Public Instances](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/spikecodes/libreddit#installation)
-   - [x] Decentralised Options | [I2P](http://wilr7fk4bx3lnubdhxgwxg37oubmkyiqkamgfoivrz5ldtjwyitq.b32.i2p/)  | [Onion](http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion/)
+   - A Reddit client on Android written in Java. It does not have any ads and it features a clean UI and smooth browsing experience. Requires using a Google Play or Patreon subscription to get any data from Reddit API.
+   - Official Website (N/A) | [Repo](https://github.com/Docile-Alligator/Infinity-For-Reddit)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/Docile-Alligator/Infinity-For-Reddit#--infinity-for-reddit-)
+   - [x] Android
 
-   ⓘ The maintainer has [shutdown the official instance and ceased development](https://github.com/libreddit/libreddit/issues/840) due to Reddit's API changes. Development has continued at the previously mentioned Libreddit fork, Redlib.
+- **lurkur for reddit**
 
-- **Troddit**
+   - lurkur for reddit is an unofficial client for reddit, aiming to provide you a more personalized and ad-free experience. [Accounts (logging in) is disabled and browsing is anonymous](https://old.reddit.com/r/lurkurapp/comments/186yuos/how_does_this_work/kcd3zl0/).
+   - Official Website (N/A) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://apps.apple.com/gb/app/lurkur-for-reddit/id6470203216)
+   - [x] iOS
 
-   - A significantly smaller Open Source front-end for Reddit, written in NextJS.
-   - [Official Instance](https://troddit.com/) | [Repo](https://github.com/burhan-syed/troddit)
-   - Public Instances (N/A)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/burhan-syed/troddit#developing)
+- **Narwhal 2 for Reddit** 💰
 
-   ⓘ Troddit uses Javascript and their official instance uses Vercel's [audience analytics](https://nextjs.org/analytics). Connects directly to Reddit without a proxy using Reddit's API.
+   - Narwhal 2 is the most customizable app for Reddit. This is an all new app designed from the ground up to be the successor to Narwhal 1. Requires using an Apple App Store subscription to get any data from Reddit API.
+   - Official Website (N/A) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://apps.apple.com/gb/app/narwhal-2-for-reddit/id845422455)
+   - [x] iOS
 
-- **Teddit**
+- **Now for Reddit** 💰
 
-   - Privacy-focused lightweight Reddit front-end. No ads, no javascript. Provides an unofficial API. 
-   - Official Instance (N/A) | [Repo](https://codeberg.org/teddit/teddit)
-   - [Public Instances](https://codeberg.org/teddit/teddit#instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://codeberg.org/teddit/teddit#installation)
-   - [x] Decentralised Options | [I2P](https://codeberg.org/teddit/teddit#instances)  | [Onion](https://codeberg.org/teddit/teddit#instances)
+   - Now for Reddit is a beautiful, easy-to-use app for browsing Reddit. Requires using a Google Play subscription to get data from Reddit API without rate-limiting and features disabled.
+   - Official Website (N/A) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://play.google.com/store/apps/details?id=com.phyora.apps.reddit_now)
+   - [x] Android
+
+- **RedReader**
+
+   - A Reddit client on Android written in Java. It does not have any ads and it features a clean UI and smooth browsing experience. Can be used for free has they have been granted an [exemption for non-commercial accessibility-focused apps](https://old.reddit.com/r/RedReader/comments/145du4j/update_4_redreader_granted_noncommercial/), due to the work that has been done to optimise the app for screen readers, and the app's high level of usage within the blind community.
+   - Official Website (N/A) | [Repo](https://github.com/QuantumBadger/RedReader)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/QuantumBadger/RedReader#redreader)
+   - [x] Android
+
+- **Relay for Reddit** 💰
+
+   - First released in 2011, Relay has been consistently developed over the past decade by the same third party developer. Relay has been a (Google Play) subscription-based app since since September 2023 when Reddit introduced a monthly fee for 3rd party developers to access its API.
+   - Official Website (N/A) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://play.google.com/store/apps/details?id=reddit.news)
+   - [x] Android
+
+- **Stealth**
+
+   - Stealth is an account-free, privacy-oriented, and feature-rich Reddit client. It provides features from Reddit, without the need for an account. In fact, the app doesn't even let you log in with a Reddit account.
+   - Official Website (N/A) | [Repo](https://gitlab.com/cosmosapps/stealth)
+   - [x] Open Source
+   - [x] [Download for free](https://f-droid.org/packages/com.cosmos.unreddit/)
+   - [x] Android
 
 
 ### Search Engines
@@ -727,7 +753,7 @@ ___
 
 - **SafeTwitch**
 
-   - SafeTwitch is a privacy respecting frontend for Twitch. The main advantages of SafeTwitch are every request is proxied through the server, no logs are kept, and compared to Twitch, SafeTwitch is optimized for speed and usability.
+   - SafeTwitch is a privacy respecting frontend for Twitch. The main advantages of SafeTwitch are every request is proxied through the server, no logs are kept, and compared to Twitch, SafeTwitch is optimised for speed and usability.
    - [Official Instance](https://safetwitch.drgns.space/) | [Repo](https://codeberg.org/dragongoose/safetwitch)
    - [Public Instances](https://codeberg.org/SafeTwitch/safetwitch#instances)
    - [x] Open-Source
