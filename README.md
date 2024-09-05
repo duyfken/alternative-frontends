@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Messenger](#messenger) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [StackOverflow](#stackoverflow) • [Telegram](#telegram) • [TIDAL](#tidal) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Git](#git) • [Imgur](#imgur) • [Instagram](#instagram) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Messenger](#messenger) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [StackOverflow](#stackoverflow) • [Telegram](#telegram) • [TIDAL](#tidal) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -173,73 +173,138 @@ Based on ArmCord.
    - [x] Linux, Mac and Windows
 
 
-### Fandom
+### Git
 
-- **BreezeWiki**
+   ⓘ All alternative front-ends for Git *should* work with any Git-based local or online service, such as GitHub, Gitlab, SourceForge, Bitbucket, Gitea, Codeberg, SourceHut and more.
 
-   - A privacy-friendly, decluttered front-end for Fandom wikis.
-   - [Official Instance](https://breezewiki.com/) | [Repo](https://gitdab.com/cadence/breezewiki)
-   - [Public Instances](https://docs.breezewiki.com/Links.html#%28part._.Instances%29)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://docs.breezewiki.com/Running.html)
-   - [x] Decentralised Options | [Onion](https://docs.breezewiki.com/Links.html#(part._.Onion_.Mirrors))
+- **Fork** 💰
 
+   - A fast and friendly git client for Mac and Windows.
+   - [Official Website](https://fork.dev/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download](https://fork.dev/)
+   - [x] Mac and Windows
 
-### Genius
+- **GitButler**
 
-- **Dumb**
+   - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte.
+   - [Official Website](https://gitbutler.com/) | [Repo](https://github.com/gitbutlerapp/gitbutler)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/gitbutlerapp/gitbutler#gitbutler)
+   - [x] Linux, Mac and Windows
 
-   - Dumb tries to make reading lyrics from Genius a pleasant experience and as lightweight as possible.
-   - Official Instance (N/A) | [Repo](https://github.com/rramiachraf/dumb)
-   - [Public Instances](https://github.com/rramiachraf/dumb#public-instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/rramiachraf/dumb#installation--usage)
-   - [x] Decentralised Options | [I2P](https://github.com/rramiachraf/dumb#public-instances) | [Onion](https://github.com/rramiachraf/dumb#public-instances)
+- **Git Cola**
 
-- **Intellectual**
+   - Git Cola is a sleek and powerful graphical user interface for Git. Git Cola is free software and powered by Python and PyQt.
+   - [Official Website](https://git-cola.github.io/) | [Repo](https://github.com/git-cola/git-cola)
+   - [x] Open Source
+   - [x] [Download for free](https://git-cola.github.io/downloads.html)
+   - [x] Linux, Mac and Windows
 
-   - Intellectual is an alternative frontend for Genius focused on privacy and simplicity. Written in Rust, Intellectual is incredibly lightweight, not requiring JavaScript and proxying all requests through the server, including images.
-   - [Official Instance](https://intellectual.insprill.net/) | [Repo](https://github.com/Insprill/intellectual)
-   - [Public Instances](https://github.com/Insprill/intellectual#instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/Insprill/intellectual#deployment)
-   - [x] Decentralised Options | [I2P](https://github.com/Insprill/intellectual?tab=readme-ov-file#clearnet) | [Onion](https://github.com/Insprill/intellectual?tab=readme-ov-file#clearnet)
+- **GitFiend**
 
+   - Cross-platform Git UI for humans.
+   - [Official Website](https://gitfiend.com/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://gitfiend.com/)
+   - [x] Linux and Mac
 
-### GitHub
+- **gitg**
 
-- **GotHub**
+   - gitg is the GNOME GUI client to view git repositories. 
+   - [Official Website](https://wiki.gnome.org/Apps/Gitg/) | [Repo](https://gitlab.gnome.org/GNOME/gitg)
+   - [x] Open Source
+   - [x] [Download for free](https://flathub.org/apps/org.gnome.gitg)
+   - [x] Linux
 
-   - Minimalist JS-free Github front-end in Go.
-   - Official Instance (N/A) | [Repo](https://codeberg.org/gothub/gothub)
-   - [Public Instances](https://codeberg.org/gothub/gothub#instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://codeberg.org/gothub/gothub#setup)
-   - [x] Decentralised Options | [Onion](https://codeberg.org/gothub/gothub#instances)
+- **GitKraken** 💰
 
+   - Millions of developers and teams around the world choose GitKraken Client to make Git more visual and accessible with an intuitive UI, the flexibility to switch between a GUI or a terminal, and a seamless experience across operating systems. Can be used for free but then most features will only work on public Git repositories.
+   - [Official Website](https://www.gitkraken.com/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://www.gitkraken.com/)
+   - [x] Linux, Mac and Windows
 
-### Goodreads
+- **Gitnuro**
 
-- **BiblioReads**
+   - A FOSS Git client based on (Jetbrains) Compose and JGit. The main goal of Gitnuro is to provide a multiplatform open source Git client without any kind of constraint to how you can use it nor relying on web technologies.
+   - [Official Website](https://gitnuro.com/) | [Repo](https://github.com/JetpackDuba/Gitnuro/)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/JetpackDuba/Gitnuro/#downloadinstall)
+   - [x] Linux, Mac and Windows
 
-   - BiblioReads is a free and open source alternative Goodreads front-end focused on privacy. Scrapes content from Goodreads and presents the results without any of the bloat.
-   - [Official Instance](https://biblioreads.eu.org/) | [Repo](https://github.com/nesaku/BiblioReads)
-   - [Public Instances](https://github.com/nesaku/BiblioReads#instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/nesaku/BiblioReads#installation)
-   - [x] Decentralised Options | [I2P](http://vernapl3lpo3huqdx3pjzxqgdgavxjlmdskbvejh2gfqgmjuyvxq.b32.i2p/) | [Onion](http://bl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
+- **Gittyup**
 
+   - Gittyup is a graphical Git client designed to help you understand and manage your source code history.
+   - [Official Website](https://murmele.github.io/Gittyup) | [Repo](https://github.com/Murmele/Gittyup)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/Murmele/Gittyup#how-to-install)
+   - [x] Linux and Mac
 
-### IMDb
+- **Kommit**
 
-- **Libremdb**
+   - Git GUI client for KDE.
+   - Official Website (N/A) | [Repo](https://invent.kde.org/sdk/kommit)
+   - [x] Open Source
+   - [x] [Download for free](https://apps.kde.org/kommit/)
+   - [x] Linux
 
-   - A lightweight, ad-free and js-free alternative front-end to IMDb.
-   - [Official Instance](https://libremdb.iket.me) | [Repo](https://github.com/zyachel/libremdb)
-   - [Public Instances](https://github.com/zyachel/libremdb#instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/zyachel/libremdb#installation)
-   - [x] Decentralised Options | [I2P](http://vernz3ubrntql4wrgyrssd6u3qzi36zrhz2agbo6vibzbs5olk2q.b32.i2p/) | [Onion](http://ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
+- **SmartGit** 💰
+
+   - SmartGit is intended for developers who prefer a graphical user interface over a command line client, to be even more productive with Git.
+   - [Official Website](https://www.syntevo.com/smartgit/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download](https://www.syntevo.com/smartgit/download/)
+   - [x] Linux, Mac and Windows
+
+- **SourceGit**
+
+   - Windows/macOS/Linux GUI client for Git users.
+   - Official Website (N/A) | [Repo](https://github.com/sourcegit-scm/sourcegit)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/sourcegit-scm/sourcegit#how-to-use)
+   - [x] Linux, Mac and Windows
+
+- **Sourcetree**
+
+   - Simplicity and power in a beautiful Git GUI. Sourcetree simplifies how you interact with your Git repositories so you can focus on coding. Visualize and manage your repositories through Sourcetree's simple Git GUI.
+   - [Official Website](https://www.sourcetreeapp.com/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://www.sourcetreeapp.com/)
+   - [x] Mac and Windows
+
+- **Sublime Merge**
+
+   - Sublime Merge is a fast and intuitive Git client built on the same performant platform as Sublime Text.
+   - [Official Website](https://www.sublimemerge.com/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://www.sublimemerge.com/download)
+   - [x] Linux, Mac and Windows
+
+- **Tig**
+
+   - Tig is an ncurses-based text-mode interface for git. It functions mainly as a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.
+   - [Official Website](https://jonas.github.io/tig/) | [Repo](https://github.com/jonas/tig)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/jonas/tig/blob/master/INSTALL.adoc)
+   - [x] Linux, Mac and Windows
+
+- **Tower** 💰
+
+   - Tower offers seamless integration with industry-leading services like GitHub, Atlassian Bitbucket, GitLab, Microsoft Visual Studio, or Perforce - both online and behind the firewall. And since Tower uses pure Git under the hood, it works with any other code hosting service, too.
+   - [Official Website](https://www.git-tower.com/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download](https://www.git-tower.com/)
+   - [x] Mac and Windows
+
+- **Turtle**
+
+   - Turtle is a graphical interface for version control intended to run on GNOME and Nautilus.
+   - Official Website (N/A) | [Repo](https://gitlab.gnome.org/philippun1/turtle)
+   - [x] Open Source
+   - [x] [Download for free](https://gitlab.gnome.org/philippun1/turtle#setup)
+   - [x] Linux
+
 
 ### Imgur
 
