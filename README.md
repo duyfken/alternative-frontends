@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [GitHub](#github) • [Goodreads](#goodreads) • [Google Play Store](#google-play-store) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [StackOverflow](#stackoverflow) • [Telegram](#telegram) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [Git](#git) • [Goodreads](#goodreads) • [Google Play Store](#google-play-store) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [StackOverflow](#stackoverflow) • [Telegram](#telegram) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -105,16 +105,47 @@ ___
    - [x] Android
 
 
-### GitHub
+### Git
 
-- **GotHub**
+- **GitBlur**
 
-   - Minimalist JS-free Github front-end in Go.
-   - Official Instance (N/A) | [Repo](https://codeberg.org/gothub/gothub)
-   - [Public Instances](https://codeberg.org/gothub/gothub#instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://codeberg.org/gothub/gothub#setup)
-   - [x] Decentralised Options | [Onion](https://codeberg.org/gothub/gothub#instances)
+   - GitBlur helps you to manage your GitLab projects anywhere at any time, support gitlab.com and self-managed GitLab. GitBlur reinvents the mobile device gitlab experience.
+   - [Official Website](https://gitblur.com/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://apps.apple.com/us/app/gitblur-best-gitlab-app/id1616631675)
+   - [x] iOS
+
+- **LabCoat**
+
+   - With LabCoat, you can manage GitLab projects, create issues, and even accept merge requests all from your device.
+   - Official Website (N/A) | [Repo](https://gitlab.com/Commit451/LabCoat)
+   - [x] Open Source
+   - [x] [Download for free](https://gitlab.com/Commit451/LabCoat#labcoat-for-gitlab)
+   - [x] Android
+
+- **OctoDroid**
+
+   - This application provides access to GitHub and lets you stay connected with your network.
+   - Official Website (N/A) | [Repo](https://github.com/slapperwan/gh4a)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/slapperwan/gh4a#download)
+   - [x] Android
+
+- **PolyGit**
+
+   - Update your repositories from anywhere. PolyGit is a Git client designed for simplicity and ease of use. Works with GitHub, GitLab and Bitbucket.
+   - [Official Website](https://www.polygitapp.com/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://apps.apple.com/us/app/polygit-git-client/id1508942822)
+   - [x] iOS
+
+- **Working Copy**
+
+   - Access Git repositories on the go. Clone, edit, commit and push while allowing other apps access to repositories. Works with GitHub, GitLab, Bitbucket and Gitea.
+   - [Official Website](https://workingcopyapp.com/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://apps.apple.com/us/app/working-copy-git-client/id896694807)
+   - [x] iOS
 
 
 ### Goodreads
