@@ -241,6 +241,14 @@ Based on ArmCord.
    - [x] [Download for free](https://github.com/Murmele/Gittyup#how-to-install)
    - [x] Linux and Mac
 
+- **Gitu**
+
+   - A TUI Git client inspired by Magit.
+   - Official Website (N/A) | [Repo](https://github.com/altsem/gitu)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/altsem/gitu#installing-gitu)
+   - [x] Linux
+
 - **Kommit**
 
    - Git GUI client for KDE.
