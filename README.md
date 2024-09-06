@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Git](#git) • [Imgur](#imgur) • [Instagram](#instagram) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Messenger](#messenger) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [StackOverflow](#stackoverflow) • [Telegram](#telegram) • [TIDAL](#tidal) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Git](#git) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Messenger](#messenger) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Telegram](#telegram) • [TIDAL](#tidal) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -314,56 +314,6 @@ Based on ArmCord.
    - [x] Linux
 
 
-### Imgur
-
-- **Rimgu**
-
-   - Lightweight Imgur front-end without Javascript and ads. Uses its own request implementation. Can use either API or scraping.
-   - Official Instance (N/A) | [Repo](https://codeberg.org/3np/rimgu)
-   - Public Instances (N/A)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://codeberg.org/3np/rimgu#docker-1)
-
-   ⓘ Rimgu's development has been paused and Rimgo is recommended instead
-   
-- **Rimgo**
-  
-   - Rewrite of Rimgu in Go. Works without JS and has several public instances, including an Onion one.
-   - Official Instance (N/A) | [Repo](https://codeberg.org/rimgo/rimgo)
-   - [Public Instances](https://codeberg.org/rimgo/instances#clearnet)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://rimgo.codeberg.page/docs/getting-started/install/)
-   - [x] Decentralised Options | [I2P](https://codeberg.org/rimgo/instances#i2p) | [Onion](https://codeberg.org/rimgo/instances#tor)
-
-- **Imgin**
-  
-   - Lightweight Imgur front-end without Javascript and ads. Uses its own request implementation.
-   - [Official Instance](https://imgin.voidnet.tech/) | [Repo](https://git.voidnet.tech/kev/imgin)
-   - Public Instances (N/A)
-   - [x] Open-Source
-   - [x] Self-Hostable
-
-
-### Instagram
-
-- **Imgsed**
-
-   - Imgsed is an online Instagram backup tool that helps users save Instagram photos through the Instagram public API.
-   - [Official Instance](https://imgsed.com/) | Repo (N/A)
-   - [ ] Open-Source 
-   - [ ] Self-Hostable
-
-- **Bibliogram [Deprecated]**
-
-   - Alternative Instagram front-end without Javascript, tracking, ads and signup prompts. Currently unstable due to Instagram's server blocking.
-   - [Official Instance](https://bibliogram.art/) | [Repo](https://sr.ht/~cadence/bibliogram/)
-   - [Public Instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md) 
-   - [x] Open-Source 
-   - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Installing%20%28extended%29.md)
-
-   ⓘ Bibliogram's development has stopped as Instagram is continuing to block servers (if you want to pick up the development of Bibliogram, check [this blog post](https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram) by the original maintainer). There currently is no working open source front-end for Instagram. For some reason, closed source proxy sites like [this one](https://www.pixwox.com) continue working despite doing the exact same thing Bibliogram did.
-
-
 ### Lemmy
 
 - **Interstellar**
@@ -568,116 +518,6 @@ Based on ArmCord.
    - [x] Linux, Mac and Windows
 
 
-### Odysee
-
-- **Librarian**
-
-   - Open-Source, lightweight and privacy-respecting frontened for Odysee.
-   - Official Website (N/A) | [Repo](https://codeberg.org/librarian/librarian)
-   - [Public Instances](https://codeberg.org/librarian/librarian#clearnet)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://codeberg.org/librarian/librarian#install)
-   - [x] Decentralised Options | [I2P](https://codeberg.org/librarian/librarian#i2p) | [Onion](https://codeberg.org/librarian/librarian#tor)
-
-   ⓘ Librarian's repo has been archived as at May 2023 and no further updates are expected, as per https://bcow.xyz/posts/archiving-librarian/.
-
-
-### Quora
-
-- **Quetre**
-
-   - Alternative front-end to Quora. It enables you to see answers without ads, trackers, and popups. Has an unofficial API.
-   - [Official Instance](https://quetre.iket.me/) | [Repo](https://github.com/zyachel/quetre)
-   - [Public Instances](https://github.com/zyachel/quetre#instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/zyachel/quetre#installation)
-   - [x] Decentralised Options | [I2P](https://github.com/zyachel/quetre#instances) | [Onion](https://github.com/zyachel/quetre#instances)
-
-
-### Reddit
-
-   ⓘ Most Reddit alternative front-ends will no longer work due to the [2023 Reddit API controversy](https://en.wikipedia.org/wiki/2023_Reddit_API_controversy). Mutiple public instances of Libreddit, in addition to self-hosted instances of Troddit and Troddit+ are mostly functional however it seems.
-
-- **Redlib**
-
-   - An alternative private front-end to Reddit, with its origins in [Libreddit](https://github.com/libreddit/libreddit).
-   - Official Instance (N/A) | [Repo](https://github.com/redlib-org/redlib)
-   - [Public Instances](https://github.com/redlib-org/redlib-instances/blob/main/instances.md)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/redlib-org/redlib#deployment)
-
-- **Libreddit**
-
-   - Privacy-focused fast Reddit front-end without ads, javascript and tracking. All requests are proxied through the server.
-   - Official Instance (N/A) | [Repo](https://github.com/spikecodes/libreddit)
-   - [Public Instances](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/spikecodes/libreddit#installation)
-   - [x] Decentralised Options | [I2P](http://wilr7fk4bx3lnubdhxgwxg37oubmkyiqkamgfoivrz5ldtjwyitq.b32.i2p/)  | [Onion](http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion/)
-
-   ⓘ The maintainer has [shutdown the official instance and ceased development](https://github.com/libreddit/libreddit/issues/840) due to Reddit's API changes. Development has continued at the previously mentioned Libreddit fork, Redlib.
-
-- **Troddit**
-
-   - A significantly smaller Open Source front-end for Reddit, written in NextJS.
-   - [Official Instance](https://troddit.com/) | [Repo](https://github.com/burhan-syed/troddit)
-   - Public Instances (N/A)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/burhan-syed/troddit#developing)
-
-   ⓘ Troddit uses Javascript and their official instance uses Vercel's [audience analytics](https://nextjs.org/analytics). Connects directly to Reddit without a proxy using Reddit's API.
-
-- **Teddit**
-
-   - Privacy-focused lightweight Reddit front-end. No ads, no javascript. Provides an unofficial API. 
-   - Official Instance (N/A) | [Repo](https://codeberg.org/teddit/teddit)
-   - [Public Instances](https://codeberg.org/teddit/teddit#instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://codeberg.org/teddit/teddit#installation)
-   - [x] Decentralised Options | [I2P](https://codeberg.org/teddit/teddit#instances)  | [Onion](https://codeberg.org/teddit/teddit#instances)
-
-
-### Search Engines
-
-- **Whoogle**
-
-   - Google search result front-end without Javascript, ads, cookies and tracking. Tor and HTTP/SOCKS proxy support.
-   - Official Instance (N/A) | [Repo](https://github.com/benbusby/whoogle-search)
-   - [Public Instances](https://github.com/benbusby/whoogle-search#public-instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/benbusby/whoogle-search#install)
-   - [x] Decentralised Options | [I2P](https://github.com/benbusby/whoogle-search#i2p-instances) | [Onion](https://github.com/benbusby/whoogle-search#onion-instances)
-
-- **LibreX**
-
-   - A privacy respecting meta search engine for Google and popular torrent sites which can redirect to privacy-respecting front-ends.
-   - Official Instance (N/A) | [Repo](https://github.com/hnhx/librex)
-   - [Public Instances](https://github.com/hnhx/librex#instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/hnhx/librex/wiki/How-to-host-LibreX)
-   - [x] Decentralised Options | [I2P](https://github.com/hnhx/librex#instances) | [Onion](https://github.com/hnhx/librex#instances)
-
-- **SearX**
-
-   - Privacy-respecting, self-hostable metasearch engine. Acts as front-end for more than 70 search services.
-   - [Homepage](https://searx.github.io/searx) | [Repo](https://github.com/searx/searx)
-   - [Public Instances](https://searx.space)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://searx.github.io/searx/admin/installation.html)
-   - [x] Decentralised Options | [Onion](https://searx.space)
-
-   ⓘ SearX's repo has been archived as at September 2023 and will no longer be maintained, [as per this last commit before the repo was archived](https://github.com/searx/searx/commit/276ffd3f01cdd823f75676c51231fad4040059d3).
-
-- **SearXNG**
-
-   - Fork of SearX with UI improvements (including to the settings page) and updates to the selfhosting procedure.
-   - [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng)
-   - [Public Instances](https://searx.space)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://docs.searxng.org/admin/index.html)
-   - [x] Decentralised Options | [Onion](https://searx.space)
-
-
 ### Shazam
 
 - **shaq**
@@ -799,18 +639,6 @@ Based on ArmCord.
    - [x] Linux, Mac and Windows
 
 
-### StackOverflow
-
-- **AnonymousOverflow**
-
-   - View StackOverflow threads without the cluttered interface and exposing your IP address, browsing habits and other browser fingerprint data to StackOverflow.
-   - [Official Instance](https://code.whatever.social) | [Repo](https://github.com/httpjamesm/AnonymousOverflow)
-   - [Public Instances](https://aohub.httpjames.space/)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/httpjamesm/AnonymousOverflow/wiki/Deployment)
-   - [x] Decentralised Options | [I2P](https://aohub.httpjames.space/) | [Onion](https://aohub.httpjames.space/)
-
-
 ### Telegram
 
 - **64Gram**
@@ -897,18 +725,6 @@ Based on ArmCord.
    - [x] Linux, Mac and Windows
 
 
-### Tiktok
-
-- **ProxiTok**
-
-   - Open-Source front-end for Tiktok that proxies users requests.
-   - [Official Instance](https://proxitok.pabloferreiro.es) | [Repo](https://github.com/pablouser1/ProxiTok)
-   - [Public Instances](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#clearnet)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/pablouser1/ProxiTok#installation)
-   - [x] Decentralised Options | [I2P](http://github.com/pablouser1/ProxiTok/wiki/Public-instances#i2p) | [Onion](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#tor)
-
-
 ### Translate
 
 - **Mozhi**
@@ -938,17 +754,6 @@ Based on ArmCord.
    - [x] Decentralised Options | [I2P](https://github.com/LibreTranslate/LibreTranslate#tori2p-mirrors)  | [Onion](https://github.com/LibreTranslate/LibreTranslate#tori2p-mirrors)
 
 
-### Tumblr
-
-- **PriviBlur**
-
-   - A privacy-focused alternative frontend to Tumblr with a touch of modern design.
-   - Official Instance (N/A) | [Repo](https://github.com/syeopite/priviblur)
-   - [Public Instances](https://github.com/syeopite/priviblur/blob/master/instances.md)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/syeopite/priviblur#installation)
-
-
 ### Twitch
 
 - **SafeTwitch**
@@ -960,30 +765,40 @@ Based on ArmCord.
    - [x] Self-Hostable | [Guide](https://codeberg.org/dragongoose/safetwitch/wiki/Hosting-from-source)
    - [x] Decentralised Options | [I2P](https://codeberg.org/dragongoose/safetwitch/wiki/Instances#i2p)  | [Onion](https://codeberg.org/dragongoose/safetwitch/wiki/Instances#onion)
 
-### Twitter
 
-- **Nitter**
+### Wikipedia
 
-   - Lightweight Twitter front-end. No ads, no Javascript, no tracking. RSS support.
-   - Official Instance (N/A) | [Repo](https://github.com/zedeus/nitter)
-   - [Public Instances](https://github.com/zedeus/nitter/wiki/Instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/zedeus/nitter#installation)
-   - [x] Decentralised Options | [I2P](https://github.com/zedeus/nitter/wiki/Instances#i2p)  | [Onion](https://github.com/zedeus/nitter/wiki/Instances#tor) | [Loki](https://github.com/zedeus/nitter/wiki/Instances#lokinet)
+- **Kiwix Desktop**
 
-   ⓘ The maintainer has [declared Nitter abandoned](https://github.com/zedeus/nitter/issues/1155) because of X's/Twitter's actions. The official instance has been discontinued and very few instances still work.
+   - Kiwix is an offline reader for Web content. One of its main purposes is to make Wikipedia available offline. This is achieved by reading the content of a file in the ZIM format, a highly compressed open format with additional metadata.
+   - [Official Website](https://kiwix.org/en/applications/) | [Repo](https://github.com/kiwix/kiwix-desktop)
+   - [x] Open Source
+   - [x] [Download for free](https://kiwix.org/en/applications/)
+   - [x] Linux, Mac and Windows + Android and iOS
 
+- **Web Archives**
 
-### Urban Dictionary
+   - A web archives reader offering the ability to browse offline millions of articles from large community projects such as Wikipedia or Wikisource.
+   - Official Website (N/A) | [Repo](https://github.com/birros/web-archives)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/birros/web-archives#installation)
+   - [x] Linux
 
-- **Rural Dictionary**
+- **Wike**
 
-   - Rural Dictionary scrapes Urban Dictionary for data and then displays it in HTML.
-   - Official Instance (N/A) | [Repo](https://codeberg.org/zortazert/rural-dictionary)
-   - [Public Instances](https://codeberg.org/zortazert/rural-dictionary#headline-2)
-   - [x] Open-Source
-   - [x] Self-Hostable
-   - [x] Decentralised Options | [I2P](http://vern5cxiaufqvhv4hu5ypkvw3tiwvuinae4evdbqzrioql6s2sha.b32.i2p/)  | [Onion](http://rd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
+   - Wike is a Wikipedia reader for the GNOME Desktop. Provides access to all the content of this online encyclopedia in a native application, with a simpler and distraction-free view of articles.
+   - [Official Website](https://hugolabe.github.io/Wike/) | [Repo](https://github.com/hugolabe/Wike)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/hugolabe/Wike#install)
+   - [x] Linux
+
+- **WIKI-TUI**
+
+   - A simple and easy to use Wikipedia Text User Interface .
+   - [Official Website](https://wiki-tui.net/) | [Repo](https://github.com/Builditluc/wiki-tui)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/Builditluc/wiki-tui/releases)
+   - [x] Linux, Mac and Windows
 
 
 ### YouTube
@@ -1112,7 +927,8 @@ ___
 ___
 <sup>**Legal addendum**</sup>
 
-<sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.
-YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC. Google is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Medium is a trademark of A Medium Corporation. Tiktok is a trademark of Bytedance Ltd. IMDb is a trademark of IMDb.com, Inc. Odysee is a trademark of Odysee, Inc. Quora is a trademark of Quora Inc. XVIDEOS is a trademark of WEBGROUP CZECH REPUBLIC, A.S. FANDOM is a trademark of Fandom, Inc. GitHub is a trademark of GitHub, Inc. StackOverflow is a trademark Stack Exchange, Inc. Genius is a trademark of ML Genius Holdings, LLC.</sup>
+<sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.</sup>
 
-<sup> The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
+<sup>Apple Music is a trademark of Apple Inc. Discord is a trademark of Discord Inc. Mastodon is a trademark of Mastodon GmbH. Messenger is a trademark of Meta Platforms. Shazam is a trademark of Apple Inc. Signal is a trademark of Signal Messenger LLC. Spotify is a trademark of Spotify AB. Telegram is a trademark of Telegram FZ LLC. TIDAL is a trademark of TIDAL Music AS. Twitch is a trademark of Amazon.com, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
+
+<sup>The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
