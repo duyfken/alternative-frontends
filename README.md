@@ -7,8 +7,6 @@
 > 
 > If you would like [Web Front-ends](https://github.com/duyfken/alternative-front-ends/tree/web), [Mobile Front-ends](https://github.com/duyfken/alternative-front-ends/tree/mobile) or [TV Front-ends](https://github.com/duyfken/alternative-front-ends/tree/tv), please visit those branches of this repository.
 ___
-ⓘ [Redirector](https://github.com/einaregilsson/Redirector) rules based on services provided in this list can be found **[here](https://github.com/duyfken/RedirectorPrivacyAlternatives)**
-___
 
 Thanks to  **shaedrich** for contributing to the expansion of this list!
 
@@ -727,31 +725,29 @@ Based on ArmCord.
 
 ### Translate
 
-- **Mozhi**
+- **Crow Translate**
 
-   - Mozhi (spelt moḻi) is an alternative-frontend for many translation engines. It is a fork of [SimplyTranslate](https://codeberg.org/SimpleWeb/SimplyTranslate-Web).
-   - [Official Instance](https://mozhi.aryak.me/) | [Repo](https://codeberg.org/aryak/mozhi)
-   - [Public Instances](https://codeberg.org/aryak/mozhi#instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/TheDavidDelta/lingva-translate#deployment)
-   - [x] Decentralised Options | [I2P](https://codeberg.org/aryak/mozhi#instances)  | [Onion](https://codeberg.org/aryak/mozhi#instances)
+   - Application written in C++ / Qt that allows you to translate and speak text using Mozhi.
+   - [Official Website](https://apps.kde.org/crowtranslate/) | [Repo](https://invent.kde.org/office/crow-translate)
+   - [x] Open Source
+   - [x] [Download for free](https://apps.kde.org/crow-translate)
+   - [x] Linux and Windows
 
-- **Lingva**
+- **Pot**
 
-   - Tracking-free Google Translate front-end.
-   - [Official Instance](https://lingva.thedaviddelta.com/) | [Repo](https://github.com/TheDavidDelta/lingva-translate)
-   - [Public Instances](https://github.com/TheDavidDelta/lingva-translate#instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/TheDavidDelta/lingva-translate#deployment)
+   - A cross-platform rust-based translator application, capable of using many different translation engines.
+   - [Official Website](https://pot-app.com/en/) | [Repo](https://github.com/pot-app/pot-desktop)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/pot-app/pot-desktop/blob/master/README_EN.md#installation)
+   - [x] Linux, Mac and Windows
 
-- **LibreTranslate**
+- **Translatium**
 
-   - Free and Open Source Machine Translation API, entirely self-hosted. Unlike other APIs, it doesn't rely on proprietary providers such as Google or Azure to perform translations. Instead, its translation engine is powered by the open source Argos Translate library.
-   - [Official Instance](https://libretranslate.com/) | [Repo](https://github.com/LibreTranslate/LibreTranslate)
-   - [Public Instances](https://github.com/LibreTranslate/LibreTranslate#mirrors)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/LibreTranslate/LibreTranslate#install-and-run)
-   - [x] Decentralised Options | [I2P](https://github.com/LibreTranslate/LibreTranslate#tori2p-mirrors)  | [Onion](https://github.com/LibreTranslate/LibreTranslate#tori2p-mirrors)
+   - Translate instantly between over 200 languages with example sentences, synonyms, relevant words, and pronunciation with Translatium.
+   - [Official Website](https://translatium.app/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://translatium.app/)
+   - [x] Linux, Mac and Windows
 
 
 ### Twitch
