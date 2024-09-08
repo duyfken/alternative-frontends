@@ -7,8 +7,6 @@
 > 
 > If you would like [Web Front-ends](https://github.com/duyfken/alternative-front-ends/tree/web), [TV Front-ends](https://github.com/duyfken/alternative-front-ends/tree/tv)  or [Desktop Front-ends](https://github.com/duyfken/alternative-front-ends/tree/desktop), please visit those branches of this repository.
 ___
-ⓘ [Redirector](https://github.com/einaregilsson/Redirector) rules based on services provided in this list can be found **[here](https://github.com/duyfken/RedirectorPrivacyAlternatives)**
-___
 
 Thanks to  **shaedrich** for contributing to the expansion of this list!
 
@@ -557,31 +555,37 @@ ___
 
 ### Translate
 
-- **Mozhi**
+- **DeepL**
 
-   - Mozhi (spelt moḻi) is an alternative-frontend for many translation engines. It is a fork of [SimplyTranslate](https://codeberg.org/SimpleWeb/SimplyTranslate-Web).
-   - [Official Instance](https://mozhi.aryak.me/) | [Repo](https://codeberg.org/aryak/mozhi)
-   - [Public Instances](https://codeberg.org/aryak/mozhi#instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/TheDavidDelta/lingva-translate#deployment)
-   - [x] Decentralised Options | [I2P](https://codeberg.org/aryak/mozhi#instances)  | [Onion](https://codeberg.org/aryak/mozhi#instances)
+   - This is an unofficial Android app for DeepL translation. It uses a technology called WebView, an Android GUI component, to make it look like a native app.
+   - Official Website (N/A) | [Repo](https://github.com/sakusaku3939/DeepLAndroid)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/sakusaku3939/DeepLAndroid#deepl-android)
+   - [x] Android
 
-- **Lingva**
+- **Lentil Translate**
 
-   - Tracking-free Google Translate front-end.
-   - [Official Instance](https://lingva.thedaviddelta.com/) | [Repo](https://github.com/TheDavidDelta/lingva-translate)
-   - [Public Instances](https://github.com/TheDavidDelta/lingva-translate#instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/TheDavidDelta/lingva-translate#deployment)
+   - An unofficial Android client for Lingva Translate.
+   - Official Website (N/A) | [Repo](https://github.com/yaxarat/lingvaandroid)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/yaxarat/lingvaandroid#lentil-translate)
+   - [x] Android
 
-- **LibreTranslate**
+- **SimplyTranslate Mobile**
 
-   - Free and Open Source Machine Translation API, entirely self-hosted. Unlike other APIs, it doesn't rely on proprietary providers such as Google or Azure to perform translations. Instead, its translation engine is powered by the open source Argos Translate library.
-   - [Official Instance](https://libretranslate.com/) | [Repo](https://github.com/LibreTranslate/LibreTranslate)
-   - [Public Instances](https://github.com/LibreTranslate/LibreTranslate#mirrors)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/LibreTranslate/LibreTranslate#install-and-run)
-   - [x] Decentralised Options | [I2P](https://github.com/LibreTranslate/LibreTranslate#tori2p-mirrors)  | [Onion](https://github.com/LibreTranslate/LibreTranslate#tori2p-mirrors)
+   - Privacy friendly frontend to Google Translate .
+   - [Official Website](https://manerakai.github.io/simplytranslate_mobile/) | [Repo](https://github.com/ManeraKai/simplytranslate_mobile)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/ManeraKai/simplytranslate_mobile#simplytranslate-mobile)
+   - [x] Android
+
+- **Translate You**
+
+   - Privacy focused translator app built with Material Design 3 principles. Supports 9 different translation engines.
+   - Official Website (N/A) | [Repo](https://github.com/you-apps/TranslateYou)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/you-apps/TranslateYou#download)
+   - [x] Android
 
 
 ### Twitch
