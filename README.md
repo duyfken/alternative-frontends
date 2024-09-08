@@ -733,6 +733,14 @@ Based on ArmCord.
    - [x] [Download for free](https://apps.kde.org/crow-translate)
    - [x] Linux and Windows
 
+- **Dialect**
+
+   - Dialect is a translation application targeted at the GNOME desktop, but also compatible with the free desktop ecosystem in general. It is designed to support multiple online translation sources such as LibreTranslate, DeepL, Google, Lingva Translate, Bing, Yandex and others.
+   - [Official Website](https://dialectapp.org/) | [Repo](https://github.com/dialect-app/dialect)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/dialect-app/dialect#installation)
+   - [x] Linux
+
 - **Pot**
 
    - A cross-platform rust-based translator application, capable of using many different translation engines.
