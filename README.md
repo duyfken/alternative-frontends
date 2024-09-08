@@ -496,6 +496,15 @@ ___
    - [x] Self-Hostable | [Guide](https://codeberg.org/dragongoose/safetwitch/wiki/Hosting-from-source)
    - [x] Decentralised Options | [I2P](https://codeberg.org/dragongoose/safetwitch/wiki/Instances#i2p)  | [Onion](https://codeberg.org/dragongoose/safetwitch/wiki/Instances#onion)
 
+- **Twitchat**
+
+   - A custom twitch chat that aims to fill gaps in the official Twitch chat for streamers. The main goal is to follow your chat as best as possible.
+   - [Official Instance](https://twitchat.fr/) | [Repo](https://github.com/Durss/Twitchat)
+   - Public Instances (N/A)
+   - [x] Open-Source
+   - [x] Self-Hostable | [Guide](https://github.com/Durss/Twitchat#install-server)
+
+
 ### Twitter
 
 - **Nitter**
