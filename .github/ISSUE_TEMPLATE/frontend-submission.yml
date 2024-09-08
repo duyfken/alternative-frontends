@@ -2,6 +2,7 @@
 name: 🌟 Front-end Submission
 description: 'This can be used to submit a front-end'
 title: "New front-end: [Name] for [Service]"
+labels: ["new front-end"]
 assignees: duyfken
 body:
   - type: markdown
