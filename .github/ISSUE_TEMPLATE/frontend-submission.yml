@@ -17,6 +17,7 @@ body:
         - Web
         - Mobile (Android/iOS)
         - Desktop
+        - TV
     validations:
       required: true
   - type: input
