@@ -756,14 +756,21 @@ Based on ArmCord.
 
 ### Twitch
 
-- **SafeTwitch**
+- **Chatterino**
 
-   - SafeTwitch is a privacy respecting frontend for Twitch. The main advantages of SafeTwitch are every request is proxied through the server, no logs are kept, and compared to Twitch, SafeTwitch is optimised for speed and usability.
-   - [Official Instance](https://safetwitch.drgns.space/) | [Repo](https://codeberg.org/dragongoose/safetwitch)
-   - [Public Instances](https://codeberg.org/SafeTwitch/safetwitch#instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://codeberg.org/dragongoose/safetwitch/wiki/Hosting-from-source)
-   - [x] Decentralised Options | [I2P](https://codeberg.org/dragongoose/safetwitch/wiki/Instances#i2p)  | [Onion](https://codeberg.org/dragongoose/safetwitch/wiki/Instances#onion)
+   - Chatterino 2 is a chat client for Twitch.tv.
+   - [Official Website](https://chatterino.com/) | [Repo](https://github.com/Chatterino/chatterino2)
+   - [x] Open Source
+   - [x] [Download for free](https://chatterino.com/#downloads)
+   - [x] Linux, Mac and Windows
+
+- **twitch-tui**
+
+   - A Terminal User Interface for reading and interacting with Twitch chat users, written in Rust.
+   - [Official Website](https://xithrius.github.io/twitch-tui/) | [Repo](https://github.com/Xithrius/twitch-tui)
+   - [x] Open Source
+   - [x] [Download for free](https://xithrius.github.io/twitch-tui/guide/installation.html)
+   - [x] Linux, Mac and Windows
 
 
 ### Wikipedia
@@ -929,6 +936,6 @@ ___
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.</sup>
 
-<sup>Apple Music is a trademark of Apple Inc. Discord is a trademark of Discord Inc. Mastodon is a trademark of Mastodon GmbH. Messenger is a trademark of Meta Platforms. Shazam is a trademark of Apple Inc. Signal is a trademark of Signal Messenger LLC. Spotify is a trademark of Spotify AB. Telegram is a trademark of Telegram FZ LLC. TIDAL is a trademark of TIDAL Music AS. Twitch is a trademark of Amazon.com, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
+<sup>Apple Music is a trademark of Apple Inc. Discord is a trademark of Discord Inc. Mastodon is a trademark of Mastodon GmbH. Messenger is a trademark of Meta Platforms. Shazam is a trademark of Apple Inc. Signal is a trademark of Signal Messenger LLC. Spotify is a trademark of Spotify AB. Telegram is a trademark of Telegram FZ LLC. TIDAL is a trademark of TIDAL Music AS. Twitch is a trademark of Amazon.com, Inc. Wikipedia is a trademark of Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
 
 <sup>The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
