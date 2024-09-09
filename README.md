@@ -599,6 +599,7 @@ ___
    - A smart redirecting gateway for various frontend services. Faster and compatible alternative to farside. Also adds Tor and I2P support.
    - [Official Website](https://fastsi.de/) | [Repo](https://github.com/cofob/fastside)
    - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/cofob/fastside#self-hosting)
 
 - **Farside**
 
