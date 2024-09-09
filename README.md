@@ -921,6 +921,6 @@ ___
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.</sup>
 
-<sup>Apple Music is a trademark of Apple Inc. Discord is a trademark of Discord Inc. Mastodon is a trademark of Mastodon GmbH. Messenger is a trademark of Meta Platforms. Shazam is a trademark of Apple Inc. Signal is a trademark of Signal Messenger LLC. Spotify is a trademark of Spotify AB. Telegram is a trademark of Telegram FZ LLC. TIDAL is a trademark of TIDAL Music AS. Twitch is a trademark of Amazon.com, Inc. Wikipedia is a trademark of Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
+<sup>Apple Music is a trademark of Apple Inc. Discord is a trademark of Discord Inc. Mastodon is a trademark of Mastodon GmbH. Messenger is a trademark of Meta Platforms. Shazam is a trademark of Apple Inc. Signal is a trademark of Signal Messenger LLC. Spotify is a trademark of Spotify AB. Telegram is a trademark of Telegram FZ LLC. TIDAL is a trademark of TIDAL Music AS. Twitch is a trademark of Amazon.com, Inc. WhatsApp is a trademark of Meta Platforms. Wikipedia is a trademark of Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
 
 <sup>The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
