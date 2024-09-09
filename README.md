@@ -2,8 +2,9 @@
 
 **This is a list of privacy-respecting front-ends to popular online services, including social media, streaming and information services. All of the options here are desktop apps for Linux, Mac or Windows.**
 
+[<img src="https://img.shields.io/badge/Codeberg-2185D0?logo=Codeberg&logoColor=white">](https://codeberg.org/duyfken/alternative-front-ends) [<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">](https://github.com/duyfken/alternative-front-ends)
 > [!NOTE]
-> You are viewing the [Desktop Front-ends](../../tree/desktop) branch of this list, which is now available on both [Codeberg](https://codeberg.org/duyfken/alternative-front-ends) and [GitHub](https://github.com/duyfken/alternative-front-ends)!
+> You are viewing the [Desktop Front-ends](../../tree/desktop) branch of this list!
 > 
 > If you would like [Web Front-ends](../../tree/web), [Mobile Front-ends](../../tree/mobile) or [TV Front-ends](../../tree/tv), please visit those branches of this repository.
 ___
