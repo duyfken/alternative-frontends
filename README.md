@@ -925,6 +925,14 @@ Based on ArmCord.
    - [x] [Download for free](https://github.com/ytmdesktop/ytmdesktop#%EF%B8%8F-download-at)
    - [x] Linux, Mac and Windows
 
+- **YTerMusic**
+
+   - YTerMusic is a TUI based Youtube Music Player that aims to be as fast and simple as possible.
+   - Official Website (N/A) | [Repo](https://github.com/ccgauche/ytermusic)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/ccgauche/ytermusic#install)
+   - [x] Linux
+
 ___
 
 ### Tools
