@@ -191,7 +191,7 @@ ___
 
    - A Lemmy client for Android written in Java. It's a fork of the Infinity for Reddit project.
    - Official Website (N/A) | [Repo](https://codeberg.org/Bazsalanszky/Eternity)
-   - [x] Open-Source
+   - [x] Open Source
    - [x] [Download for free](https://codeberg.org/Bazsalanszky/Eternity)
    - [x] Android and iOS
 
@@ -199,7 +199,7 @@ ___
 
    - An app for Mbin and Lemmy; connecting you to the fediverse.
    - [Official Website](https://kbin.earth/m/interstellar) | [Repo](https://github.com/jwr1/interstellar)
-   - [x] Open-Source
+   - [x] Open Source
    - [x] [Download for free](https://github.com/jwr1/interstellar#downloads)
    - [x] Android + Linux
 
@@ -207,39 +207,39 @@ ___
 
    - Jerboa is a native-android client for Lemmy, built using the native Android Toolkit, Jetpack Compose.
    - Official Website (N/A) | [Repo](https://github.com/LemmyNet/jerboa)
-   - [x] Open-Source
+   - [x] Open Source
    - [x] [Download for free](https://github.com/LemmyNet/jerboa#installation--releases)
    - [x] Android
 
 - **Lunar**
 
-   - Lunar is an iOS app that serves as a client for Lemmy and Kbin, the open-source federated alternatives to Reddit
+   - Lunar is an iOS app that serves as a client for Lemmy and Kbin, the Open Source federated alternatives to Reddit
    - Official Website (N/A) | [Repo](https://github.com/mani-sh-reddy/Lunar)
-   - [x] Open-Source
+   - [x] Open Source
    - [x] [Download for free](https://testflight.apple.com/join/GEFCCQTb)
    - [x] iOS
 
 - **Memmy**
 
-   - An Apollo inspired open-source iOS and Android client for Lemmy built with React-Native.
+   - An Apollo inspired Open Source iOS and Android client for Lemmy built with React-Native.
    - Official Website (N/A) | [Repo](https://github.com/Memmy-App/memmy)
-   - [x] Open-Source
+   - [x] Open Source
    - [x] [Download for free](https://apps.apple.com/us/app/memmy-for-lemmy/id6450204299?platform=iphone)
    - [x] iOS
 
 - **mlem**
 
-   - Mlem is a client for Lemmy - a Reddit-esque, open-source link aggregator. With Mlem, you can effortlessly participate in the conversation across all Lemmy servers.
+   - Mlem is a client for Lemmy - a Reddit-esque, Open Source link aggregator. With Mlem, you can effortlessly participate in the conversation across all Lemmy servers.
    - Official Website (N/A) | [Repo](https://github.com/mlemgroup/mlem)
-   - [x] Open-Source
+   - [x] Open Source
    - [x] [Download for free](https://apps.apple.com/gb/app/mlem-for-lemmy/id6450543782?platform=iphone)
    - [x] iOS
 
 - **Thunder**
 
-   - An open-source cross-platform Lemmy client for iOS and Android built with Flutter.
+   - An Open Source cross-platform Lemmy client for iOS and Android built with Flutter.
    - Official Website (N/A) | [Repo](https://github.com/thunder-app/thunder)
-   - [x] Open-Source
+   - [x] Open Source
    - [x] [Download for free](https://github.com/thunder-app/thunder#releases)
    - [x] Android and iOS
 
@@ -247,7 +247,7 @@ ___
 
    - Voyager is an Apollo-like open source web client for Lemmy. It's a mobile-first app, but works great on desktop devices, too.
    - [Official Website](https://vger.app/) | [Repo](https://github.com/aeharding/voyager)
-   - [x] Open-Source
+   - [x] Open Source
    - [x] [Download for free](https://github.com/aeharding/voyager#voyager)
    - [x] Android and iOS + Web
 
@@ -280,7 +280,7 @@ ___
 
 - **IceCubesApp**
 
-   - IceCubesApp is an open-source application for accessing the decentralised social network Mastodon! It's built entirely in SwiftUI, making it fast, lightweight, and easy to use.
+   - IceCubesApp is an Open Source application for accessing the decentralised social network Mastodon! It's built entirely in SwiftUI, making it fast, lightweight, and easy to use.
    - Official Website (N/A) | [Repo](https://github.com/Dimillian/IceCubesApp)
    - [x] Open Source
    - [x] [Download for free](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)
@@ -621,7 +621,7 @@ ___
 
 - **Squawker**
 
-   - An open-source privacy oriented Twitter/X client for Android.
+   - An Open Source privacy oriented Twitter/X client for Android.
    - Official Website (N/A) | [Repo](https://github.com/j-fbriere/squawker)
    - [x] Open Source
    - [x] [Download for free](https://github.com/j-fbriere/squawker#-squawker-)
@@ -641,60 +641,136 @@ ___
 
 ### YouTube
 
-- **Invidious**
+- **Clipious**
 
-   - Lightweight YouTube front-end - no tracking, no ads and Javascript is optional.
-   - [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious)
-   - [Public Instances](https://docs.invidious.io/instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://docs.invidious.io/Installation.md)
-   - [x] Decentralised Options | [I2P](https://docs.invidious.io/instances/#i2p-eepsites) | [Onion](https://docs.invidious.io/instances/#tor-onion-services)
+   - Android client application for invidious, the privacy focused youtube front end.
+   - Official Website (N/A) | [Repo](https://github.com/lamarios/clipious)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/lamarios/clipious#installation)
+   - [x] Android
 
-- **Piped**
+- **FluxTube**
 
-   - Alternative privacy-friendly YouTube front-end. Lightweight, no ads (Sponsorblock integrated), no tracking, 4K support and more. 
-   - [Official Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped)
-   - [Public Instances](https://piped.video/preferences) (scroll down)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://docs.piped.video/docs/self-hosting/)
-   - [x] Decentralised Options | [IPNS](https://github.com/digitalblossom/alternative-frontends/issues/25#issuecomment-1002261657) | [Onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
+   - A powerful and ad-free YouTube client built using Flutter. Watch YouTube videos without ads, subscribe to channels, retrieve video dislikes, read comments, save videos, and much more.
+   - Official Website (N/A) | [Repo](https://github.com/mu-fazil-vk/FluxTube)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/mu-fazil-vk/FluxTube#download)
+   - [x] Android
 
-- **Cloudtube**
+- **FreeTube Android**
 
-   - Alternative Invidious front-end without Javascript. 
-   - [Official Instance](https://tube.cadence.moe) | [Repo](https://sr.ht/~cadence/tube)
-   - Public Instances (N/A)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md)
+   - FreeTube Android is an open source YouTube player built with privacy in mind. Use YouTube without advertisements and prevent Google from tracking you with their cookies and JavaScript.
+   - Official Website (N/A) | [Repo](https://github.com/MarmadileManteater/FreeTubeAndroid)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/MarmadileManteater/FreeTubeAndroid/releases)
+   - [x] Android
 
-- **Viewtube**
+- **Juno for YouTube** 💰
 
-   - Privacy-respecting front-end with subscription, watch-progress and recommendation features. 
-   - [Official Instance](https://viewtube.io/) | [Repo](https://github.com/ViewTube/viewtube)
-   - Public Instances (N/A)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://viewtube.wiki/installation)
+   - Watch your favorite YouTube videos in a gorgeous and powerful visionOS UI, with support for playback quality, speed, and even 360° and 180° video!
+   - Official Website (N/A) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download](https://apps.apple.com/us/app/juno-for-youtube/id6476961640)
+   - [x] Apple visionOS (Vision Pro headset)
+
+- **LibreTube**
+
+   - An alternative frontend for YouTube, for Android, using Piped as the YouTube proxy.
+   - [Official Website](https://libretube.dev/) | [Repo](https://github.com/libre-tube/LibreTube)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/libre-tube/LibreTube/releases)
+   - [x] Android
+
+- **NewPipe**
+
+   - NewPipe has been created with the purpose of getting the original YouTube experience on your smartphone without annoying ads and questionable permissions.
+   - [Official Website](https://newpipe.net/) | [Repo](https://github.com/TeamNewPipe/NewPipe)
+   - [x] Open Source
+   - [x] [Download for free](https://newpipe.net/#download)
+   - [x] Android
+
+- **PipePipe**
+
+   -  A FLOSS Android app to let you browse YouTube, NicoNico and BiliBili without accounts. NewPipe, but better - browse the most popular streaming platforms throughout the world.
+   - Official Website (N/A) | [Repo](https://github.com/InfinityLoop1308/PipePipe)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/InfinityLoop1308/PipePipe#pipepipe)
+   - [x] Android
+
+- **SkyTube**
+
+   - A copylefted libre / open source YouTube player for Android, without ads.
+   - Official Website (N/A) | [Repo](https://github.com/SkyTubeTeam/SkyTube)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/SkyTubeTeam/SkyTube#download)
+   - [x] Android
+
+- **Tubular**
+
+   - A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
+   - Official Website (N/A) | [Repo](https://github.com/polymorphicshade/Tubular)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/polymorphicshade/Tubular/releases)
+   - [x] Android
+
+- **WatchTube**
+
+   - YouTube on your wrist (Apple Watch).
+   - Official Website (N/A) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://apps.apple.com/gb/app/watchtube/id1599884909)
+   - [x] Apple Watch
+
+- **Yattee**
+
+   - Privacy oriented video player for Apple iOS, tvOS and macOS devices.
+   - Official Website (N/A) | [Repo](https://github.com/yattee/yattee)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/yattee/yattee/wiki/Installation-Instructions)
+   - [x] Apple iOS + tvOS + Mac
 
 
 ### YouTube Music
 
-- **BeatBump**
+- **InnerTune**
 
-   - Privacy-friendly YouTube Music front-end built with Svelte. Supports device sync.
-   - [Official Instance](https://beatbump.io) | [Repo](https://github.com/snuffyDev/Beatbump)
-   - [Public Instances](https://github.com/snuffyDev/Beatbump#instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/snuffyDev/Beatbump?tab=readme-ov-file#docker)
-   - [x] Decentralised Options | [I2P](http://vern6inmbjzqpecx4kpkq5sln3cqqrfuxfzh4au3tpxbsfbwbnta.b32.i2p/) | [Onion](http://bb.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
+   - A Material 3 YouTube Music client for Android.
+   - Official Website (N/A) | [Repo](https://github.com/z-huang/InnerTune)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/z-huang/InnerTune/wiki/App-Versions)
+   - [x] Android
 
-- **Hyperpipe**
+- **Namida**
 
-   - A privacy-respecting front-end for YouTube Music, inspired by and built with the help of Piped.
-   - [Official Instance](https://hyperpipe.surge.sh) | [Repo](https://codeberg.org/Hyperpipe/Hyperpipe)
-   - [Public Instances](https://hyperpipe.codeberg.page)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://codeberg.org/Hyperpipe/Hyperpipe#usage)
-   - [x] Decentralised Options | [Onion](https://hyperpipe.codeberg.page)
+   - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter.
+   - Official Website (N/A) | [Repo](https://github.com/namidaco/namida)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/namidaco/namida#installation)
+   - [x] Android
+
+- **OuterTune**
+
+   - A Material 3 YouTube Music client & local music player for Android. OuterTune is a supercharged fork of InnerTune, with advanced account synchronization, local media playback, multiple queues, and a new take on UI design.
+   - Official Website (N/A) | [Repo](https://github.com/DD3Boh/OuterTune)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/DD3Boh/OuterTune#outertune)
+   - [x] Android
+
+- **RiMusic**
+
+   - RiMusic is a multilingual Android application for streaming music from YouTube Music. It began as an extension of ViMusic, then acquired its own identity. It allows the user to customise it at will.
+   - [Official Website](https://rimusic.xyz/) | [Repo](https://github.com/fast4x/RiMusic)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/fast4x/RiMusic#-installation)
+   - [x] Android
+
+- **SimpMusic**
+
+   - A FOSS YouTube Music client for Android with many features from Spotify, Musixmatch, SponsorBlock, ReturnYouTubeDislike.
+   - [Official Website](https://simpmusic.tech/) | [Repo](https://github.com/maxrave-dev/SimpMusic)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/maxrave-dev/SimpMusic#simpmusic)
+   - [x] Android
 
 ___
 
