@@ -92,7 +92,7 @@ ___
 
 - **Datcord**
 
-   - Datcord is an open-source Discord client that respects your privacy. Datcord is a specialised version of Firefox (the official client is Chromium-based).
+   - Datcord is an Open Source Discord client that respects your privacy. Datcord is a specialised version of Firefox (the official client is Chromium-based).
    - Official Website (N/A) | [Repo](https://github.com/gamingdoom/datcord)
    - [x] Open Source
    - [x] [Download for free](https://github.com/gamingdoom/datcord#install)
@@ -319,7 +319,7 @@ Based on ArmCord.
 
    - An app for Mbin and Lemmy; connecting you to the fediverse.
    - [Official Website](https://kbin.earth/m/interstellar) | [Repo](https://github.com/jwr1/interstellar)
-   - [x] Open-Source
+   - [x] Open Source
    - [x] [Download for free](https://github.com/jwr1/interstellar#downloads)
    - [x] Linux + Android
 
@@ -529,7 +529,7 @@ Based on ArmCord.
 
 - **SongRec**
 
-   - SongRec is an open-source Shazam client for Linux, written in Rust.
+   - SongRec is an Open Source Shazam client for Linux, written in Rust.
    - Official Website (N/A) | [Repo](https://github.com/marin-m/SongRec)
    - [x] Open Source
    - [x] [Download for free](https://github.com/marin-m/SongRec#installation)
@@ -890,6 +890,14 @@ Based on ArmCord.
    - [x] [Download for free](http://www.smtube.org/)
    - [x] Linux and Windows
 
+- **Yattee**
+
+   - Privacy oriented video player for Apple iOS, tvOS and macOS devices.
+   - Official Website (N/A) | [Repo](https://github.com/yattee/yattee)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/yattee/yattee/wiki/Installation-Instructions)
+   - [x] Mac + iOS + Apple tvOS
+
 - **ZenTube** 💰
 
    - ZenTube is a decluttered and organised online video client. It is made for people who want to gain back control over doom-scrolling behaviour.
@@ -941,7 +949,7 @@ ___
 
    - Novice-friendly server OS. Easily host multiple of the listed services on your own hardware (e. g. a Raspberry Pi) using templates.
    - [Download & Homepage](https://yunohost.org) | [Repo](https://github.com/YunoHost)
-   - [x] Open-Source
+   - [x] Open Source
    - [x] [Download for free](https://yunohost.org/en/install)
 
 ___
