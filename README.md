@@ -2,19 +2,19 @@
 
 **This is a list of privacy-respecting front-ends to popular online services, including social media, streaming and information services. All of the options here are apps for TVs running Apple tvOS, Roku OS, LG WebOS, Samsung Tizen OS or Android TV (including Fire TV).**
 
+[<img src="https://img.shields.io/badge/Codeberg-2185D0?logo=Codeberg&logoColor=white">](https://codeberg.org/duyfken/alternative-front-ends) [<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">](https://github.com/duyfken/alternative-front-ends)
+
 > [!NOTE]
-> You are viewing the [TV Front-ends](https://github.com/duyfken/alternative-front-ends/tree/tv) branch of this list!
+> You are viewing the [TV Front-ends](../../tree/tv) branch of this list!
 > 
-> If you would like [Web Front-ends](https://github.com/duyfken/alternative-front-ends/tree/web), [Mobile Front-ends](https://github.com/duyfken/alternative-front-ends/tree/mobile)  or [Desktop Front-ends](https://github.com/duyfken/alternative-front-ends/tree/desktop), please visit those branches of this repository.
-___
-ⓘ [Redirector](https://github.com/einaregilsson/Redirector) rules based on services provided in this list can be found **[here](https://github.com/duyfken/RedirectorPrivacyAlternatives)**
+> If you would like [Web Front-ends](../../tree/web), [Mobile Front-ends](../../tree/mobile)  or [Desktop Front-ends](../../tree/desktop), please visit those branches of this repository.
 ___
 
 Thanks to  **shaedrich** for contributing to the expansion of this list!
 
 Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346**, **gi-yt** and **Solomon1732** for their contributions to https://github.com/digitalblossom/alternative-frontends on which this fork is based!
 
-ⓘ You can suggest new front-ends and modifications to the list **[here](https://github.com/duyfken/alternative-front-ends/issues/new/choose)**.
+ⓘ You can suggest new front-ends and modifications to the list **[here](../../issues/new/choose)**.
 ___
 A to Z + Tools
 
@@ -22,7 +22,7 @@ A to Z + Tools
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right.
 
-ⓘ Check out the [tools section](#tools) at the bottom to find out how to easily adopt and even self-host.
+ⓘ Check out the [tools section](#tools) at the bottom to find out how to easily adopt these front-ends.
 ___
 ### F-Droid
 
