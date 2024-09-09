@@ -2,19 +2,21 @@
 
 **This is a list of privacy-respecting front-ends to popular online services, including social media, streaming and information services. All of the options here are cross-platform webapps and should work on your device no matter the OS and hardware.**
 
+[<img src="https://img.shields.io/badge/Codeberg-2185D0?logo=Codeberg&logoColor=white">](https://codeberg.org/duyfken/alternative-front-ends) [<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">](https://github.com/duyfken/alternative-front-ends)
+
 > [!NOTE]
-> You are viewing the [Web Front-ends](https://github.com/duyfken/alternative-front-ends/tree/web) branch of this list!
+> You are viewing the [Web Front-ends](../../tree/web) branch of this list!
 > 
-> If you would like [Mobile Front-ends](https://github.com/duyfken/alternative-front-ends/tree/mobile), [TV Front-ends](https://github.com/duyfken/alternative-front-ends/tree/tv)  or [Desktop Front-ends](https://github.com/duyfken/alternative-front-ends/tree/desktop), please visit those branches of this repository.
+> If you would like [Mobile Front-ends](../../tree/mobile), [TV Front-ends](../../tree/tv)  or [Desktop Front-ends](../../tree/desktop), please visit those branches of this repository.
 ___
-ⓘ [Redirector](https://github.com/einaregilsson/Redirector) rules based on services provided in this list can be found **[here](https://github.com/duyfken/RedirectorPrivacyAlternatives)**
+ⓘ [Redirector](https://github.com/einaregilsson/Redirector) rules based on services provided in this list can be found **[here](../../../../duyfken/RedirectorPrivacyAlternatives)**
 ___
 
 Thanks to  **shaedrich** for contributing to the expansion of this list!
 
 Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346**, **gi-yt** and **Solomon1732** for their contributions to https://github.com/digitalblossom/alternative-frontends on which this fork is based!
 
-ⓘ You can suggest new front-ends and modifications to the list **[here](https://github.com/duyfken/alternative-front-ends/issues/new/choose)**.
+ⓘ You can suggest new front-ends and modifications to the list **[here](../../issues/new/choose)**.
 ___
 A to Z + Tools
 
@@ -625,7 +627,7 @@ ___
    - [Homepage & Download](https://einaregilsson.com/redirector) | [Repo](https://github.com/einaregilsson/Redirector)
    - [x] Open-Source
  
-   ⓘ Redirector rules based on services provided in this list can be found **[here](https://github.com/duyfken/RedirectorPrivacyAlternatives)**
+   ⓘ Redirector rules based on services provided in this list can be found **[here](../../../../duyfken/RedirectorPrivacyAlternatives)**
 
 - **SSL Labs**
 
@@ -635,24 +637,12 @@ ___
 
    ⓘ Not Open Source, but made by a trustworthy company and operates with a [good privacy policy](https://www.ssllabs.com/downloads/Qualys_SSL_Labs_Terms_of_Use.pdf).
 
-- **Translate You Libre**
-
-   - FOSS Android front-end for LibreTranslate and Lingva. Uses Material You design.
-   - [Download](https://github.com/bnyro/translateyou/releases) | [Repo](https://github.com/Bnyro/TranslateYou)
-   - [x] Open-Source
-
-- **UntrackMe**
-
-   - FOSS Android app that redirects to the alternative front-ends of several services. Can also clean tracking parameters.
-   - [Download & Homepage](https://fedilab.app/wiki/untrackme) | [Repo](https://framagit.org/tom79/nitterizeme) 
-   - [x] Open-Source
-
 - **YunoHost**
 
    - Novice-friendly server OS. Easily host multiple of the listed services on your own hardware (e. g. a Raspberry Pi) using templates.
    - [Download & Homepage](https://yunohost.org) | [Repo](https://github.com/YunoHost)
    - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://yunohost.org/en/install)
+   - [x] [Download for free](https://yunohost.org/en/install)
 
 ___
 <sup>**Legal addendum**</sup>
