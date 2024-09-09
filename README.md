@@ -841,7 +841,7 @@ Based on ArmCord.
 
 - **WIKI-TUI**
 
-   - A simple and easy to use Wikipedia Text User Interface .
+   - A simple and easy to use Wikipedia Text User Interface.
    - [Official Website](https://wiki-tui.net/) | [Repo](https://github.com/Builditluc/wiki-tui)
    - [x] Open Source
    - [x] [Download for free](https://github.com/Builditluc/wiki-tui/releases)
@@ -850,60 +850,80 @@ Based on ArmCord.
 
 ### YouTube
 
-- **Invidious**
+- **FreeTube**
 
-   - Lightweight YouTube front-end - no tracking, no ads and Javascript is optional.
-   - [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious)
-   - [Public Instances](https://docs.invidious.io/instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://docs.invidious.io/Installation.md)
-   - [x] Decentralised Options | [I2P](https://docs.invidious.io/instances/#i2p-eepsites) | [Onion](https://docs.invidious.io/instances/#tor-onion-services)
+   - FreeTube is an open source desktop YouTube player built with privacy in mind. Use YouTube without advertisements and prevent Google from tracking you with their cookies and JavaScript.
+   - [Official Website](https://freetubeapp.io/) | [Repo](https://github.com/FreeTubeApp/FreeTube)
+   - [x] Open Source
+   - [x] [Download for free](https://freetubeapp.io/#download)
+   - [x] Linux, Mac and Windows
 
-- **Piped**
+- **miniTube**
 
-   - Alternative privacy-friendly YouTube front-end. Lightweight, no ads (Sponsorblock integrated), no tracking, 4K support and more. 
-   - [Official Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped)
-   - [Public Instances](https://piped.video/preferences) (scroll down)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://docs.piped.video/docs/self-hosting/)
-   - [x] Decentralised Options | [IPNS](https://github.com/digitalblossom/alternative-frontends/issues/25#issuecomment-1002261657) | [Onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
+   - Minitube is a YouTube desktop application. It is written in C++ using the Qt framework.
+   - [Official Website](https://flavio.tordini.org/minitube) | [Repo](https://github.com/flaviotordini/minitube)
+   - [x] Open Source
+   - [x] [Download for free](https://flavio.tordini.org/minitube)
+   - [x] Linux, Mac and Windows
 
-- **Cloudtube**
+- **Pipeline**
 
-   - Alternative Invidious front-end without Javascript. 
-   - [Official Instance](https://tube.cadence.moe) | [Repo](https://sr.ht/~cadence/tube)
-   - Public Instances (N/A)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md)
+   - Pipeline lets you watch and download videos from YouTube and PeerTube, all without needing to navigate through different websites.
+   - Official Website (N/A) | [Repo](https://gitlab.com/schmiddi-on-mobile/pipeline)
+   - [x] Open Source
+   - [x] [Download for free](https://gitlab.com/schmiddi-on-mobile/pipeline#installation)
+   - [x] Linux
 
-- **Viewtube**
+- **pipe-viewer**
 
-   - Privacy-respecting front-end with subscription, watch-progress and recommendation features. 
-   - [Official Instance](https://viewtube.io/) | [Repo](https://github.com/ViewTube/viewtube)
-   - Public Instances (N/A)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://viewtube.wiki/installation)
+   - A lightweight application (fork of straw-viewer) for searching and playing videos from YouTube. This fork parses the YouTube website directly and relies on the invidious instances only as a fallback method.
+   - Official Website (N/A) | [Repo](https://github.com/trizen/pipe-viewer)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/trizen/pipe-viewer#availability)
+   - [x] Linux
+
+- **SMTube**
+
+   - SMTube is a YouTube browser for SMPlayer. You can browse, search and play YouTube videos. The videos can be played in SMPlayer or any other media player.
+   - [Official Website](http://www.smtube.org/) | [Repo](https://github.com/smplayer-dev/smtube)
+   - [x] Open Source
+   - [x] [Download for free](http://www.smtube.org/)
+   - [x] Linux and Windows
+
+- **ZenTube** 💰
+
+   - ZenTube is a decluttered and organised online video client. It is made for people who want to gain back control over doom-scrolling behaviour.
+   - [Official Website](https://intenca.com/zentube/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download](https://apps.apple.com/au/app/zentube-decluttered/id6480412927)
+   - [x] Mac + iOS
 
 
 ### YouTube Music
 
-- **BeatBump**
+- **AudioTube**
 
-   - Privacy-friendly YouTube Music front-end built with Svelte. Supports device sync.
-   - [Official Instance](https://beatbump.io) | [Repo](https://github.com/snuffyDev/Beatbump)
-   - [Public Instances](https://github.com/snuffyDev/Beatbump#instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/snuffyDev/Beatbump?tab=readme-ov-file#docker)
-   - [x] Decentralised Options | [I2P](http://vern6inmbjzqpecx4kpkq5sln3cqqrfuxfzh4au3tpxbsfbwbnta.b32.i2p/) | [Onion](http://bb.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
+   - AudioTube is a client for YouTube Music, which depends on QT and the KDE environment.
+   - [Official Website](https://apps.kde.org/audiotube/) | [Repo](https://invent.kde.org/multimedia/audiotube)
+   - [x] Open Source
+   - [x] [Download for free](https://apps.kde.org/audiotube/)
+   - [x] Linux
 
-- **Hyperpipe**
+- **YouTube Music**
 
-   - A privacy-respecting front-end for YouTube Music, inspired by and built with the help of Piped.
-   - [Official Instance](https://hyperpipe.surge.sh) | [Repo](https://codeberg.org/Hyperpipe/Hyperpipe)
-   - [Public Instances](https://hyperpipe.codeberg.page)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://codeberg.org/Hyperpipe/Hyperpipe#usage)
-   - [x] Decentralised Options | [Onion](https://hyperpipe.codeberg.page)
+   - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker/downloader) 
+   - [Official Website](https://th-ch.github.io/youtube-music/) | [Repo](https://github.com/th-ch/youtube-music)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/th-ch/youtube-music#download)
+   - [x] Linux, Mac and Windows
+
+- **ytmdesktop**
+
+   - An Electron Desktop App for YouTube Music.
+   - [Official Website](https://ytmdesktop.app/) | [Repo](https://github.com/ytmdesktop/ytmdesktop)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/ytmdesktop/ytmdesktop#%EF%B8%8F-download-at)
+   - [x] Linux, Mac and Windows
 
 ___
 
