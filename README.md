@@ -2,25 +2,27 @@
 
 **This is a list of privacy-respecting front-ends to popular online services, including social media, streaming and information services. All of the options here are mobile apps for Android or iOS.**
 
+[<img src="https://img.shields.io/badge/Codeberg-2185D0?logo=Codeberg&logoColor=white">](https://codeberg.org/duyfken/alternative-front-ends) [<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">](https://github.com/duyfken/alternative-front-ends)
+
 > [!NOTE]
-> You are viewing the [Mobile Front-ends](https://github.com/duyfken/alternative-front-ends/tree/web) branch of this list!
+> You are viewing the [Mobile Front-ends](../../tree/web) branch of this list!
 > 
-> If you would like [Web Front-ends](https://github.com/duyfken/alternative-front-ends/tree/web), [TV Front-ends](https://github.com/duyfken/alternative-front-ends/tree/tv)  or [Desktop Front-ends](https://github.com/duyfken/alternative-front-ends/tree/desktop), please visit those branches of this repository.
+> If you would like [Web Front-ends](../../tree/web), [TV Front-ends](../../tree/tv)  or [Desktop Front-ends](../../tree/desktop), please visit those branches of this repository.
 ___
 
 Thanks to  **shaedrich** for contributing to the expansion of this list!
 
 Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346**, **gi-yt** and **Solomon1732** for their contributions to https://github.com/digitalblossom/alternative-frontends on which this fork is based!
 
-ⓘ You can suggest new front-ends and modifications to the list **[here](https://github.com/duyfken/alternative-front-ends/issues/new/choose)**.
+ⓘ You can suggest new front-ends and modifications to the list **[here](../../issues/new/choose)**.
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [Git](#git) • [Goodreads](#goodreads) • [Google Play Store](#google-play-store) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Reddit](#reddit) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Telegram](#telegram) • [Translate](#translate) • [Twitch](#twitch) • [Twitter](#twitter) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [Git](#git) • [Google Play Store](#google-play-store) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Reddit](#reddit) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Telegram](#telegram) • [Translate](#translate) • [Twitch](#twitch) • [Twitter](#twitter) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
-ⓘ Check out the [tools section](#tools) at the bottom to find out how to easily adopt and even self-host.
+ⓘ Check out the [tools section](#tools) at the bottom to find out how to easily adopt or redirect to these front-ends.
 ___
 ### Multi-service apps
 
@@ -701,67 +703,13 @@ ___
 
 ### Tools
 
-- **Fastside**
-
-   - A smart redirecting gateway for various frontend services. Faster and compatible alternative to farside. Also adds Tor and I2P support.
-   - [Homepage](https://fastsi.de/) | [Repo](https://github.com/cofob/fastside)
-   - [x] Open-Source
-
-- **Farside**
-
-   - Automatically redirects to working instances of alternative front-ends. Helps prevent performance bottlenecks by distributing across instances.
-   - [Homepage](https://farside.link) | [Repo](https://github.com/benbusby/farside)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/benbusby/farside#development)
-
-- **Privacy Redirect**
-
-   - Browser extension that automatically redirects to the alternative front-ends of several services. Available for Chromium browsers and Firefox.
-   - [Download & Repo](https://github.com/SimonBrazell/privacy-redirect)
-   - [x] Open-Source
-
-   ⓘ Development of Privacy Redirect has ended/paused, consider using LibRedirect instead
-
-- **LibRedirect**
-
-   - Maintained fork of Privacy Redirect with new services added and a refreshed UI.
-   - [Homepage & Download](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect)
-   - [x] Open-Source
-
-- **Redirector**
-
-   - If a service you want to redirect to is not supported by LibRedirect, this extension lets you manually define redirects.
-   - [Homepage & Download](https://einaregilsson.com/redirector) | [Repo](https://github.com/einaregilsson/Redirector)
-   - [x] Open-Source
- 
-   ⓘ Redirector rules based on services provided in this list can be found **[here](https://github.com/duyfken/RedirectorPrivacyAlternatives)**
-
-- **SSL Labs**
-
-   - Free tool by Qualys that does a deep analysis to check the SSL implementation of a server. Helpful to check public instances. You'll find this on the [Piped](#youtube) page for instance.
-   - [Homepage](https://www.ssllabs.com/ssltest/)
-   - [ ] Open-Source
-
-   ⓘ Not Open Source, but made by a trustworthy company and operates with a [good privacy policy](https://www.ssllabs.com/downloads/Qualys_SSL_Labs_Terms_of_Use.pdf).
-
-- **Translate You Libre**
-
-   - FOSS Android front-end for LibreTranslate and Lingva. Uses Material You design.
-   - [Download](https://github.com/bnyro/translateyou/releases) | [Repo](https://github.com/Bnyro/TranslateYou)
-   - [x] Open-Source
-
 - **UntrackMe**
 
    - FOSS Android app that redirects to the alternative front-ends of several services. Can also clean tracking parameters.
-   - [Download & Homepage](https://fedilab.app/wiki/untrackme) | [Repo](https://framagit.org/tom79/nitterizeme) 
-   - [x] Open-Source
-
-- **YunoHost**
-
-   - Novice-friendly server OS. Easily host multiple of the listed services on your own hardware (e. g. a Raspberry Pi) using templates.
-   - [Download & Homepage](https://yunohost.org) | [Repo](https://github.com/YunoHost)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://yunohost.org/en/install)
+   - Official Website (N/A) | [Repo](https://framagit.org/tom79/nitterizeme) 
+   - [x] Open Source
+   - [x] [Download for free](https://framagit.org/tom79/nitterizeme#download)
+   - [x] Android
 
 ___
 <sup>**Legal addendum**</sup>
