@@ -3,20 +3,20 @@
 **This is a list of privacy-respecting front-ends to popular online services, including social media, streaming and information services. All of the options here are desktop apps for Linux, Mac or Windows.**
 
 > [!NOTE]
-> You are viewing the [Desktop Front-ends](https://github.com/duyfken/alternative-front-ends/tree/desktop) branch of this list!
+> You are viewing the [Desktop Front-ends](/tree/desktop) branch of this list, which is now available on both [Codeberg](https://codeberg.org/duyfken/alternative-front-ends) and [GitHub](https://github.com/duyfken/alternative-front-ends)!
 > 
-> If you would like [Web Front-ends](https://github.com/duyfken/alternative-front-ends/tree/web), [Mobile Front-ends](https://github.com/duyfken/alternative-front-ends/tree/mobile) or [TV Front-ends](https://github.com/duyfken/alternative-front-ends/tree/tv), please visit those branches of this repository.
+> If you would like [Web Front-ends](/tree/web), [Mobile Front-ends](/tree/mobile) or [TV Front-ends](/tree/tv), please visit those branches of this repository.
 ___
 
 Thanks to  **shaedrich** for contributing to the expansion of this list!
 
 Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346**, **gi-yt** and **Solomon1732** for their contributions to https://github.com/digitalblossom/alternative-frontends on which this fork is based!
 
-ⓘ You can suggest new front-ends and modifications to the list **[here](https://github.com/duyfken/alternative-front-ends/issues/new/choose)**.
+ⓘ You can suggest new front-ends and modifications to the list **[here](/issues/new/choose)**.
 ___
 A to Z + Tools
 
-[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Git](#git) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Messenger](#messenger) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Telegram](#telegram) • [TIDAL](#tidal) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Git](#git) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Messenger](#messenger) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Telegram](#telegram) • [TIDAL](#tidal) • [Translate](#translate) • [Twitch](#twitch) • [WhatsApp](#whatsapp) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -775,6 +775,41 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://xithrius.github.io/twitch-tui/guide/installation.html)
    - [x] Linux, Mac and Windows
+
+
+### WhatsApp
+
+- **nchat**
+
+   - nchat is a terminal-based chat client for Linux and macOS with support for Telegram and WhatsApp.
+   - Official Website (N/A) | [Repo](https://github.com/d99kris/nchat)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/d99kris/nchat#install-using-package-manager)
+   - [x] Linux and Mac
+
+- **WhatsApp for Linux**
+
+   - WhatsApp for Linux is an unofficial WhatsApp desktop application written in C++ with the help of gtkmm and WebKitGtk libraries.
+   - Official Website (N/A) | [Repo](https://github.com/eneshecan/whatsapp-for-linux)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/eneshecan/whatsapp-for-linux#whatsapp-for-linux)
+   - [x] Linux
+
+- **WhatSie**
+
+   - Feature rich WhatsApp web client based on Qt WebEngine for Linux Desktop.
+   - Official Website (N/A) | [Repo](https://github.com/keshavbhatt/whatsie)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/keshavbhatt/whatsie#install-whatsie-on-linux-desktop)
+   - [x] Linux
+
+- **ZapZap**
+
+   - WhatsApp desktop application written in Pyqt6 + PyQt6-WebEngine.
+   - [Official Website](https://rtosta.com/zapzap-web/) | [Repo](https://github.com/keshavbhatt/whatsie)
+   - [x] Open Source
+   - [x] [Download for free](https://rtosta.com/zapzap-web/#download)
+   - [x] Linux
 
 
 ### Wikipedia
