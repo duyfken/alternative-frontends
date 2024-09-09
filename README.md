@@ -619,16 +619,13 @@ ___
 
 ### Twitter
 
-- **Nitter**
+- **Squawker**
 
-   - Lightweight Twitter front-end. No ads, no Javascript, no tracking. RSS support.
-   - Official Instance (N/A) | [Repo](https://github.com/zedeus/nitter)
-   - [Public Instances](https://github.com/zedeus/nitter/wiki/Instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/zedeus/nitter#installation)
-   - [x] Decentralised Options | [I2P](https://github.com/zedeus/nitter/wiki/Instances#i2p)  | [Onion](https://github.com/zedeus/nitter/wiki/Instances#tor) | [Loki](https://github.com/zedeus/nitter/wiki/Instances#lokinet)
-
-   ⓘ The maintainer has [declared Nitter abandoned](https://github.com/zedeus/nitter/issues/1155) because of X's/Twitter's actions. The official instance has been discontinued and very few instances still work.
+   - An open-source privacy oriented Twitter/X client for Android.
+   - Official Website (N/A) | [Repo](https://github.com/j-fbriere/squawker)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/j-fbriere/squawker#-squawker-)
+   - [x] Android
 
 
 ### Wikipedia
