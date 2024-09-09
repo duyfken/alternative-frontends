@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[F-Droid](#f-droid) • [Google Play Store](#google-play-store) • [Twitch](#twitch) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[F-Droid](#f-droid) • [Google Play Store](#google-play-store) • [Twitch](#twitch) • [Youtube](#youtube) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right.
 
@@ -91,126 +91,72 @@ ___
 
 ### YouTube
 
-- **Invidious**
+- **Playlet**
 
-   - Lightweight YouTube front-end - no tracking, no ads and Javascript is optional.
-   - [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious)
-   - [Public Instances](https://docs.invidious.io/instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://docs.invidious.io/Installation.md)
-   - [x] Decentralised Options | [I2P](https://docs.invidious.io/instances/#i2p-eepsites) | [Onion](https://docs.invidious.io/instances/#tor-onion-services)
+   - Playlet is an unofficial YouTube client for Roku 📺
+   - Official Website (N/A) | [Repo](https://github.com/iBicha/playlet)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/iBicha/playlet#installation)
+   - [x] Roku
 
-- **Piped**
+- **SmartTube (previously SmartTubeNext**
 
-   - Alternative privacy-friendly YouTube front-end. Lightweight, no ads (Sponsorblock integrated), no tracking, 4K support and more. 
-   - [Official Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped)
-   - [Public Instances](https://piped.video/preferences) (scroll down)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://docs.piped.video/docs/self-hosting/)
-   - [x] Decentralised Options | [IPNS](https://github.com/digitalblossom/alternative-frontends/issues/25#issuecomment-1002261657) | [Onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
+   - An advanced player for set-top boxes and TVs running Android TV OS.
+   - Official Website (N/A) | [Repo](https://github.com/yuliskov/smarttube)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/yuliskov/smarttube#installation)
+   - [x] Android TV
 
-- **Cloudtube**
+- **TizenTube**
 
-   - Alternative Invidious front-end without Javascript. 
-   - [Official Instance](https://tube.cadence.moe) | [Repo](https://sr.ht/~cadence/tube)
-   - Public Instances (N/A)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md)
+   - A NodeJS script to remove ads and add support for Sponsorblock for your Tizen TV (2017 and forward). 
+   - Official Website (N/A) | [Repo](https://github.com/iBicha/playlet)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/reisxd/TizenTube#how-to-install)
+   - [x] Samsung TizenOS TV
 
-- **Viewtube**
+- **Yattee**
 
-   - Privacy-respecting front-end with subscription, watch-progress and recommendation features. 
-   - [Official Instance](https://viewtube.io/) | [Repo](https://github.com/ViewTube/viewtube)
-   - Public Instances (N/A)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://viewtube.wiki/installation)
+   - Privacy oriented video player for Apple iOS, tvOS and macOS devices.
+   - Official Website (N/A) | [Repo](https://github.com/yattee/yattee)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/yattee/yattee/wiki/Installation-Instructions)
+   - [x] Apple tvOS + iOS + Mac
 
+- **youtube-webos**
 
-### YouTube Music
-
-- **BeatBump**
-
-   - Privacy-friendly YouTube Music front-end built with Svelte. Supports device sync.
-   - [Official Instance](https://beatbump.io) | [Repo](https://github.com/snuffyDev/Beatbump)
-   - [Public Instances](https://github.com/snuffyDev/Beatbump#instances)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/snuffyDev/Beatbump?tab=readme-ov-file#docker)
-   - [x] Decentralised Options | [I2P](http://vern6inmbjzqpecx4kpkq5sln3cqqrfuxfzh4au3tpxbsfbwbnta.b32.i2p/) | [Onion](http://bb.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
-
-- **Hyperpipe**
-
-   - A privacy-respecting front-end for YouTube Music, inspired by and built with the help of Piped.
-   - [Official Instance](https://hyperpipe.surge.sh) | [Repo](https://codeberg.org/Hyperpipe/Hyperpipe)
-   - [Public Instances](https://hyperpipe.codeberg.page)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://codeberg.org/Hyperpipe/Hyperpipe#usage)
-   - [x] Decentralised Options | [Onion](https://hyperpipe.codeberg.page)
+   - YouTube app for LG webOS without ads.
+   - Official Website (N/A) | [Repo](https://github.com/webosbrew/youtube-webos)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/webosbrew/youtube-webos#pre-requisites)
+   - [x] LG WebOS TV
 
 ___
 
 ### Tools
 
-- **Fastside**
+- **Cx File Explorer**
 
-   - A smart redirecting gateway for various frontend services. Faster and compatible alternative to farside. Also adds Tor and I2P support.
-   - [Homepage](https://fastsi.de/) | [Repo](https://github.com/cofob/fastside)
-   - [x] Open-Source
+   - Cx File Explorer is a powerful file manager & storage cleaner app with a clean and intuitive interface. One of it's greatest features for the Android TV is the FTP Server function. Combine it with Filezilla on your PC or Material Files on your Android phone to easily transfer apps or config backups to and from a Android TV for free.
+   - Official Website (N/A) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://github.com/yuliskov/smarttube#installation)
+   - [x] Android TV and Fire TV
 
-- **Farside**
+- **Downloader by AFTVnews**
 
-   - Automatically redirects to working instances of alternative front-ends. Helps prevent performance bottlenecks by distributing across instances.
-   - [Homepage](https://farside.link) | [Repo](https://github.com/benbusby/farside)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://github.com/benbusby/farside#development)
+   - Skip sponsor segments in YouTube videos playing on a official YouTube TV device/apps.
+   - [Official Website](https://www.aftvnews.com/downloader/) | [Repo](https://github.com/dmunozv04/iSponsorBlockTV)
+   - [ ] Closed Source
+   - [x] [Download for free](https://github.com/yuliskov/smarttube#installation)
+   - [x] Android TV and Fire TV
 
-- **Privacy Redirect**
+- **iSponsorBlockTV**
 
-   - Browser extension that automatically redirects to the alternative front-ends of several services. Available for Chromium browsers and Firefox.
-   - [Download & Repo](https://github.com/SimonBrazell/privacy-redirect)
-   - [x] Open-Source
-
-   ⓘ Development of Privacy Redirect has ended/paused, consider using LibRedirect instead
-
-- **LibRedirect**
-
-   - Maintained fork of Privacy Redirect with new services added and a refreshed UI.
-   - [Homepage & Download](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect)
-   - [x] Open-Source
-
-- **Redirector**
-
-   - If a service you want to redirect to is not supported by LibRedirect, this extension lets you manually define redirects.
-   - [Homepage & Download](https://einaregilsson.com/redirector) | [Repo](https://github.com/einaregilsson/Redirector)
-   - [x] Open-Source
- 
-   ⓘ Redirector rules based on services provided in this list can be found **[here](https://github.com/duyfken/RedirectorPrivacyAlternatives)**
-
-- **SSL Labs**
-
-   - Free tool by Qualys that does a deep analysis to check the SSL implementation of a server. Helpful to check public instances. You'll find this on the [Piped](#youtube) page for instance.
-   - [Homepage](https://www.ssllabs.com/ssltest/)
-   - [ ] Open-Source
-
-   ⓘ Not Open Source, but made by a trustworthy company and operates with a [good privacy policy](https://www.ssllabs.com/downloads/Qualys_SSL_Labs_Terms_of_Use.pdf).
-
-- **Translate You Libre**
-
-   - FOSS Android front-end for LibreTranslate and Lingva. Uses Material You design.
-   - [Download](https://github.com/bnyro/translateyou/releases) | [Repo](https://github.com/Bnyro/TranslateYou)
-   - [x] Open-Source
-
-- **UntrackMe**
-
-   - FOSS Android app that redirects to the alternative front-ends of several services. Can also clean tracking parameters.
-   - [Download & Homepage](https://fedilab.app/wiki/untrackme) | [Repo](https://framagit.org/tom79/nitterizeme) 
-   - [x] Open-Source
-
-- **YunoHost**
-
-   - Novice-friendly server OS. Easily host multiple of the listed services on your own hardware (e. g. a Raspberry Pi) using templates.
-   - [Download & Homepage](https://yunohost.org) | [Repo](https://github.com/YunoHost)
-   - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://yunohost.org/en/install)
+   - Skip sponsor segments in YouTube videos playing on a official YouTube TV device/apps.
+   - Official Website (N/A) | [Repo](https://github.com/dmunozv04/iSponsorBlockTV)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/dmunozv04/iSponsorBlockTV/wiki/Installation)
 
 ___
 <sup>**Legal addendum**</sup>
