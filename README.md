@@ -597,20 +597,20 @@ ___
 - **Fastside**
 
    - A smart redirecting gateway for various frontend services. Faster and compatible alternative to farside. Also adds Tor and I2P support.
-   - [Homepage](https://fastsi.de/) | [Repo](https://github.com/cofob/fastside)
+   - [Official Website](https://fastsi.de/) | [Repo](https://github.com/cofob/fastside)
    - [x] Open-Source
 
 - **Farside**
 
    - Automatically redirects to working instances of alternative front-ends. Helps prevent performance bottlenecks by distributing across instances.
-   - [Homepage](https://farside.link) | [Repo](https://github.com/benbusby/farside)
+   - [Official Website](https://farside.link) | [Repo](https://github.com/benbusby/farside)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/benbusby/farside#development)
 
 - **Privacy Redirect**
 
    - Browser extension that automatically redirects to the alternative front-ends of several services. Available for Chromium browsers and Firefox.
-   - [Download & Repo](https://github.com/SimonBrazell/privacy-redirect)
+   - Official Website (N/A) | [Repo](https://github.com/SimonBrazell/privacy-redirect)
    - [x] Open-Source
 
    ⓘ Development of Privacy Redirect has ended/paused, consider using LibRedirect instead
@@ -618,21 +618,23 @@ ___
 - **LibRedirect**
 
    - Maintained fork of Privacy Redirect with new services added and a refreshed UI.
-   - [Homepage & Download](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect)
+   - [Official Website](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect)
    - [x] Open-Source
+   - [x] [Download for free](https://libredirect.github.io/download.html)
 
 - **Redirector**
 
    - If a service you want to redirect to is not supported by LibRedirect, this extension lets you manually define redirects.
-   - [Homepage & Download](https://einaregilsson.com/redirector) | [Repo](https://github.com/einaregilsson/Redirector)
+   - [Official Website](https://einaregilsson.com/redirector) | [Repo](https://github.com/einaregilsson/Redirector)
    - [x] Open-Source
+   - [x] [Download for free](https://einaregilsson.com/redirector)
  
    ⓘ Redirector rules based on services provided in this list can be found **[here](../../../../duyfken/RedirectorPrivacyAlternatives)**
 
 - **SSL Labs**
 
    - Free tool by Qualys that does a deep analysis to check the SSL implementation of a server. Helpful to check public instances. You'll find this on the [Piped](#youtube) page for instance.
-   - [Homepage](https://www.ssllabs.com/ssltest/)
+   - [Official Website](https://www.ssllabs.com/ssltest/)
    - [ ] Open-Source
 
    ⓘ Not Open Source, but made by a trustworthy company and operates with a [good privacy policy](https://www.ssllabs.com/downloads/Qualys_SSL_Labs_Terms_of_Use.pdf).
@@ -640,7 +642,7 @@ ___
 - **YunoHost**
 
    - Novice-friendly server OS. Easily host multiple of the listed services on your own hardware (e. g. a Raspberry Pi) using templates.
-   - [Download & Homepage](https://yunohost.org) | [Repo](https://github.com/YunoHost)
+   - [Official Website](https://yunohost.org) | [Repo](https://github.com/YunoHost)
    - [x] Open-Source
    - [x] [Download for free](https://yunohost.org/en/install)
 
