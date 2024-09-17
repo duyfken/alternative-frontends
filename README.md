@@ -858,9 +858,9 @@ Based on ArmCord.
    - [x] [Download for free](https://freetubeapp.io/#download)
    - [x] Linux, Mac and Windows
 
-- **miniTube**
+- **miniTube** 💰
 
-   - Minitube is a YouTube desktop application. It is written in C++ using the Qt framework.
+   - Minitube is a YouTube desktop application. It is written in C++ using the Qt framework. Requires a subscription of €9.99 / year since version 4.0
    - [Official Website](https://flavio.tordini.org/minitube) | [Repo](https://github.com/flaviotordini/minitube)
    - [x] Open Source
    - [x] [Download for free](https://flavio.tordini.org/minitube)
