@@ -17,7 +17,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Git](#git) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Messenger](#messenger) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Telegram](#telegram) • [TIDAL](#tidal) • [Translate](#translate) • [Twitch](#twitch) • [WhatsApp](#whatsapp) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Git](#git) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Messenger](#messenger) • [Rocket.Chat](#rocket.chat) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Telegram](#telegram) • [TIDAL](#tidal) • [Translate](#translate) • [Twitch](#twitch) • [WhatsApp](#whatsapp) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -342,13 +342,13 @@ Based on ArmCord.
    - [x] [Download for free](https://github.com/NicolasConstant/sengi-electron/releases)
    - [x] Linux, Mac and Windows
 
-- **Tuba**
+- **Tokodon**
 
-   - Explore the federated social web with Tuba for GNOME.
-   - [Official Website](https://tuba.geopjr.dev/) | [Repo](https://github.com/GeopJr/Tuba)
+   - Tokodon is a Mastodon client for Plasma and Plasma Mobile (KDE).
+   - [Official Website](https://apps.kde.org/tokodon/) | [Repo](https://invent.kde.org/network/tokodon)
    - [x] Open Source
-   - [x] [Download for free](https://github.com/GeopJr/Tuba#install)
-   - [x] Linux
+   - [x] [Download for free](https://apps.kde.org/tokodon/)
+   - [x] Linux and Android
 
 - **Toot**
 
@@ -356,6 +356,14 @@ Based on ArmCord.
    - Official Website (N/A) | [Repo](https://github.com/ihabunek/toot)
    - [x] Open Source
    - [x] [Download for free](https://github.com/ihabunek/toot/releases)
+   - [x] Linux
+
+- **Tuba**
+
+   - Explore the federated social web with Tuba for GNOME.
+   - [Official Website](https://tuba.geopjr.dev/) | [Repo](https://github.com/GeopJr/Tuba)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/GeopJr/Tuba#install)
    - [x] Linux
 
 - **Tut**
@@ -457,6 +465,14 @@ Based on ArmCord.
    - [x] [Download for free](https://github.com/8go/matrix-commander#dependencies-and-installation)
    - [x] Linux, Mac and Windows
 
+- **Moment**
+
+   - A fancy, customizable, keyboard-operable Matrix chat client for encrypted and decentralised communication. Written in Qt/QML and Python.
+   - [Official Website](https://mx-moment.xyz/) | [Repo](https://gitlab.com/mx-moment/moment)
+   - [x] Open Source
+   - [x] [Download for free](https://gitlab.com/mx-moment/moment/-/blob/main/docs/INSTALL.md#installation)
+   - [x] Linux
+
 - **NeoChat**
 
    - NeoChat is based on KDE frameworks and as libQuotient, a Qt-based SDK for the Matrix Protocol.
@@ -515,6 +531,17 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://github.com/sindresorhus/caprine#install)
    - [x] Linux, Mac and Windows
+
+
+### Rocket.Chat
+
+- **Ruqola**
+
+   - Ruqola is a Rocket.Chat client for the KDE Plasma desktop.
+   - [Official Website](https://apps.kde.org/ruqola) | [Repo](https://invent.kde.org/network/ruqola)
+   - [x] Open Source
+   - [x] [Download for free](https://apps.kde.org/ruqola/)
+   - [x] Linux
 
 
 ### Shazam
