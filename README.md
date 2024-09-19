@@ -326,6 +326,14 @@ ___
    - [x] [Download for free](https://github.com/nuclearfog/Shitter#download)
    - [x] Android
 
+- **Tokodon**
+
+   - Tokodon is a Mastodon client for Plasma and Plasma Mobile (KDE).
+   - [Official Website](https://apps.kde.org/tokodon/) | [Repo](https://invent.kde.org/network/tokodon)
+   - [x] Open Source
+   - [x] [Download for free](https://invent.kde.org/network/tokodon#get-it)
+   - [x] Android and Linux
+
 - **Tusky**
 
    - Tusky is a beautiful Android client for Mastodon.
