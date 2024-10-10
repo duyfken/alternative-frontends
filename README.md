@@ -17,7 +17,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Git](#git) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Messenger](#messenger) • [Rocket.Chat](#rocket.chat) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Telegram](#telegram) • [TIDAL](#tidal) • [Translate](#translate) • [Twitch](#twitch) • [WhatsApp](#whatsapp) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Git](#git) • [IRC](#irc) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Messenger](#messenger) • [Rocket.Chat](#rocket.chat) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Telegram](#telegram) • [TIDAL](#tidal) • [Translate](#translate) • [Twitch](#twitch) • [WhatsApp](#whatsapp) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -45,6 +45,24 @@ ___
 
    ⓘ Ferdium currently supports ***over 350 services***, including all the usual suspects, and even allows anyone to create a custom service!
 
+- **irssi**
+
+   - Irssi is a modular text mode chat client. It comes with IRC support built in, and there are third party ICB, SILC, XMPP (Jabber), PSYC and Quassel protocol modules available.
+   - [Official Website](https://irssi.org/) | [Repo](https://github.com/irssi/irssi)
+   - [x] Open Source
+   - [x] [Download for free](https://irssi.org/download/)
+   - [x] Linux and Windows
+
+- **Pidgin**
+
+   - Pidgin is a chat program which lets you log into accounts on multiple chat networks simultaneously.
+   - [Official Website](https://www.pidgin.im/) | [Repo](https://keep.imfreedom.org/pidgin/)
+   - [x] Open Source
+   - [x] [Download for free](https://www.pidgin.im/install/)
+   - [x] Linux, Mac and Windows
+
+   ⓘ Pidgin currently supports over 50 services.
+  
 - **Ripcord** :moneybag:
 
    - Ripcord is a desktop chat client for Slack and Discord. It provides a traditional compact desktop interface designed for power users. It's not built on top of web browser technology: it has a small resource footprint, responds quickly to input, and gets out of your way.
@@ -54,6 +72,16 @@ ___
    - [x] Linux, Mac and Windows
 
    ⓘ Ripcord is shareware. You can try it without paying, but if you use the Slack features, you'll eventually need to pay up (USD$20).
+
+- **WeeChat**
+
+   - WeeChat is a free chat client, fast and light, designed for many operating systems. It is highly customisable and extensible with scripts.
+   - [Official Website](https://weechat.org/) | [Repo](https://github.com/weechat/weechat)
+   - [x] Open Source
+   - [x] [Download for free](https://weechat.org/files/doc/weechat/stable/weechat_user.en.html#install)
+   - [x] Linux, Mac and Windows
+
+   ⓘ WeeChat currently has plugin protocol support for XMPP, Mattermost, Twitch Chat & more.
 
 
 ### Apple Music
@@ -311,6 +339,75 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://gitlab.gnome.org/philippun1/turtle#setup)
    - [x] Linux
+
+
+### IRC
+
+- **HexChat**
+
+   - HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like systems.
+   - [Official Website](https://hexchat.github.io/) | [Repo](https://github.com/hexchat/hexchat)
+   - [x] Open Source
+   - [x] [Download for free](https://hexchat.github.io/downloads.html)
+   - [x] Linux and Windows
+
+   ⓘ HexChat's code repository was archived on February 10th 2024. The author announced that "The project has largely been unmaintained for years now and nobody else stepped up to do that work."
+
+- **Halloy**
+
+   - Halloy is an open-source IRC client written in Rust, with the Iced GUI library. It aims to provide a simple and fast client for Mac, Windows, and Linux platforms.
+   - Official Website (N/A) | [Repo](https://github.com/squidowl/halloy)
+   - [x] Open Source
+   - [x] [Download for free](https://halloy.squidowl.org/installation.html)
+   - [x] Linux, Mac and Windows
+
+- **Konversation**
+
+   - Konversation is a user-friendly Internet Relay Chat (IRC) client by KDE.
+   - [Official Website](https://konversation.kde.org/) | [Repo](https://invent.kde.org/network/konversation)
+   - [x] Open Source
+   - [x] [Download for free](https://konversation.kde.org/download.html)
+   - [x] Linux
+
+- **KVIrc**
+
+   - KVIrc is a free portable IRC client based on the excellent Qt GUI toolkit.
+   - [Official Website](https://www.kvirc.net/) | [Repo](https://github.com/kvirc/KVIrc)
+   - [x] Open Source
+   - [x] [Download for free](https://www.kvirc.net/?id=releases&lang=en)
+   - [x] Linux, Mac and Windows
+
+- **mIRC** 💰
+
+   - mIRC is a popular Internet Relay Chat client used by millions of people, and thousands of organisations, to communicate, share, play and work with each other on IRC networks around the world. mIRC can be downloaded freely and evaluated for up to 30 days. If after evaluating mIRC you find that you like it and wish to continue using it, you will need to register mIRC (USD$19.95 per single-user license, for personal use). 
+   - [Official Website](https://www.mirc.com/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://www.mirc.com/get.html)
+   - [x] Windows
+
+- **Polari**
+
+   - Polari is a simple Internet Relay Chat (IRC) client that is designed to integrate seamlessly with the GNOME desktop.
+   - [Official Website](https://apps.gnome.org/Polari) | [Repo](https://gitlab.gnome.org/GNOME/polari/)
+   - [x] Open Source
+   - [x] [Download for free](https://flathub.org/apps/details/org.gnome.Polari)
+   - [x] Linux
+
+- **Quassel IRC**
+
+   - Quassel IRC is a modern, cross-platform, distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core - much like the popular combination of screen and a text-based IRC client such as WeeChat, but graphical.
+   - [Official Website](https://quassel-irc.org/) | [Repo](https://github.com/quassel/quassel)
+   - [x] Open Source
+   - [x] [Download for free](https://quassel-irc.org/downloads)
+   - [x] Linux, Mac and Windows
+
+- **Srain**
+
+   - Modern IRC client written in GTK.
+   - [Official Website](https://srain.silverrainz.me/) | [Repo](https://github.com/SrainApp/srain)
+   - [x] Open Source
+   - [x] [Download for free](https://srain.silverrainz.me/install.html)
+   - [x] Linux, Mac and Windows
 
 
 ### Lemmy
