@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [Git](#git) • [Google Play Store](#google-play-store) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Reddit](#reddit) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Telegram](#telegram) • [Translate](#translate) • [Twitch](#twitch) • [Twitter](#twitter) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [Git](#git) • [Google Play Store](#google-play-store) • [IRC](#irc) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Reddit](#reddit) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Telegram](#telegram) • [Translate](#translate) • [Twitch](#twitch) • [Twitter](#twitter) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -183,6 +183,17 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://github.com/ImranR98/Obtainium#installation)
    - [x] Android
+
+
+### IRC
+
+- **goguma**
+
+   - An IRC client for mobile devices.
+   - Official Website (N/A) | [Repo](https://sr.ht/~emersion/goguma/)
+   - [x] Open Source
+   - [x] [Download for free](https://sr.ht/~emersion/goguma/)
+   - [x] Android and iOS
 
 
 ### Lemmy
