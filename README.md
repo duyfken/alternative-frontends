@@ -146,9 +146,9 @@ ___
 - **Downloader by AFTVnews**
 
    - Skip sponsor segments in YouTube videos playing on a official YouTube TV device/apps.
-   - [Official Website](https://www.aftvnews.com/downloader/) | [Repo](https://github.com/dmunozv04/iSponsorBlockTV)
+   - [Official Website](https://www.aftvnews.com/downloader/) | Repo (N/A)
    - [ ] Closed Source
-   - [x] [Download for free](https://github.com/yuliskov/smarttube#installation)
+   - [x] [Download for free](https://www.aftvnews.com/downloader/)
    - [x] Android TV and Fire TV
 
 - **iSponsorBlockTV**
