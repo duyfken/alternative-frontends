@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [Git](#git) • [Google Play Store](#google-play-store) • [IRC](#irc) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Reddit](#reddit) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Telegram](#telegram) • [Translate](#translate) • [Twitch](#twitch) • [Twitter](#twitter) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [Git](#git) • [Google Play Store](#google-play-store) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Reddit](#reddit) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Telegram](#telegram) • [Translate](#translate) • [Twitch](#twitch) • [Twitter](#twitter) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -194,6 +194,73 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://sr.ht/~emersion/goguma/)
    - [x] Android and iOS
+
+
+### Jellyfin
+
+- **Finamp**
+
+   - Finamp is a Jellyfin music player for Android and iOS. It's meant to give you a similar listening experience as traditional streaming services such as Spotify and Apple Music, but for the music that you already own.
+   - Official Website (N/A) | [Repo](https://github.com/jmshrv/finamp)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/jmshrv/finamp/tags)
+   - [x] Android + Linux
+
+- **Findroid**
+
+   - Findroid is third-party Android application for Jellyfin that provides a native user interface to browse and play movies and series.
+   - Official Website (N/A) | [Repo](https://github.com/jarnedemeulemeester/findroid)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/jarnedemeulemeester/findroid#findroid)
+   - [x] Android
+
+- **Fintunes**
+
+   - With Fintunes, you can stream your Jellyfin audio library in full quality. List or search through your favourite tracks, albums and playlists. Stream to speakers and TVs wirelessly via either AirPlay or Chromecast. Download your favourite tracks and play them back, even when you are offline. Available in both a dark and a light mode, based on your operating system settings.
+   - [Official Website](https://www.fintunes.app/) | [Repo](https://github.com/leinelissen/jellyfin-audio-player)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/leinelissen/jellyfin-audio-player#getting-started)
+   - [x] Android and iOS
+
+- **Gelli**
+
+   - This is a native music player for Android devices that connects to Jellyfin media servers and is based on [Phonograph](https://github.com/kabouzeid/Phonograph).
+   - Official Website (N/A) | [Repo](https://github.com/dkanada/gelli)
+   - [x] Open Source
+   - [x] [Download for free](https://f-droid.org/packages/com.dkanada.gramophone)
+   - [x] Android
+
+- **Infuse**
+
+   - Ignite your video content with Infuse – the beautiful way to watch almost any video format on your iPhone, iPad, Apple TV, and Mac. No need to convert files!
+   - [Official Website](https://firecore.com/infuse) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://apps.apple.com/us/app/infuse-video-player/id1136220934?mt=8)
+   - [x] Apple iOS + Mac + tvOS
+
+- **JellyBook**
+
+   - JellyBook is a book and comic reading app for Jellyfin. Its a app thats meant to allow you to read your files from Jellyfin on mobile.
+   - Official Website (N/A) | [Repo](https://github.com/JellyBookOrg/JellyBook)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/JellyBookOrg/JellyBook#zap-installation)
+   - [x] Android and iOS
+
+- **Streamyfin**
+
+   - A simple and user-friendly Jellyfin client built with Expo.
+   - Official Website (N/A) | [Repo](https://github.com/fredrikburmester/streamyfin)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/fredrikburmester/streamyfin#get-it-now)
+   - [x] Android and iOS
+
+- **Yatse** 💰
+
+   - With it's complete integration of Kodi, Plex, Emby, Jellyfin and your local device, Yatse unleashes the power of all your media. Play from anywhere to anywhere in a nice and efficient way. Purchasing the Pro version is required to access media server capabilities.
+   - [Official Website](https://yatse.tv/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetfree)
+   - [x] Android
 
 
 ### Lemmy
