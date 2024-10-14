@@ -17,7 +17,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Git](#git) • [IRC](#irc) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Messenger](#messenger) • [Plex](#plex) • [Rocket.Chat](#rocket.chat) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Telegram](#telegram) • [TIDAL](#tidal) • [Translate](#translate) • [Twitch](#twitch) • [WhatsApp](#whatsapp) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Git](#git) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Messenger](#messenger) • [Plex](#plex) • [Rocket.Chat](#rocket.chat) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Telegram](#telegram) • [TIDAL](#tidal) • [Translate](#translate) • [Twitch](#twitch) • [WhatsApp](#whatsapp) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -408,6 +408,65 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://srain.silverrainz.me/install.html)
    - [x] Linux, Mac and Windows
+
+
+### Jellyfin
+
+- **Delfin**
+
+   - Delfin is a native client for the Jellyfin media server. It features a fast and clean interface to stream your media in an embedded MPV-based video player.
+   - [Official Website](https://delfin.avery.cafe/) | [Repo](https://codeberg.org/avery42/delfin)
+   - [x] Open Source
+   - [x] [Download for free](https://delfin.avery.cafe/downloads)
+   - [x] Linux
+
+- **Feishin**
+
+   - A modern self-hosted music player using NodeJS.
+   - Official Website (N/A) | [Repo](https://github.com/dweymouth/supersonic)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/jeffvli/feishin?tab=readme-ov-file#getting-started)
+   - [x] Linux and Mac
+
+- **Finamp**
+
+   - Finamp is a Jellyfin music player. It's meant to give you a similar listening experience as traditional streaming services such as Spotify and Apple Music, but for the music that you already own.
+   - Official Website (N/A) | [Repo](https://github.com/jmshrv/finamp)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/jmshrv/finamp/tags)
+   - [x] Linux + Android
+
+- **Infuse**
+
+   - Ignite your video content with Infuse – the beautiful way to watch almost any video format on your iPhone, iPad, Apple TV, and Mac. No need to convert files!
+   - [Official Website](https://firecore.com/infuse) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://apps.apple.com/us/app/infuse-video-player/id1136220934?mt=8)
+   - [x] Apple Mac + iOS + tvOS
+
+- **Qcm**
+
+   - Material3 cloud music player using Qt.
+   - Official Website (N/A) | [Repo](https://github.com/hypengw/Qcm)
+   - [x] Open Source
+   - [x] [Download for free](https://flathub.org/apps/details/io.github.hypengw.Qcm)
+   - [x] Linux
+
+- **Supersonic**
+
+   - A lightweight and full-featured cross-platform desktop client for self-hosted music servers.
+   - Official Website (N/A) | [Repo](https://github.com/jeffvli/feishin)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/dweymouth/supersonic#installation)
+   - [x] Linux, Mac and Windows
+
+- **Tauon**
+
+   - Tauon is a modern, comfortable and streamlined music player for the playback of your music collection. Music can be played from a local source, or from Jellyfin, Airsonic and Plex servers.
+   - [Official Website](https://tauonmusicbox.rocks/) | [Repo](https://github.com/Taiko2k/Tauon)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/Taiko2k/Tauon#download-and-install-dizzy)
+   - [x] Linux and Windows
 
 
 ### Lemmy
