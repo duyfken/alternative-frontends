@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[F-Droid](#f-droid) • [Google Play Store](#google-play-store) • [Twitch](#twitch) • [Youtube](#youtube) • [Tools](#tools)
+[F-Droid](#f-droid) • [Google Play Store](#google-play-store) • [Jellyfin](#jellyfin) • [Twitch](#twitch) • [Youtube](#youtube) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right.
 
@@ -52,6 +52,25 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://gitlab.com/AuroraOSS/AuroraStore#downloads)
    - [x] Android and Android TV
+
+
+### Jellyfin
+
+- **Infuse**
+
+   - Ignite your video content with Infuse – the beautiful way to watch almost any video format on your iPhone, iPad, Apple TV, and Mac. No need to convert files!
+   - [Official Website](https://firecore.com/infuse) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://apps.apple.com/us/app/infuse-video-player/id1136220934?mt=8)
+   - [x] Apple tvOS + iOS + Mac
+
+- **Swiftfin**
+
+   - Made using Swift to maximize direct play with the power of VLC and look native on all classes of Apple devices. 
+   - Official Website (N/A) | [Repo](https://github.com/jellyfin/swiftfin)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/jellyfin/swiftfin#%EF%B8%8F-download)
+   - [x] Apple tvOS + iOS
 
 
 ### Twitch
