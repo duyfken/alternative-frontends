@@ -17,7 +17,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Git](#git) • [IRC](#irc) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Messenger](#messenger) • [Rocket.Chat](#rocket.chat) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Telegram](#telegram) • [TIDAL](#tidal) • [Translate](#translate) • [Twitch](#twitch) • [WhatsApp](#whatsapp) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Git](#git) • [IRC](#irc) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Messenger](#messenger) • [Plex](#plex) • [Rocket.Chat](#rocket.chat) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Telegram](#telegram) • [TIDAL](#tidal) • [Translate](#translate) • [Twitch](#twitch) • [WhatsApp](#whatsapp) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -630,6 +630,25 @@ Based on ArmCord.
    - [x] Linux, Mac and Windows
 
 
+### Plex
+
+- **Girens for Plex**
+
+   - Girens is a Plex media player client. You can watch and listen to your music, shows and movies with this GTK app.
+   - Official Website (N/A) | [Repo](https://gitlab.gnome.org/tijder/girens)
+   - [x] Open Source
+   - [x] [Download for free](https://gitlab.gnome.org/tijder/girens#how-to-install)
+   - [x] Linux
+
+- **Tauon**
+
+   - Tauon is a modern, comfortable and streamlined music player for the playback of your music collection. Music can be played from a local source, or from Jellyfin, Airsonic and Plex servers.
+   - [Official Website](https://tauonmusicbox.rocks/) | [Repo](https://github.com/Taiko2k/Tauon)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/Taiko2k/Tauon#download-and-install-dizzy)
+   - [x] Linux and Windows
+
+
 ### Rocket.Chat
 
 - **Ruqola**
@@ -1081,6 +1100,6 @@ ___
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.</sup>
 
-<sup>Apple Music is a trademark of Apple Inc. Discord is a trademark of Discord Inc. Mastodon is a trademark of Mastodon GmbH. Messenger is a trademark of Meta Platforms. Shazam is a trademark of Apple Inc. Signal is a trademark of Signal Messenger LLC. Spotify is a trademark of Spotify AB. Telegram is a trademark of Telegram FZ LLC. TIDAL is a trademark of TIDAL Music AS. Twitch is a trademark of Amazon.com, Inc. WhatsApp is a trademark of Meta Platforms. Wikipedia is a trademark of Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
+<sup>Apple Music is a trademark of Apple Inc. Discord is a trademark of Discord Inc. Mastodon is a trademark of Mastodon GmbH. Messenger is a trademark of Meta Platforms. Plex is a trademark of Plex, Inc. Shazam is a trademark of Apple Inc. Signal is a trademark of Signal Messenger LLC. Spotify is a trademark of Spotify AB. Telegram is a trademark of Telegram FZ LLC. TIDAL is a trademark of TIDAL Music AS. Twitch is a trademark of Amazon.com, Inc. WhatsApp is a trademark of Meta Platforms. Wikipedia is a trademark of Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
 
 <sup>The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
