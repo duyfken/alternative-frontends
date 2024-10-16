@@ -17,7 +17,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Git](#git) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Messenger](#messenger) • [Plex](#plex) • [Rocket.Chat](#rocket.chat) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Telegram](#telegram) • [TIDAL](#tidal) • [Translate](#translate) • [Twitch](#twitch) • [WhatsApp](#whatsapp) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Git](#git) • [GOG](#gog) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Messenger](#messenger) • [Plex](#plex) • [Rocket.Chat](#rocket.chat) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Telegram](#telegram) • [TIDAL](#tidal) • [Translate](#translate) • [Twitch](#twitch) • [WhatsApp](#whatsapp) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -339,6 +339,41 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://gitlab.gnome.org/philippun1/turtle#setup)
    - [x] Linux
+
+
+### GOG
+
+- **Heroic Games Launcher**
+
+   - Heroic is a Free and Open Source Epic, GOG and Amazon Prime Games launcher for Linux, Mac and Windows + Steam Deck.
+   - [Official Website](https://heroicgameslauncher.com/) | [Repo](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
+   - [x] Open Source
+   - [x] [Download for free](https://heroicgameslauncher.com/downloads)
+   - [x] Linux, Mac and Windows + Steam Deck
+
+- **Lutris**
+
+   - Lutris helps you install and play video games from all eras and from most gaming systems. By leveraging and combining existing emulators, engine re-implementations and compatibility layers, it gives you a central interface to launch all your games. The client can connect with existing services like Humble Bundle, GOG and Steam to make your game libraries easily available. Game downloads and installations are automated and can be modified through user made scripts.
+   - [Official Website](https://lutris.net/) | [Repo](https://github.com/lutris/lutris)
+   - [x] Open Source
+   - [x] [Download for free](https://lutris.net/downloads)
+   - [x] Linux
+
+- **Minigalaxy**
+
+   - A simple GOG client for Linux.
+   - [Official Website](https://sharkwouter.github.io/minigalaxy/) | [Repo](https://github.com/sharkwouter/minigalaxy)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/sharkwouter/minigalaxy#installation)
+   - [x] Linux
+
+- **Playnite**
+
+   - An open source video game library manager and launcher with support for 3rd party libraries like Steam, Epic, GOG, EA App, Battle.net and others. Includes game emulation support, providing one unified interface for your games.
+   - [Official Website](https://playnite.link/) | [Repo](https://github.com/JosefNemec/Playnite)
+   - [x] Open Source
+   - [x] [Download for free](https://playnite.link/)
+   - [x] Windows
 
 
 ### IRC
