@@ -10,7 +10,7 @@
 > If you would like [Web Front-ends](../../tree/web), [TV Front-ends](../../tree/tv)  or [Desktop Front-ends](../../tree/desktop), please visit those branches of this repository.
 ___
 
-Thanks to  **shaedrich** for contributing to the expansion of this list!
+Thanks to  **shaedrich** and **Philippe-Choquette** for contributing to the expansion of this list!
 
 Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346**, **gi-yt** and **Solomon1732** for their contributions to https://github.com/digitalblossom/alternative-frontends on which this fork is based!
 
@@ -34,7 +34,17 @@ ___
    - [x] [Download for free](https://www.beeper.com/download)
    - [x] Android and iOS + Linux, Mac and Windows
 
-   ⓘ Beeper currently supports Discord, Google Chat, Google Messages (RCS/SMS), Instagram, LinkedIn, Matrix, Messenger, Signal, Slack, Telegram, WhatsApp and X (Twitter)
+   ⓘ Beeper currently supports Discord, Google Chat, Google Messages (RCS/SMS), Instagram, LinkedIn, Matrix, Messenger, Signal, Slack, Telegram, WhatsApp and X (Twitter).
+
+- **Grayjay**
+
+   - Grayjay is a mobile app that serves as a video player and source aggregator. It allows you to stream and organise videos from various sources, providing a unified platform for your entertainment needs.
+   - [Official Website](https://grayjay.app/) | [Repo](https://github.com/futo-org/grayjay-android)
+   - [x] Open Source
+   - [x] [Download for free](https://grayjay.app/#download)
+   - [x] Android
+
+   ⓘ Grayjay currently has official source plugins for Youtube, Kick, Rumble, Bitchute, Odysee, Patreon, Twitch, Spotify, Dailymotion, SoundCloud, Nebula, BiliBili and PeerTube.
 
 
 ### Discord
