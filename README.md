@@ -66,7 +66,7 @@ ___
 
 - **Swiftfin**
 
-   - Made using Swift to maximize direct play with the power of VLC and look native on all classes of Apple devices. 
+   - Made using Swift to maximise direct play with the power of VLC and look native on all classes of Apple devices. 
    - Official Website (N/A) | [Repo](https://github.com/jellyfin/swiftfin)
    - [x] Open Source
    - [x] [Download for free](https://github.com/jellyfin/swiftfin#%EF%B8%8F-download)
@@ -93,7 +93,7 @@ ___
 
 - **Stitch**
 
-   - Stitch is a Roku channel that aims to provide an actively maintained, reasonably feature-complete Twitch experience while respecting Twitch's business model (ads, monetization, and the like).
+   - Stitch is a Roku channel that aims to provide an actively maintained, reasonably feature-complete Twitch experience while respecting Twitch's business model (ads, monetisation, and the like).
    - Official Website (N/A) | [Repo](https://github.com/0xw1sky/Stitch-For-Roku)
    - [x] Open Source
    - [x] [Download for free](https://github.com/0xw1sky/Stitch-For-Roku#installation)
@@ -118,7 +118,7 @@ ___
    - [x] [Download for free](https://github.com/iBicha/playlet#installation)
    - [x] Roku
 
-- **SmartTube (previously SmartTubeNext**
+- **SmartTube (previously SmartTubeNext)**
 
    - An advanced player for set-top boxes and TVs running Android TV OS.
    - Official Website (N/A) | [Repo](https://github.com/yuliskov/smarttube)
@@ -156,7 +156,7 @@ ___
 
 - **Cx File Explorer**
 
-   - Cx File Explorer is a powerful file manager & storage cleaner app with a clean and intuitive interface. One of it's greatest features for the Android TV is the FTP Server function. Combine it with Filezilla on your PC or Material Files on your Android phone to easily transfer apps or config backups to and from a Android TV for free.
+   - Cx File Explorer is a powerful file manager & storage cleaner app with a clean and intuitive interface. One of it's greatest features for the Android TV is the FTP Server function. Combine it with Filezilla on your PC or Material Files on your Android phone to easily transfer apps or config backups to and from an Android TV for free.
    - Official Website (N/A) | Repo (N/A)
    - [ ] Closed Source
    - [x] [Download for free](https://github.com/yuliskov/smarttube#installation)
@@ -172,7 +172,7 @@ ___
 
 - **iSponsorBlockTV**
 
-   - Skip sponsor segments in YouTube videos playing on a official YouTube TV device/apps.
+   - Skip sponsor segments in YouTube videos playing on an official YouTube TV device/apps.
    - Official Website (N/A) | [Repo](https://github.com/dmunozv04/iSponsorBlockTV)
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://github.com/dmunozv04/iSponsorBlockTV/wiki/Installation)
