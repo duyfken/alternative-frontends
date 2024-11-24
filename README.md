@@ -60,6 +60,8 @@ ___
    - [x] [Download for free](https://github.com/uowuo/abaddon#building-manually-recommended-if-not-on-windows)
    - [x] Android
 
+- **Beeper** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Bunny**
 
    - A client mod for Discord mobile, fork of Vendetta.
@@ -250,7 +252,7 @@ ___
 
 - **JellyBook**
 
-   - JellyBook is a book and comic reading app for Jellyfin. Its a app thats meant to allow you to read your files from Jellyfin on mobile.
+   - JellyBook is a book and comic reading app for Jellyfin. It's a app thats meant to allow you to read your files from Jellyfin on mobile.
    - Official Website (N/A) | [Repo](https://github.com/JellyBookOrg/JellyBook)
    - [x] Open Source
    - [x] [Download for free](https://github.com/JellyBookOrg/JellyBook#zap-installation)
@@ -301,7 +303,7 @@ ___
 
 - **Lunar**
 
-   - Lunar is an iOS app that serves as a client for Lemmy and Kbin, the Open Source federated alternatives to Reddit
+   - Lunar is an iOS app that serves as a client for Lemmy and Kbin, the Open Source federated alternatives to Reddit.
    - Official Website (N/A) | [Repo](https://github.com/mani-sh-reddy/Lunar)
    - [x] Open Source
    - [x] [Download for free](https://testflight.apple.com/join/GEFCCQTb)
@@ -333,7 +335,7 @@ ___
 
 - **Voyager**
 
-   - Voyager is an Apollo-like open source web client for Lemmy. It's a mobile-first app, but works great on desktop devices, too.
+   - Voyager is an Apollo-like open source web client for Lemmy. It's a mobile-first app, but works great on desktop devices too.
    - [Official Website](https://vger.app/) | [Repo](https://github.com/aeharding/voyager)
    - [x] Open Source
    - [x] [Download for free](https://github.com/aeharding/voyager#voyager)
@@ -433,6 +435,8 @@ ___
 
 ### Matrix
 
+- **Beeper** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Commet**
 
    - Commet is a client for Matrix focused on providing a feature rich experience while maintaining a simple interface. The goal is to build a secure, privacy respecting app without compromising on the features you have come to expect from a modern chat client.
@@ -496,7 +500,7 @@ ___
 
 - **lurkur for reddit**
 
-   - lurkur for reddit is an unofficial client for reddit, aiming to provide you a more personalized and ad-free experience. [Accounts (logging in) is disabled and browsing is anonymous](https://old.reddit.com/r/lurkurapp/comments/186yuos/how_does_this_work/kcd3zl0/).
+   - lurkur for reddit is an unofficial client for reddit, aiming to provide you a more personalised and ad-free experience. [Accounts (logging in) is disabled and browsing is anonymous](https://old.reddit.com/r/lurkurapp/comments/186yuos/how_does_this_work/kcd3zl0/).
    - Official Website (N/A) | Repo (N/A)
    - [ ] Closed Source
    - [x] [Download for free](https://apps.apple.com/gb/app/lurkur-for-reddit/id6470203216)
@@ -504,7 +508,7 @@ ___
 
 - **Narwhal 2 for Reddit** 💰
 
-   - Narwhal 2 is the most customizable app for Reddit. This is an all new app designed from the ground up to be the successor to Narwhal 1. Requires using an Apple App Store subscription to get any data from Reddit API.
+   - Narwhal 2 is the most customisable app for Reddit. This is an all new app designed from the ground up to be the successor to Narwhal 1. Requires using an Apple App Store subscription to get any data from Reddit API.
    - Official Website (N/A) | Repo (N/A)
    - [ ] Closed Source
    - [x] [Download for free](https://apps.apple.com/gb/app/narwhal-2-for-reddit/id845422455)
@@ -556,6 +560,8 @@ ___
 
 ### Signal
 
+- **Beeper** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Molly**
 
    - Molly is a hardened version of Signal for Android, the fast simple yet secure messaging app by Signal Foundation.
@@ -583,6 +589,8 @@ ___
 
 ### Spotify
 
+- **Grayjay** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Spotube**
 
    - Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! 
@@ -601,6 +609,8 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://t.me/ayugram1338)
    - [x] Android + Linux and Windows
+
+- **Beeper** [(see Multi-service apps section)](#multi-service-apps)
 
 - **exteraGram**
 
@@ -671,7 +681,7 @@ ___
 
 - **SimplyTranslate Mobile**
 
-   - Privacy friendly frontend to Google Translate .
+   - Privacy friendly frontend to Google Translate.
    - [Official Website](https://manerakai.github.io/simplytranslate_mobile/) | [Repo](https://github.com/ManeraKai/simplytranslate_mobile)
    - [x] Open Source
    - [x] [Download for free](https://github.com/ManeraKai/simplytranslate_mobile#simplytranslate-mobile)
@@ -696,6 +706,8 @@ ___
    - [x] [Download for free](https://github.com/tommyxchow/frosty#download)
    - [x] Android and iOS
 
+- **Grayjay** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Twire**
 
    - Twire is an open source, ad-free Twitch browser and stream player for Android. This is a fork of the Pocket Plays for Twitch Android application.
@@ -714,6 +726,8 @@ ___
 
 
 ### Twitter
+
+- **Beeper** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Squawker**
 
@@ -760,6 +774,8 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://github.com/MarmadileManteater/FreeTubeAndroid/releases)
    - [x] Android
+
+- **Grayjay** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Juno for YouTube** 💰
 
@@ -846,7 +862,7 @@ ___
 
 - **OuterTune**
 
-   - A Material 3 YouTube Music client & local music player for Android. OuterTune is a supercharged fork of InnerTune, with advanced account synchronization, local media playback, multiple queues, and a new take on UI design.
+   - A Material 3 YouTube Music client & local music player for Android. OuterTune is a supercharged fork of InnerTune, with advanced account synchronisation, local media playback, multiple queues, and a new take on UI design.
    - Official Website (N/A) | [Repo](https://github.com/DD3Boh/OuterTune)
    - [x] Open Source
    - [x] [Download for free](https://github.com/DD3Boh/OuterTune#outertune)
