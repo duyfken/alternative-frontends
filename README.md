@@ -9,7 +9,7 @@
 > If you would like [Web Front-ends](../../tree/web), [Mobile Front-ends](../../tree/mobile) or [TV Front-ends](../../tree/tv), please visit those branches of this repository.
 ___
 
-Thanks to  **shaedrich** for contributing to the expansion of this list!
+Thanks to  **shaedrich** and **Philippe-Choquette** for contributing to the expansion of this list!
 
 Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346**, **gi-yt** and **Solomon1732** for their contributions to https://github.com/digitalblossom/alternative-frontends on which this fork is based!
 
@@ -33,7 +33,7 @@ ___
    - [x] [Download for free](https://www.beeper.com/download)
    - [x] Linux, Mac and Windows + Android and iOS
 
-   ⓘ Beeper currently supports Discord, Google Chat, Google Messages (RCS/SMS), Instagram, LinkedIn, Matrix, Messenger, Signal, Slack, Telegram, WhatsApp and X (Twitter)
+   ⓘ Beeper currently supports Discord, Google Chat, Google Messages (RCS/SMS), Instagram, LinkedIn, Matrix, Messenger, Signal, Slack, Telegram, WhatsApp and X (Twitter).
 
 - **Ferdium**
 
@@ -118,6 +118,8 @@ ___
    - [x] [Download for free](https://github.com/ArmCord/ArmCord#packaging-status)
    - [x] Linux, Mac and Windows
 
+- **Beeper** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Datcord**
 
    - Datcord is an Open Source Discord client that respects your privacy. Datcord is a specialised version of Firefox (the official client is Chromium-based).
@@ -158,6 +160,8 @@ ___
    - [x] [Download for free](https://github.com/SpikeHD/Dorion#download)
    - [x] Linux, Mac and Windows
 
+- **Ferdium** [(see Multi-service apps section)](#multi-service-apps)
+
 - **GoofCord**
 
    - Take control of your Discord experience with GoofCord – the highly configurable and privacy-focused Discord client.
@@ -167,6 +171,8 @@ Based on ArmCord.
    - [x] [Download for free](https://github.com/Milkshiift/GoofCord#ready-to-dive-in)
    - [x] Linux, Mac and Windows
 
+- **Pidgin** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Qtcord**
 
    - Qtcord is a Discord client built with QT aiming to bring a lightweight, native experience.
@@ -175,9 +181,11 @@ Based on ArmCord.
    - [x] [Download for free](https://github.com/mak448a/Qtcord/releases)
    - [x] Linux and Windows
 
+- **Ripcord** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Swiftcord**
 
-   - Swiftcord is beautiful, follows design principals of the official client while keeping the macOS look and feel that you love, and most importantly, its (really) fast!
+   - Swiftcord is beautiful, follows design principals of the official client while keeping the macOS look and feel that you love, and most importantly, it's (really) fast!
    - [Official Website](https://swiftcordapp.github.io/Swiftcord/) | [Repo](https://github.com/SwiftcordApp/Swiftcord)
    - [x] Open Source
    - [x] [Download for free](https://github.com/SwiftcordApp/Swiftcord#releases)
@@ -189,7 +197,7 @@ Based on ArmCord.
    - [Official Website](https://vencord.dev/) | [Repo](https://github.com/Vencord/Vesktop)
    - [x] Open Source
    - [x] [Download for free](https://github.com/Vencord/Vesktop#installing)
-   - [x] Linux, Mac and Windows (Browser plugin, Vencord Web, is also avilable)
+   - [x] Linux, Mac and Windows (Browser plugin, Vencord Web, is also available)
 
 - **WebCord**
 
@@ -302,7 +310,7 @@ Based on ArmCord.
 
 - **Sourcetree**
 
-   - Simplicity and power in a beautiful Git GUI. Sourcetree simplifies how you interact with your Git repositories so you can focus on coding. Visualize and manage your repositories through Sourcetree's simple Git GUI.
+   - Simplicity and power in a beautiful Git GUI. Sourcetree simplifies how you interact with your Git repositories so you can focus on coding. Visualise and manage your repositories through Sourcetree's simple Git GUI.
    - [Official Website](https://www.sourcetreeapp.com/) | Repo (N/A)
    - [ ] Closed Source
    - [x] [Download for free](https://www.sourcetreeapp.com/)
@@ -326,7 +334,7 @@ Based on ArmCord.
 
 - **Tower** 💰
 
-   - Tower offers seamless integration with industry-leading services like GitHub, Atlassian Bitbucket, GitLab, Microsoft Visual Studio, or Perforce - both online and behind the firewall. And since Tower uses pure Git under the hood, it works with any other code hosting service, too.
+   - Tower offers seamless integration with industry-leading services like GitHub, Atlassian Bitbucket, GitLab, Microsoft Visual Studio, or Perforce - both online and behind the firewall. And since Tower uses pure Git under the hood, it works with any other code hosting service too.
    - [Official Website](https://www.git-tower.com/) | Repo (N/A)
    - [ ] Closed Source
    - [x] [Download](https://www.git-tower.com/)
@@ -380,7 +388,7 @@ Based on ArmCord.
 
 - **HexChat**
 
-   - HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like systems.
+   - HexChat is an IRC client based on XChat, but unlike XChat it's completely free for both Windows and Unix-like systems.
    - [Official Website](https://hexchat.github.io/) | [Repo](https://github.com/hexchat/hexchat)
    - [x] Open Source
    - [x] [Download for free](https://hexchat.github.io/downloads.html)
@@ -395,6 +403,8 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://halloy.squidowl.org/installation.html)
    - [x] Linux, Mac and Windows
+
+- **irssi** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Konversation**
 
@@ -506,6 +516,8 @@ Based on ArmCord.
 
 ### Lemmy
 
+- **Ferdium** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Interstellar**
 
    - An app for Mbin and Lemmy; connecting you to the fediverse.
@@ -524,6 +536,8 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://github.com/terhechte/Ebou#signing--releasing)
    - [x] Linux and Mac
+
+- **Ferdium** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Sengi**
 
@@ -576,6 +590,8 @@ Based on ArmCord.
 
 ### Matrix
 
+- **Beeper** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Chatty**
 
    - A simple to use messaging app for 1:1 communication and small groups supporting SMS, MMS, Matrix and XMPP.
@@ -616,9 +632,11 @@ Based on ArmCord.
    - [x] [Download for free](https://github.com/alphapapa/ement.el?tab=readme-ov-file#installation)
    - [x] Linux
 
+- **Ferdium** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Fractal**
 
-   - Fractal is a Matrix messaging app for GNOME written in Rust. Its interface is optimised for collaboration in large groups, such as free software projects, and will fit all screens, big or small.
+   - Fractal is a Matrix messaging app for GNOME written in Rust. It's interface is optimised for collaboration in large groups, such as free software projects, and will fit all screens, big or small.
    - Official Website (N/A) | [Repo](https://gitlab.gnome.org/World/fractal)
    - [x] Open Source
    - [x] [Download for free](https://gitlab.gnome.org/World/fractal#installation-instructions)
@@ -658,7 +676,7 @@ Based on ArmCord.
 
 - **Moment**
 
-   - A fancy, customizable, keyboard-operable Matrix chat client for encrypted and decentralised communication. Written in Qt/QML and Python.
+   - A fancy, customisable, keyboard-operable Matrix chat client for encrypted and decentralised communication. Written in Qt/QML and Python.
    - [Official Website](https://mx-moment.xyz/) | [Repo](https://gitlab.com/mx-moment/moment)
    - [x] Open Source
    - [x] [Download for free](https://gitlab.com/mx-moment/moment/-/blob/main/docs/INSTALL.md#installation)
@@ -679,6 +697,8 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://github.com/Nheko-Reborn/nheko#installation-quicklinks)
    - [x] Linux, Mac and Windows
+
+- **Pidgin** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Quadrix**
 
@@ -715,6 +735,8 @@ Based on ArmCord.
 
 ### Messenger
 
+- **Beeper** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Caprine**
 
    - Caprine is an unofficial and privacy-focused Facebook Messenger app with many useful features.
@@ -722,6 +744,10 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://github.com/sindresorhus/caprine#install)
    - [x] Linux, Mac and Windows
+
+- **Ferdium** [(see Multi-service apps section)](#multi-service-apps)
+
+- **Pidgin** [(see Multi-service apps section)](#multi-service-apps)
 
 
 ### Plex
@@ -744,6 +770,8 @@ Based on ArmCord.
 
 
 ### Rocket.Chat
+
+- **Ferdium** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Ruqola**
 
@@ -783,6 +811,8 @@ Based on ArmCord.
    - [x] [Download for free](https://github.com/axolotl-chat/axolotl#installation)
    - [x] Linux
 
+- **Beeper** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Flare**
 
    - Flare is an unofficial app that lets you chat with your friends on Signal from Linux.
@@ -790,6 +820,8 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://gitlab.com/schmiddi-on-mobile/flare#installation)
    - [x] Linux
+
+- **Pidgin** [(see Multi-service apps section)](#multi-service-apps)
 
 
 ### Spotify
@@ -893,6 +925,10 @@ Based on ArmCord.
    - [x] [Download for free](https://github.com/AyuGram/AyuGramDesktop#downloads)
    - [x] Linux and Windows + Android
 
+- **Beeper** [(see Multi-service apps section)](#multi-service-apps)
+
+- **Ferdium** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Forkgram**
 
    - Forkgram is the fork of the official Telegram Desktop application. This fork does not fundamentally change the official client and adds only some useful small features.
@@ -924,6 +960,8 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://github.com/d99kris/nchat#install-using-package-manager)
    - [x] Linux and Mac
+
+- **Pidgin** [(see Multi-service apps section)](#multi-service-apps)
 
 - **tg**
 
@@ -1006,6 +1044,8 @@ Based on ArmCord.
    - [x] [Download for free](https://chatterino.com/#downloads)
    - [x] Linux, Mac and Windows
 
+- **Ferdium** [(see Multi-service apps section)](#multi-service-apps)
+
 - **twitch-tui**
 
    - A Terminal User Interface for reading and interacting with Twitch chat users, written in Rust.
@@ -1017,6 +1057,10 @@ Based on ArmCord.
 
 ### WhatsApp
 
+- **Beeper** [(see Multi-service apps section)](#multi-service-apps)
+
+- **Ferdium** [(see Multi-service apps section)](#multi-service-apps)
+
 - **nchat**
 
    - nchat is a terminal-based chat client for Linux and macOS with support for Telegram and WhatsApp.
@@ -1024,6 +1068,8 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://github.com/d99kris/nchat#install-using-package-manager)
    - [x] Linux and Mac
+
+- **Pidgin** [(see Multi-service apps section)](#multi-service-apps)
 
 - **WhatsApp for Linux**
 
@@ -1156,7 +1202,7 @@ Based on ArmCord.
 
 - **YouTube Music**
 
-   - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker/downloader) 
+   - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker/downloader).
    - [Official Website](https://th-ch.github.io/youtube-music/) | [Repo](https://github.com/th-ch/youtube-music)
    - [x] Open Source
    - [x] [Download for free](https://github.com/th-ch/youtube-music#download)
