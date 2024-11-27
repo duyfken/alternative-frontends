@@ -896,6 +896,13 @@ ___
    - [x] [Download for free](https://github.com/zacharee/MastodonRedirect#downloads)
    - [x] Android
 
+- **LibRedirect**
+
+   - A web extension that redirects YouTube, Twitter, TikTok... requests to alternative privacy friendly front-ends. The LibRedirect extension can be added to Firefox for Android and Chromium-based browsers like Yandex and Kiwi Browser.
+   - [Official Website](https://libredirect.github.io) | [Repo](https://github.com/libredirect/browser_extension)
+   - [x] Open Source
+   - [x] [Download for free](https://libredirect.github.io/download.html)
+
 - **LinkSheet**
 
    - LinkSheet restores the app chooser for tapped links, which was removed in Android 12. Includes experimental LibRedirect integration to redirect links to alternative front-end clients like those mentioned in the list you are currently reading.
