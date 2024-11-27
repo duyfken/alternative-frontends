@@ -896,6 +896,14 @@ ___
    - [x] [Download for free](https://github.com/zacharee/MastodonRedirect#downloads)
    - [x] Android
 
+- **LinkSheet**
+
+   - LinkSheet restores the app chooser for tapped links, which was removed in Android 12. Includes experimental LibRedirect integration to redirect links to alternative front-end clients like those mentioned in the list you are currently reading.
+   - Official Website (N/A) | [Repo](https://github.com/LinkSheet/LinkSheet) 
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/LinkSheet/LinkSheet?tab=readme-ov-file#nightly-builds)
+   - [x] Android
+
 - **Universal Android Debloater Next Generation**
 
    - This is a detached fork of the [UAD project](https://github.com/0x192/universal-android-debloater), which aims to improve privacy and battery performance by removing unnecessary and obscure system apps. This can also contribute to improving security by reducing (but not eliminating) [the attack surface](https://en.wikipedia.org/wiki/Attack_surface). The program is run on a computer which communicates to your Android device over ADB (Android Debug Bridge).
@@ -913,6 +921,8 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://framagit.org/tom79/nitterizeme#download)
    - [x] Android
+
+   ⓘ No updates since 2022. Recommend using LinkSheet.
 
 ___
 <sup>**Legal addendum**</sup>
