@@ -888,6 +888,14 @@ ___
 
 ### Tools
 
+- **Fediverse Redirect**
+
+   - A simple suite of apps for automatically launching fediverse links in your preferred Mastodon, Lemmy or PeerTube client.
+   - Official Website (N/A) | [Repo](https://github.com/zacharee/MastodonRedirect) 
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/zacharee/MastodonRedirect#downloads)
+   - [x] Android
+
 - **Universal Android Debloater Next Generation**
 
    - This is a detached fork of the [UAD project](https://github.com/0x192/universal-android-debloater), which aims to improve privacy and battery performance by removing unnecessary and obscure system apps. This can also contribute to improving security by reducing (but not eliminating) [the attack surface](https://en.wikipedia.org/wiki/Attack_surface). The program is run on a computer which communicates to your Android device over ADB (Android Debug Bridge).
