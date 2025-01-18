@@ -446,6 +446,15 @@ ___
    - [x] Self-Hostable | [Guide](https://github.com/pablouser1/ProxiTok#installation)
    - [x] Decentralised Options | [I2P](http://github.com/pablouser1/ProxiTok/wiki/Public-instances#i2p) | [Onion](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#tor)
 
+- **StickTock**
+
+   - StickTock allows users to view, share, and download TikTok videos without exposing themselves to invasive tracking.
+   - [Official Instance](https://sticktock.com/) | [Repo](https://github.com/PrivacySafe/sticktock)
+   - Public Instances (N/A)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/PrivacySafe/sticktock#getting-started)
+   - [x] Decentralised Options | [Onion](http://b7vypdv52igjfg7vwhlofny45koaa4ltletx67ranlwfotiiqwza2eyd.onion/)
+
 
 ### Translate
 
